@@ -5,5 +5,5 @@ d=c*200
 e=1.1+2
 f=3+4
 result = a+b+c+d+e+f
-print('resultado',result)
+print('El resultado es:',result)
 
