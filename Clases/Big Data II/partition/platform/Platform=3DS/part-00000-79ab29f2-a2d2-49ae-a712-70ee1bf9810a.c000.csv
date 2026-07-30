@@ -1,0 +1,510 @@
+Rank,Name,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+33,Pokemon X/Pokemon Y,2013,Role-Playing,Nintendo,5.17,4.05,4.34,0.79,14.35
+43,Mario Kart 7,2011,Racing,Nintendo,4.74,3.91,2.67,0.89,12.21
+50,Pokemon Omega Ruby/Pokemon Alpha Sapphire,2014,Role-Playing,Nintendo,4.23,3.37,3.08,0.65,11.33
+54,Super Mario 3D Land,2011,Platform,Nintendo,4.89,2.99,2.13,0.78,10.79
+65,New Super Mario Bros. 2,2012,Platform,Nintendo,3.66,3.07,2.47,0.63,9.82
+74,Animal Crossing: New Leaf,2012,Simulation,Nintendo,2.01,2.32,4.36,0.41,9.09
+98,Super Smash Bros. for Wii U and 3DS,2014,Fighting,Nintendo,3.24,1.35,2.42,0.43,7.45
+189,Tomodachi Life,2013,Simulation,Nintendo,0.96,2.02,1.89,0.28,5.15
+235,Luigi's Mansion: Dark Moon,2013,Action,Nintendo,1.78,1.39,1.1,0.3,4.58
+269,The Legend of Zelda: Ocarina of Time,2011,Action,Nintendo,2.03,1.27,0.62,0.3,4.21
+309,Monster Hunter 4 Ultimate,2014,Role-Playing,Nintendo,0.67,0.49,2.62,0.11,3.89
+322,Nintendogs + cats,2011,Simulation,Nintendo,1.44,1.37,0.73,0.27,3.81
+384,Monster Hunter 4,2013,Role-Playing,Capcom,0,0,3.44,0,3.44
+415,Monster Hunter X,2015,Action,Capcom,0.25,0.19,2.78,0.04,3.26
+420,Yokai Watch 2 Ganso/Honke,2014,Role-Playing,Nintendo,0.03,0,3.18,0,3.22
+455,The Legend of Zelda: A Link Between Worlds,2013,Action,Nintendo,1.4,0.99,0.46,0.22,3.07
+477,Animal Crossing: Happy Home Designer,2015,Simulation,Nintendo,0.47,1,1.39,0.12,2.98
+537,Monster Hunter Tri,2011,Role-Playing,Nintendo,0.46,0.29,1.96,0.07,2.79
+562,Yokai Watch 2 Shinuchi,2014,Role-Playing,Level 5,0,0,2.68,0,2.68
+682,The Legend of Zelda: Majora's Mask 3D,2015,Action,Nintendo,1.14,0.54,0.47,0.17,2.32
+701,Yokai Watch Busters,2015,Action,Level 5,0,0,2.28,0,2.28
+707,Paper Mario: Sticker Star,2012,Role-Playing,Nintendo,1.12,0.39,0.64,0.12,2.27
+822,Mario & Luigi: Dream Team,2013,Role-Playing,Nintendo,0.89,0.57,0.46,0.13,2.06
+849,Fire Emblem: Awakening,2012,Role-Playing,Nintendo,0.89,0.45,0.53,0.13,2
+913,Yokai Watch,2013,Role-Playing,Nintendo,0.21,0.3,1.33,0.04,1.89
+924,Donkey Kong Country Returns,2013,Platform,Nintendo,0.73,0.62,0.4,0.12,1.87
+936,Mario Party: Island Tour,2013,Misc,Nintendo,0.61,0.59,0.55,0.11,1.85
+953,Kirby: Triple Deluxe,2014,Platform,Nintendo,0.61,0.34,0.79,0.09,1.82
+977,Professor Layton and the Mask of Miracle,2011,Puzzle,Nintendo,0.32,0.95,0.36,0.14,1.78
+1178,Kingdom Hearts 3D: Dream Drop Distance,2012,Action,Square Enix,0.88,0.26,0.34,0.09,1.58
+1212,Fire Emblem Fates,2015,Role-Playing,Nintendo,0.71,0.22,0.52,0.1,1.54
+1247,Puzzle & Dragons,2013,Role-Playing,GungHo,0,0,1.51,0,1.51
+1316,LEGO City Undercover,2013,Platform,Nintendo,0.51,0.75,0.07,0.12,1.46
+1355,Dragon Quest VII: Warriors of Eden,2013,Role-Playing,Square Enix,0.07,0.04,1.3,0.01,1.42
+1404,Bravely Default: Flying Fairy,2012,Role-Playing,Nintendo,0.5,0.32,0.49,0.07,1.38
+1432,Yoshi's New Island,2014,Platform,Nintendo,0.47,0.51,0.28,0.09,1.36
+1550,Kid Icarus: Uprising,2012,Action,Nintendo,0.48,0.35,0.36,0.07,1.28
+1557,Pokemon Mystery Dungeon: Gates to Infinity,2012,Role-Playing,Nintendo,0.44,0.3,0.47,0.06,1.27
+1570,Yokai Watch 3,2016,Action,Level 5,0,0,1.27,0,1.27
+1652,Super Street Fighter IV: 3D Edition,2011,Fighting,Capcom,0.55,0.44,0.14,0.09,1.22
+1694,Mario & Sonic at the London 2012 Olympic Games,2012,Sports,Sega,0.18,0.64,0.27,0.1,1.19
+1704,Pokemon Super Mystery Dungeon,2015,Role-Playing,Nintendo,0.46,0.31,0.33,0.08,1.19
+1783,Pokemon Rumble Blast,2011,Action,Nintendo,0.47,0.26,0.35,0.07,1.14
+1805,LEGO Star Wars III: The Clone Wars,2011,Action,LucasArts,0.61,0.43,0,0.09,1.13
+1808,Fantasy Life,2012,Role-Playing,Nintendo,0.33,0.37,0.37,0.06,1.13
+1852,The Legend of Zelda: Tri Force Heroes,2015,Action,Nintendo,0.52,0.33,0.17,0.08,1.1
+2046,Sonic Generations,2011,Platform,Sega,0.44,0.46,0.01,0.09,1.01
+2164,Dragon Quest Monsters: Terry's Wonderland 3D,2012,Role-Playing,Square Enix,0,0,0.96,0,0.96
+2171,PilotWings Resort,2011,Simulation,Nintendo,0.4,0.36,0.13,0.07,0.96
+2199,Star Fox 64 3D,2011,Shooter,Nintendo,0.48,0.27,0.13,0.07,0.94
+2206,Mario Tennis Open,2012,Sports,Nintendo,0.26,0.29,0.33,0.05,0.94
+2263,Disney Magical World,2013,Adventure,Nintendo,0.16,0.2,0.53,0.03,0.92
+2279,Harvest Moon 3D: A New Beginning,2012,Action,Marvelous Entertainment,0.41,0.17,0.29,0.05,0.91
+2346,LEGO Marvel Super Heroes,2013,Action,Warner Bros. Interactive Entertainment,0.42,0.36,0.04,0.07,0.89
+2364,Resident Evil: Revelations,2012,Action,Capcom,0.3,0.22,0.3,0.05,0.88
+2411,Monster Strike 3DS,2015,Action,"mixi, Inc",0,0,0.86,0,0.86
+2419,Dragon Quest VIII: Journey of the Cursed King,2015,Role-Playing,Square Enix,0,0,0.86,0,0.86
+2450,Kirby: Planet Robobot,2016,Action,Nintendo,0.26,0.1,0.44,0.04,0.85
+2521,Tales of the Abyss,2011,Role-Playing,Namco Bandai Games,0.42,0.19,0.14,0.06,0.82
+2554,Professor Layton vs Phoenix Wright: Ace Attorney,2012,Puzzle,Level 5,0.2,0.26,0.3,0.04,0.81
+2616,Dragon Quest Monsters 2,2014,Role-Playing,Square Enix,0,0,0.79,0,0.79
+2629,Professor Layton and the Azran Legacy,2013,Puzzle,Nintendo,0,0.48,0.25,0.06,0.78
+2692,The Sims 3,2011,Simulation,Electronic Arts,0.3,0.37,0.03,0.07,0.76
+2771,LEGO Batman 2: DC Super Heroes,2012,Action,Warner Bros. Interactive Entertainment,0.41,0.27,0,0.06,0.74
+2773,Mario & Luigi: Paper Jam,2015,Role-Playing,Nintendo,0.16,0.3,0.25,0.04,0.74
+2824,Style Savvy: Trendsetters,2012,Simulation,Nintendo,0.16,0.02,0.53,0.01,0.72
+2870,Persona Q: Shadow of the Labyrinth,2014,Role-Playing,Nippon Ichi Software,0.33,0.07,0.27,0.04,0.71
+2884,Rhythm Heaven: The Best+,2015,Misc,Nintendo,0,0,0.71,0,0.71
+2944,The LEGO Movie Videogame,2014,Action,Warner Bros. Interactive Entertainment,0.28,0.31,0.05,0.05,0.69
+2967,Nintendo Presents: New Style Boutique 2 - Fashion Forward,2015,Misc,Nintendo,0.01,0.61,0.02,0.04,0.69
+3150,Rayman 3D,2011,Platform,Ubisoft,0.23,0.35,0,0.06,0.64
+3203,Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb,2012,Misc,Namco Bandai Games,0,0,0.63,0,0.63
+3208,Angry Birds Trilogy,2012,Action,Activision,0.38,0.2,0,0.05,0.63
+3223,Dragon Quest Monsters Joker 3,2016,Role-Playing,Square Enix,0,0,0.63,0,0.63
+3252,LEGO Pirates of the Caribbean: The Video Game,2011,Action,Disney Interactive Studios,0.29,0.28,0,0.06,0.62
+3280,Toshochu: Run for Money,2012,Adventure,Namco Bandai Games,0,0,0.62,0,0.62
+3300,Cooking Mama 4: Kitchen Magic!,2011,Simulation,505 Games,0.5,0.07,0,0.04,0.61
+3351,LEGO Jurassic World,2015,Action,Warner Bros. Interactive Entertainment,0.31,0.22,0.03,0.05,0.6
+3373,Scribblenauts: Unlimited,2012,Action,Warner Bros. Interactive Entertainment,0.55,0.01,0,0.04,0.6
+3463,Frozen: Olaf's Quest,2013,Platform,Disney Interactive Studios,0.27,0.26,0,0.05,0.58
+3506,Shin Megami Tensei IV,2013,Role-Playing,Atlus,0.28,0,0.27,0.02,0.57
+3541,Skylanders: Spyro's Adventure,2011,Action,Activision,0.32,0.2,0,0.05,0.57
+3595,Xenoblade Chronicles,2015,Role-Playing,Nintendo,0.26,0.14,0.12,0.04,0.56
+3650,Yokai Sangokushi,2016,Action,Level 5,0,0,0.55,0,0.55
+3676,Rune Factory 4,2012,Role-Playing,Xseed Games,0.31,0,0.21,0.03,0.55
+3745,Inazuma Eleven GO,2011,Role-Playing,Nintendo,0,0.05,0.48,0,0.54
+3848,Final Fantasy Explorers,2014,Role-Playing,Square Enix,0.15,0.07,0.28,0.02,0.52
+3975,Theatrhythm: Final Fantasy,2012,Misc,Square Enix,0.22,0.07,0.18,0.02,0.5
+4019,Ridge Racer 3D,2011,Racing,Namco Bandai Games,0.19,0.15,0.12,0.03,0.5
+4022,Resident Evil: The Mercenaries 3D,2011,Action,Capcom,0.16,0.17,0.13,0.03,0.49
+4023,Super Monkey Ball 3D,2011,Action,Sega,0.26,0.15,0.05,0.04,0.49
+4034,Sonic Lost World,2013,Platform,Sega,0.24,0.15,0.07,0.03,0.49
+4046,Pokemon Art Academy,2014,Misc,Nintendo,0.18,0.12,0.16,0.03,0.49
+4057,Epic Mickey: Power of Illusion,2012,Action,Disney Interactive Studios,0.36,0.04,0.04,0.04,0.49
+4072,Asphalt 3D,2011,Racing,Ubisoft,0.27,0.16,0.02,0.04,0.49
+4074,Steel Diver,2011,Action,Nintendo,0.31,0.1,0.05,0.03,0.49
+4093,Mario Golf: World Tour,2014,Sports,Nintendo,0.15,0.14,0.17,0.03,0.48
+4152,Bravely Second: End Layer,2015,Role-Playing,Nintendo,0.16,0.11,0.18,0.03,0.47
+4215,Inazuma Eleven Go 2: Chrono Stone,2012,Role-Playing,Level 5,0,0.01,0.46,0,0.47
+4249,Art Academy: Lessons for Everyone,2012,Action,Nintendo,0.2,0.03,0.21,0.02,0.46
+4263,Mario & Sonic at the Rio 2016 Olympic Games,2016,Action,Nintendo,0.04,0.16,0.24,0.01,0.46
+4301,Puzzle & Dragons Z + Super Mario Bros. Edition,2015,Puzzle,Nintendo,0.05,0.05,0.34,0.01,0.46
+4316,Lego Batman 3: Beyond Gotham,2014,Action,Warner Bros. Interactive Entertainment,0.21,0.21,0,0.04,0.45
+4331,Dead or Alive: Dimensions,2011,Fighting,Ubisoft Annecy,0.13,0.21,0.07,0.03,0.45
+4370,FIFA 15,2014,Sports,Electronic Arts,0.09,0.33,0,0.03,0.45
+4496,Tetris Axis,2011,Puzzle,Tetris Online,0.2,0.13,0.06,0.03,0.43
+4587,Hometown Story,2013,Role-Playing,Rising Star Games,0.22,0.13,0.04,0.04,0.42
+4660,Hyrule Warriors,2016,Action,Nintendo,0.16,0.12,0.11,0.03,0.42
+4679,Attack on Titan: Humanity in Chains,2013,Action,Screenlife,0,0,0.41,0,0.41
+4784,Story of Seasons,2014,Simulation,Nintendo,0,0.13,0.26,0.01,0.4
+4793,LEGO Harry Potter: Years 5-7,N/A,Action,Warner Bros. Interactive Entertainment,0.18,0.19,0,0.04,0.4
+4884,LEGO The Lord of the Rings,2012,Action,Warner Bros. Interactive Entertainment,0.19,0.17,0,0.03,0.39
+4906,FIFA 12,2011,Sports,Electronic Arts,0.08,0.26,0,0.05,0.39
+4919,Project X Zone,2012,Role-Playing,Namco Bandai Games,0.18,0.04,0.15,0.02,0.39
+4926,Combat of Giants: Dinosaurs 3D,2011,Strategy,Ubisoft,0.25,0.06,0.05,0.03,0.39
+4958,Madden NFL Football,2011,Sports,Electronic Arts,0.36,0.01,0,0.03,0.39
+4971,Samurai Warriors Chronicles,2011,Action,Tecmo Koei,0.12,0.05,0.2,0.01,0.39
+4979,One Piece: Unlimited World Red,2013,Action,Namco Bandai Games,0.05,0.04,0.28,0.01,0.38
+5012,Raving Rabbids: Travel in Time 3D,2011,Platform,Ubisoft,0.11,0.23,0,0.04,0.38
+5023,Phoenix Wright: Ace Attorney - Dual Destinies,2013,Adventure,Capcom,0,0,0.38,0,0.38
+5028,Metal Gear Solid: Snake Eater 3D,2012,Action,Konami Digital Entertainment,0.15,0.11,0.1,0.02,0.38
+5054,Etrian Odyssey IV: Legends of the Titans,2012,Role-Playing,Atlus,0.12,0.05,0.2,0.01,0.38
+5075,Pro Evolution Soccer 2011 3D,2011,Sports,Konami Digital Entertainment,0.11,0.13,0.11,0.02,0.38
+5076,Shin Megami Tensei: Devil Survivor Overclocked,2011,Role-Playing,Ghostlight,0.28,0.01,0.06,0.02,0.38
+5147,Theatrhythm Final Fantasy: Curtain Call,2014,Misc,Square Enix,0.13,0.08,0.15,0.02,0.37
+5279,Sentouchu: Densetsu no Shinobi to Survival Battle!,2013,Action,Namco Bandai Games,0,0,0.35,0,0.35
+5289,Fossil Fighters: Frontier,2014,Role-Playing,Nintendo,0.08,0.04,0.23,0.01,0.35
+5399,Tom Clancy's Ghost Recon: Shadow Wars,2011,Strategy,Ubisoft,0.22,0.09,0,0.03,0.34
+5418,Angry Birds Star Wars,2013,Strategy,Activision,0.15,0.15,0,0.03,0.34
+5556,Dragon Ball Z: Extreme Butoden,2015,Fighting,Namco Bandai Games,0.12,0.03,0.16,0.02,0.33
+5717,Bust-A-Move Universe,2011,Puzzle,Square Enix,0.08,0.15,0.06,0.03,0.31
+5727,Hatsune Miku: Project Mirai DX,2015,Misc,Sega,0.15,0.04,0.1,0.02,0.31
+5728,Dragon Ball Heroes: Ultimate Mission 2,2014,Strategy,Namco Bandai Games,0,0,0.31,0,0.31
+5765,Taiko Drum Master: Don and Katsu's Space-Time Great Adventure,2014,Action,Namco Bandai Games,0,0,0.31,0,0.31
+5821,LEGO Legends of Chima: Laval's Journey,2013,Adventure,Warner Bros. Interactive Entertainment,0.18,0.1,0,0.03,0.31
+5873,Tom Clancy's Splinter Cell 3D,2011,Action,Ubisoft,0.14,0.07,0.07,0.02,0.3
+5895,One Piece Unlimited Cruise SP,2011,Action,Namco Bandai Games,0,0,0.3,0,0.3
+5909,Shin Megami Tensei: Devil Summoner - Soul Hackers,2012,Role-Playing,Atlus,0.13,0.02,0.14,0.01,0.3
+5915,Harvest Moon: The Tale of Two Towns,N/A,Simulation,Unknown,0.28,0,0,0.02,0.3
+6022,FIFA Soccer 13,2012,Action,Electronic Arts,0.06,0.2,0,0.03,0.29
+6042,Disney Infinity,2013,Action,Disney Interactive Studios,0.16,0.1,0,0.02,0.29
+6045,Sonic Boom: Shattered Crystal,2014,Action,Sega,0.17,0.09,0,0.03,0.29
+6068,Sonic & All-Stars Racing Transformed,2012,Racing,Sega,0.12,0.15,0,0.02,0.29
+6072,Dragon Ball Heroes: Ultimate Mission,2013,Misc,Namco Bandai Games,0,0,0.29,0,0.29
+6206,Moshi Monsters: Moshlings Theme Park,2012,Misc,Activision,0.13,0.13,0,0.03,0.28
+6258,Kobitodzukan: Kobito Kansatsu Set,2012,Misc,Nippon Columbia,0,0,0.28,0,0.28
+6311,Rhythm Thief & the Emperor's Treasure,2012,Misc,Sega,0.07,0.07,0.12,0.01,0.27
+6351,Tohoku Daigaku Karei Igaku Kenkyuusho - Kawashima Ryuuta Kyouju Kanshuu - Mono Sugoku Nou o Kitaeru 5-Funkan no Oni Training,2012,Action,Nintendo,0,0,0.27,0,0.27
+6392,Ace Attorney 6,2016,Adventure,Capcom,0,0,0.27,0,0.27
+6395,Batman: Arkham Origins Blackgate,2013,Action,Warner Bros. Interactive Entertainment,0.16,0.09,0,0.02,0.27
+6409,Ultimate NES Remix,2014,Action,Unknown,0.15,0.09,0,0.02,0.27
+6462,Aikatsu! 2-nin no My Princess,2013,Action,Namco Bandai Games,0,0,0.26,0,0.26
+6482,Inazuma Eleven GO 3: Galaxy,2013,Sports,Level 5,0,0,0.26,0,0.26
+6510,Skylanders: Trap Team,2014,Action,Activision,0.14,0.1,0,0.02,0.26
+6518,Etrian Odyssey Untold: The Millennium Girl,2013,Role-Playing,Atlus,0.1,0.01,0.14,0.01,0.26
+6628,Zoo Resort 3D,2011,Simulation,Ubisoft,0.11,0.09,0.03,0.02,0.25
+6663,FIFA 14,2013,Sports,Electronic Arts,0,0.23,0,0.03,0.25
+6712,The Legend of Legacy,2015,Role-Playing,FuRyu,0.11,0.02,0.1,0.01,0.25
+6766,How to Train Your Dragon 2,2014,Adventure,Little Orbit,0.04,0.19,0,0.02,0.25
+6802,Ace Combat: Assault Horizon Legacy,2011,Simulation,Namco Bandai Games,0.1,0.06,0.08,0.01,0.24
+6828,Skylanders SWAP Force,2013,Platform,Activision,0.1,0.12,0,0.02,0.24
+6841,Stella Glow,2015,Role-Playing,Atlus,0.16,0.01,0.05,0.02,0.24
+6892,LEGO The Hobbit,2014,Action,Warner Bros. Interactive Entertainment,0.09,0.13,0,0.02,0.24
+6902,Chibi-Robo! Zip Lash,2015,Platform,Nintendo,0.09,0.08,0.06,0.02,0.24
+6963,Etrian Mystery Dungeon,2015,Role-Playing,Nippon Ichi Software,0.09,0.01,0.12,0.01,0.23
+6979,Girls Mode 3: Kirakira Code,2015,Action,Nintendo,0,0,0.23,0,0.23
+7071,WWE All Stars,2011,Fighting,THQ,0.15,0.06,0,0.02,0.23
+7075,Wipeout 2,2011,Misc,Activision,0.22,0,0,0.01,0.23
+7133,Cars 2,2011,Racing,Disney Interactive Studios,0.21,0,0,0.02,0.23
+7166,Hatsune Miku: Project Mirai 2,2013,Action,Sega,0,0,0.22,0,0.22
+7197,Shinobi,2011,Platform,Sega,0.14,0.07,0,0.02,0.22
+7273,Spirit Camera: The Cursed Memoir,2012,Adventure,Nintendo,0.12,0.02,0.06,0.01,0.22
+7292,Code Name: S.T.E.A.M.,2015,Strategy,Nintendo,0.14,0.05,0.01,0.02,0.22
+7329,Transformers: Dark of the Moon,2011,Action,Activision,0.16,0.04,0,0.02,0.21
+7348,Magician's Quest: Town of Magic,2012,Simulation,Konami Digital Entertainment,0,0,0.21,0,0.21
+7389,Senran Kagura 2: Deep Crimson,2014,Action,Marvelous Entertainment,0.09,0.03,0.08,0.01,0.21
+7419,Heroes of Ruin,2012,Role-Playing,Nintendo,0.13,0.07,0,0.02,0.21
+7483,Little Battlers eXperience: Baku Boost,2012,Action,Nintendo,0,0,0.21,0,0.21
+7488,LEGO Ninjago: Shadow of Ronin,2015,Action,Warner Bros. Interactive Entertainment,0.05,0.1,0.04,0.01,0.21
+7513,Frogger 3D,2011,Action,Konami Digital Entertainment,0.16,0.03,0,0.01,0.2
+7546,Tekken 3D: Prime Edition,2012,Fighting,Nintendo,0.06,0.08,0.05,0.01,0.2
+7631,Code of Princess,2012,Action,Agatsuma Entertainment,0.16,0,0.03,0.01,0.2
+7674,Puzzle & Dragons X: God Chapter / Dragon Chapter,2016,Action,GungHo,0,0,0.2,0,0.2
+7720,Aikatsu! Cinderella Lesson,2012,Role-Playing,Namco Bandai Games,0,0,0.2,0,0.2
+7723,Mega Man Legacy Collection,2016,Platform,Capcom,0.13,0,0.05,0.02,0.2
+7726,WipeOut 3 The Game,2012,Action,Activision,0.18,0,0,0.01,0.2
+7772,Pac-Man & Galaga Dimensions,2011,Misc,Namco Bandai Games,0.1,0.04,0.04,0.01,0.19
+7784,Great Phoenix Wright: Ace Attorney - Naruhodou Ryuunosuke no Bouken,2015,Action,Capcom,0,0,0.19,0,0.19
+7789,New Love Plus,2012,Simulation,Konami Digital Entertainment,0,0,0.19,0,0.19
+7804,Need for Speed: The Run,2011,Action,Electronic Arts,0.09,0.09,0,0.02,0.19
+7814,Story of Seasons: Good Friends of the Three Villages,2016,Simulation,Marvelous Interactive,0,0,0.19,0,0.19
+7851,SpongeBob SquigglePants 3D,2011,Misc,THQ,0.13,0.05,0,0.02,0.19
+7858,The Amazing Spider-Man (Console Version),2012,Action,Activision,0.15,0.03,0,0.01,0.19
+7868,Disney Magic World 2,2015,Action,Nintendo,0,0,0.19,0,0.19
+7910,Pet Zombies,N/A,Simulation,Majesco Entertainment,0.18,0,0,0.01,0.19
+7915,NASCAR Unleashed,2011,Racing,Activision,0.18,0,0,0.01,0.19
+7953,Kuma-Tomo,2013,Misc,Namco Bandai Games,0,0,0.19,0,0.19
+7960,Reel Fishing Paradise 3D,2011,Sports,Marvelous Interactive,0.12,0,0.06,0.01,0.19
+7971,Pro Evolution Soccer 2014,2013,Action,Konami Digital Entertainment,0,0,0.19,0,0.19
+8060,Hatsune Miku and Future Stars: Project Mirai,2012,Misc,Sega,0,0,0.18,0,0.18
+8065,LEGO Marvel's Avengers,2016,Action,Warner Bros. Interactive Entertainment,0.07,0.08,0.01,0.01,0.18
+8080,Super Robot Taisen UX,2013,Role-Playing,Namco Bandai Games,0,0,0.18,0,0.18
+8120,Daigasso! Band Brothers P,2013,Misc,Nintendo,0,0,0.18,0,0.18
+8142,Pro Evolution Soccer 2013,2012,Sports,Konami Digital Entertainment,0.05,0.02,0.1,0.01,0.18
+8216,Yu-Gi-Oh! Zexal World Duel Carnival,2013,Misc,Konami Digital Entertainment,0,0.08,0.08,0.01,0.17
+8295,Shin Megami Tensei IV: Final,2016,Role-Playing,Deep Silver,0.03,0,0.14,0,0.17
+8328,Transformers: Prime,2012,Action,Activision,0.13,0.03,0,0.01,0.17
+8391,Michael Jackson: The Experience 3D,2011,Misc,Ubisoft,0.13,0.03,0,0.01,0.17
+8429,Dragon Quest X,2014,Role-Playing,Square Enix,0,0,0.17,0,0.17
+8432,Sumikko Gurashi: Koko ga Ochitsukundesu,2014,Action,Nippon Columbia,0,0,0.17,0,0.17
+8446,Dragon Ball: Fusions,2016,Role-Playing,Namco Bandai Games,0,0,0.17,0,0.17
+8456,Project X Zone 2: Brave New World,2015,Role-Playing,Namco Bandai Games,0.04,0.04,0.08,0.01,0.17
+8482,F1 2011,2011,Racing,Codemasters,0.07,0.08,0,0.02,0.16
+8509,Doctor Lautrec and the Forgotten Knights,2011,Adventure,Konami Digital Entertainment,0.07,0.05,0.03,0.01,0.16
+8532,SD Gundam G Generation 3D,2011,Role-Playing,Namco Bandai Games,0,0,0.16,0,0.16
+8678,7th Dragon III Code: VFD,2015,Role-Playing,Sega,0.03,0,0.12,0,0.16
+8680,Culdcept,2012,Misc,Nintendo,0,0,0.16,0,0.16
+8698,Toriko: Gourmet Monsters!,2012,Role-Playing,Namco Bandai Games,0,0,0.16,0,0.16
+8706,Senran Kagura: Sh?jo-tachi no Shinei,2011,Action,Marvelous Interactive,0,0,0.16,0,0.16
+8731,James Noir's Hollywood Crimes,2011,Adventure,Ubisoft,0.07,0.07,0,0.02,0.15
+8749,Harvest Moon: The Lost Valley,2014,Simulation,Natsume,0.12,0.02,0,0.01,0.15
+8764,The Adventures of Tintin: The Game,2011,Action,Ubisoft,0.05,0.09,0,0.02,0.15
+8801,Theatrhythm Dragon Quest,2015,Misc,Square Enix,0,0,0.15,0,0.15
+8803,Naruto: Powerful Shippuden,2012,Platform,Namco Bandai Games,0.08,0.02,0.04,0.01,0.15
+8847,Castlevania: Lords of Shadow - Mirror of Fate,2013,Action,Konami Digital Entertainment,0.04,0.07,0.03,0.01,0.15
+8858,Return to PopoloCrois: A Story of Seasons Fairytale,2015,Simulation,Marvelous Entertainment,0.04,0,0.1,0.01,0.15
+8948,Hoppechan: Tsukutte! Asonde! Punipuni Town!!,2013,Action,Nippon Columbia,0,0,0.15,0,0.15
+8953,Rayman Origins,2012,Platform,Ubisoft,0.06,0.08,0,0.01,0.15
+8965,Pac-Man Party 3D,2011,Misc,Namco Bandai Games,0.09,0.04,0,0.01,0.15
+9009,Derby Stallion Gold,2014,Sports,Kadokawa Shoten,0,0,0.14,0,0.14
+9010,Adventure Time: Explore the Dungeon Because I Don't Know!,2013,Action,D3Publisher,0.1,0.03,0,0.01,0.14
+9063,Cave Story 3D,2011,Platform,Nippon Ichi Software,0.09,0.03,0.01,0.01,0.14
+9073,Senran Kagura Burst: Guren no Sh?jo-tachi,2012,Action,Marvelous Entertainment,0,0,0.14,0,0.14
+9105,Sumikko Gurashi: Omise Hajimerundesu,2015,Action,Nippon Columbia,0,0,0.14,0,0.14
+9128,Farming Simulator 2012,2012,Action,Excalibur Publishing,0,0.12,0,0.02,0.14
+9178,Skylanders Giants,2012,Action,Activision,0.12,0.01,0,0.01,0.14
+9186,Monster Hunter Diary: Poka Poka Airou Village DX,2015,Action,Capcom,0,0,0.14,0,0.14
+9245,Famista Returns,2015,Sports,Namco Bandai Games,0,0,0.14,0,0.14
+9274,BIT.TRIP SAGA,2011,Misc,Rising Star Games,0.09,0.04,0,0.01,0.14
+9339,Medalot 7,2012,Action,Rocket Company,0,0,0.13,0,0.13
+9362,Shovel Knight,2015,Platform,Yacht Club Games,0.07,0.04,0.01,0.01,0.13
+9366,Ben 10 Galactic Racing,2011,Racing,D3Publisher,0.07,0.06,0,0.01,0.13
+9408,Teenage Mutant Ninja Turtles: Danger of the Ooze,2014,Adventure,Activision,0.08,0.04,0,0.01,0.13
+9419,Super Robot Wars BX,2015,Action,Namco Bandai Games,0,0,0.13,0,0.13
+9447,Slime MoriMori Dragon Quest 3: Taikaizoku to Shippo Dan,2011,Role-Playing,Square Enix,0,0,0.13,0,0.13
+9469,The Oregon Trail,2011,Simulation,Crave Entertainment,0.12,0,0,0.01,0.13
+9522,Imagine: Fashion Designer,2011,Simulation,Ubisoft,0.1,0.02,0,0.01,0.13
+9536,Puyo Puyo!! 20th Anniversary,2011,Puzzle,Sega,0,0,0.13,0,0.13
+9542,Green Lantern: Rise of the Manhunters,2011,Action,Warner Bros. Interactive Entertainment,0.09,0.03,0,0.01,0.13
+9546,Puppies 3D,2011,Misc,Ubisoft,0.08,0.04,0,0.01,0.13
+9583,Assassination Classroom: Grand Siege on Kuro-sensei,2015,Action,Namco Bandai Games,0,0,0.13,0,0.13
+9631,Little Battlers eXperience: Wars,2013,Strategy,Level 5,0,0,0.13,0,0.13
+9634,Aikatsu! 365 Idol Days,2014,Adventure,Namco Bandai Games,0,0,0.13,0,0.13
+9736,Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi,2014,Misc,Namco Bandai Games,0,0,0.12,0,0.12
+9773,Crush3D,2012,Platform,Sega,0.07,0.04,0,0.01,0.12
+9782,Shin Megami Tensei: Devil Survivor 2,2015,Role-Playing,Atlus,0,0.03,0.09,0,0.12
+9824,Conception II: Children of the Seven Stars,2013,Role-Playing,Screenlife,0.09,0,0.03,0.01,0.12
+9862,DreamWorks Super Star Kartz,2011,Racing,Activision,0.08,0.03,0,0.01,0.12
+9894,One Piece: Super Grand Battle! X,2014,Fighting,Namco Bandai Games,0,0,0.12,0,0.12
+9898,Deca Sports Extreme,2011,Sports,Hudson Soft,0.08,0,0.03,0.01,0.12
+9911,Etrian Odyssey V,2016,Role-Playing,Atlus,0,0,0.12,0,0.12
+9923,Jaws: Ultimate Predator,2011,Action,Majesco Entertainment,0.11,0,0,0.01,0.12
+9933,Spider-Man: Edge of Time,2011,Action,Activision,0.08,0.03,0,0.01,0.12
+9984,Brunswick Pro Bowling,2011,Sports,Crave Entertainment,0.11,0,0,0.01,0.12
+10037,Pocket Soccer League: Calciobit,2012,Sports,Nintendo,0,0,0.11,0,0.11
+10059,Puyo Puyo Tetris,2014,Puzzle,Sega,0,0,0.11,0,0.11
+10088,Skylanders: SuperChargers,2015,Action,Activision,0.05,0.06,0,0.01,0.11
+10129,Funky Barn,2012,Simulation,Ubisoft,0.07,0.03,0,0.01,0.11
+10154,Super Run For Money Tousouchuu Atsumare! Saikyou no Tousou Monotachi,2015,Action,Namco Bandai Games,0,0,0.11,0,0.11
+10161,Happy Feet Two,2011,Action,Warner Bros. Interactive Entertainment,0.08,0.02,0,0.01,0.11
+10179,NCIS 3D,2011,Adventure,Ubisoft,0.06,0.04,0,0.01,0.11
+10186,DualPenSports,2011,Sports,Namco Bandai Games,0.05,0.05,0,0.01,0.11
+10240,Gabrielle's Ghostly Groove 3D,2011,Adventure,Funbox Media,0.08,0.02,0,0.01,0.11
+10244,AKB48+Me,2012,Action,Unknown,0,0,0.11,0,0.11
+10299,PriPara Mezase! Idol Grand Prix No.1!,2015,Misc,Takara Tomy,0,0,0.11,0,0.11
+10320,Picross 3D 2,2015,Puzzle,Nintendo,0,0,0.11,0,0.11
+10358,BlazBlue: Continuum Shift II,2011,Fighting,PQube,0.05,0.01,0.04,0.01,0.11
+10362,Naruto Shippuden 3D: The New Era,2011,Action,505 Games,0,0.04,0.06,0.01,0.11
+10388,Tales of the World: Reve Unitia,2014,Role-Playing,Namco Bandai Games,0,0,0.11,0,0.11
+10483,Etrian Odyssey II: Heroes of Lagaard,2014,Role-Playing,Atlus,0,0,0.1,0,0.1
+10499,Little Battlers eXperience W,2013,Role-Playing,Level 5,0,0,0.1,0,0.1
+10515,Samurai Warriors Chronicles 2nd,2012,Action,Ubisoft Annecy,0,0,0.1,0,0.1
+10663,Marvel Super Hero Squad: The Infinity Gauntlet,2011,Action,THQ,0.07,0.02,0,0.01,0.1
+10689,Generator Rex: Agent of Providence,2011,Action,Activision,0.07,0.02,0,0.01,0.1
+10701,Scribblenauts Unmasked: A DC Comics Adventure,2013,Puzzle,Warner Bros. Interactive Entertainment,0.09,0,0,0.01,0.1
+10730,Cubic Ninja,2011,Platform,Ubisoft,0.05,0.04,0,0.01,0.1
+10734,Pinball Hall of Fame: The Williams Collection,2011,Misc,Crave Entertainment,0.09,0,0,0.01,0.1
+10739,Thor: God of Thunder,2011,Action,Sega,0.06,0.03,0,0.01,0.1
+10805,Cartoon Network: Punch Time Explosion,2011,Fighting,Deep Silver,0.07,0.02,0,0.01,0.1
+10807,Disney Planes Fire & Rescue,2014,Action,Disney Interactive Studios,0.01,0.08,0,0.01,0.1
+10813,Kuroko's Basketball: Miracle Game,2014,Sports,Namco Bandai Games,0,0,0.1,0,0.1
+10829,Taiko no Tatsujin: Don Don! Mystery Adventure,2016,Action,Namco Bandai Games,0,0,0.09,0,0.09
+10858,Ouchi Mainichi Tamagotchi,2012,Action,Namco Bandai Games,0,0,0.09,0,0.09
+10865,PAC-MAN and the Ghostly Adventures,2013,Platform,Namco Bandai Games,0.05,0.04,0,0.01,0.09
+10903,Etrian Odyssey 2 Untold: Knight of Fafnir,2014,Role-Playing,Atlus,0.07,0.02,0,0.01,0.09
+10925,Brain Age: Concentration Training,2012,Puzzle,Nintendo,0.09,0,0,0.01,0.09
+10983,Driver: Renegade,2011,Racing,Ubisoft,0.05,0.04,0,0.01,0.09
+10994,Pokemon Rumble World,2015,Action,Nintendo,0,0.01,0.08,0,0.09
+11012,Disney Art Academy,2016,Action,Nintendo,0.01,0.01,0.07,0,0.09
+11035,Cardfight!! Vanguard: Ride to Victory,2013,Misc,FuRyu,0,0,0.09,0,0.09
+11044,Carnival Games: Wild West 3D,2011,Misc,Take-Two Interactive,0.06,0.02,0,0.01,0.09
+11053,Inazuma Eleven 3,2013,Role-Playing,Nintendo,0,0.08,0,0.01,0.09
+11141,Mahjong Cub3D,2011,Puzzle,Sunsoft,0.07,0,0.02,0,0.09
+11153,Digimon World Re:Digitize Decode,2013,Role-Playing,Namco Bandai Games,0,0,0.09,0,0.09
+11246,Lost Heroes,2012,Role-Playing,Namco Bandai Games,0,0,0.09,0,0.09
+11254,Kuroko's Basketball: Ties to Future,2015,Action,Namco Bandai Games,0,0,0.08,0,0.08
+11317,Captain America: Super Soldier,2011,Action,Sega,0.05,0.02,0,0.01,0.08
+11329,The Seven Deadly Sins: Unjust Sin,2015,Adventure,Namco Bandai Games,0,0,0.08,0,0.08
+11340,Nano Assault,2011,Shooter,Majesco Entertainment,0.08,0,0,0.01,0.08
+11349,Nikoli's Pencil Puzzle,2011,Puzzle,Hudson Soft,0.05,0.03,0,0.01,0.08
+11360,Gundam the 3D Battle,2011,Action,Namco Bandai Games,0,0,0.08,0,0.08
+11378,Face Racers: Photo Finish,N/A,Racing,Majesco Entertainment,0.08,0,0,0,0.08
+11386,Pretty Rhythm: My Deco Rainbow Wedding,2013,Misc,Takara Tomy,0,0,0.08,0,0.08
+11387,Kamen Rider: Travelers Senki,2013,Action,Seventh Chord,0,0,0.08,0,0.08
+11407,One Piece: Romance Dawn - Bouken no Yoake,2013,Fighting,Namco Bandai Games,0,0,0.08,0,0.08
+11429,Pretty Rhythm Rainbow Live: Kira Kira My * Design,2013,Misc,Takara Tomy,0,0,0.08,0,0.08
+11432,Adventure Time: The Secret of the Nameless Kingdom,2014,Action,Little Orbit,0,0.07,0,0,0.08
+11454,Pac-Man and the Ghostly Adventures 2,2014,Adventure,Namco Bandai Games,0.03,0.05,0,0.01,0.08
+11457,The Hidden,N/A,Adventure,Unknown,0.08,0,0,0,0.08
+11519,Kobitodzukan: Kobito no Fushigi - Jikken Set,2013,Misc,Nippon Columbia,0,0,0.08,0,0.08
+11523,Doraemon: Nobita and the Island of Miracles,2012,Action,FuRyu,0,0,0.08,0,0.08
+11524,Puzzler Mind Gym 3D,2011,Puzzle,Ubisoft,0.07,0,0,0,0.08
+11606,Medabots Dual: Kabuto / Kuwagata,2013,Role-Playing,Rocket Company,0,0,0.08,0,0.08
+11620,Terraria,2016,Action,505 Games,0,0.03,0.04,0,0.08
+11622,Dangerous Ji-San to 1000-nin no Otomodachi Yokoshima,2012,Action,Namco Bandai Games,0,0,0.08,0,0.08
+11684,Samurai Warriors Chronicles 3,2014,Action,Tecmo Koei,0,0,0.08,0,0.08
+11731,Nicola Kanshuu: Model Oshare * Audition Platina,2012,Action,Alchemist,0,0,0.08,0,0.08
+11759,Medabots 8,2014,Role-Playing,Rocket Company,0,0,0.07,0,0.07
+11774,Touch Detective: Nameko Shigeru,2013,Adventure,Success,0,0,0.07,0,0.07
+11775,Aikatsu! My No.1 Stage!,2015,Misc,Namco Bandai Games,0,0,0.07,0,0.07
+11780,Adventure Time: Finn & Jake Investigations,2015,Action,Little Orbit,0.02,0.05,0,0.01,0.07
+11781,Kenka Banchou 6: Soul & Blood,2015,Fighting,Screenlife,0,0,0.07,0,0.07
+11797,Hero Bank,2014,Role-Playing,Sega,0,0,0.07,0,0.07
+11850,Disney's Planes,2013,Simulation,Disney Interactive Studios,0.04,0.03,0,0.01,0.07
+11860,Model * Oshare Audition: Dream Girl,2013,Misc,Alchemist,0,0,0.07,0,0.07
+11875,Petz Fantasy 3D,2011,Simulation,Ubisoft,0.07,0,0,0,0.07
+11895,E.X. Troopers,2012,Shooter,Capcom,0,0,0.07,0,0.07
+11899,J Legend Retsuden,2013,Misc,Namco Bandai Games,0,0,0.07,0,0.07
+11909,Cho~ricchi! Tamagotchi no Puchi Puchi Omisecchi,2012,Action,Namco Bandai Games,0,0,0.07,0,0.07
+11923,Dream Trigger 3D,N/A,Shooter,D3Publisher,0.04,0.02,0,0.01,0.07
+11932,"Horrid Henry: The Good, The Bad and The Bugly",2011,Platform,Asylum Entertainment,0,0.06,0,0.01,0.07
+11938,Magi: The Labyrinth of Beginning,2013,Role-Playing,Namco Bandai Games,0,0,0.07,0,0.07
+11973,Pro Yaky? Spirits 2011,2011,Sports,Konami Digital Entertainment,0,0,0.07,0,0.07
+11980,Haikyuu!! Tsunage! Itadaki no Keshiki!!,2014,Adventure,Namco Bandai Games,0,0,0.07,0,0.07
+12019,Cut the Rope,2014,Puzzle,Activision,0.06,0,0,0.01,0.07
+12024,Doraemon: Nobita to Himitsu Dougu Hakubutsukan,2013,Action,FuRyu,0,0,0.07,0,0.07
+12072,Hoppechan: Minna de Odekake! Waku Waku Hoppe Land!!,2014,Action,Nippon Columbia,0,0,0.07,0,0.07
+12094,Moshi Monsters: Katsuma Unleashed,2013,Action,Activision,0.03,0.04,0,0,0.07
+12117,Lost Heroes 2,2015,Action,Namco Bandai Games,0,0,0.07,0,0.07
+12147,Transformer: Rise of the Dark Spark (3DS),2014,Role-Playing,Activision,0.05,0.01,0,0.01,0.07
+12166,Future Card Buddy Fight: Yuujou no Bakunetsu Fight,2015,Action,FuRyu,0,0,0.07,0,0.07
+12169,Penguins of Madagascar,2014,Action,Namco Bandai Games,0,0.06,0,0,0.07
+12220,Gundam Try Age SP,2014,Strategy,Namco Bandai Games,0,0,0.07,0,0.07
+12236,Lego Star Wars: The Force Awakens,2016,Action,Warner Bros. Interactive Entertainment,0.02,0.04,0,0,0.07
+12237,12-Sai. Honto no Kimochi,2014,Adventure,Happinet,0,0,0.07,0,0.07
+12245,Cardfight!! Vanguard: Lock On Victory!!,2014,Misc,FuRyu,0,0,0.07,0,0.07
+12313,Dynasty Warriors Vs,2012,Action,Ackkstudios,0,0,0.06,0,0.06
+12361,Game Center CX: 3-Choume no Arino,2014,Action,Namco Bandai Games,0,0,0.06,0,0.06
+12370,The Amazing Spider-Man 2 (2014),2014,Action,Activision,0.03,0.03,0,0,0.06
+12375,Mario vs. Donkey Kong: Tipping Stars,2015,Puzzle,Nintendo,0,0,0.06,0,0.06
+12407,A-Train: City Simulator,2014,Simulation,ArtDink,0,0,0.06,0,0.06
+12413,SpongeBob SquarePants: Plankton's Robotic Revenge,2013,Shooter,Activision,0,0.06,0,0,0.06
+12423,Crayon Shin-chan: Arashi o Yobu Kasukabe Eiga Stars!,2014,Adventure,Namco Bandai Games,0,0,0.06,0,0.06
+12434,Zero Escape: Zero Time Dilemma,2016,Adventure,Aksys Games,0.04,0,0.01,0.01,0.06
+12443,Nicola Kanshuu: Model * Oshare Audition 2,2011,Action,Alchemist,0,0,0.06,0,0.06
+12486,Nazotoki Battle Tore! Densetsu no Makyuu o Fukkatsu Saseyo!,2014,Action,Namco Bandai Games,0,0,0.06,0,0.06
+12522,Smile PreCure! Let's Go! Marchen World,2012,Action,Namco Bandai Games,0,0,0.06,0,0.06
+12541,Toriko: Gourmet Battle!,2013,Role-Playing,Namco Bandai Games,0,0,0.06,0,0.06
+12559,JoJo's Bizarre Adventure: All Star Battle,2012,Fighting,Take-Two Interactive,0.06,0,0,0,0.06
+12599,Doraemon: Nobita no Uchuu Eiyuuki,2015,Action,FuRyu,0,0,0.06,0,0.06
+12604,Metal Max 4: Gekkou no Diva,2013,Role-Playing,Kadokawa Shoten,0,0,0.06,0,0.06
+12610,Magi: Aratanaru Sekai,2014,Role-Playing,Namco Bandai Games,0,0,0.06,0,0.06
+12614,Lord of Magna: Maiden Heaven,2014,Role-Playing,Marvelous Entertainment,0,0,0.06,0,0.06
+12618,Ansatsu Kyoushitsu: Assassin Ikusei Keikaku!!,2016,Action,Namco Bandai Games,0,0,0.06,0,0.06
+12685,Sumikko Gurashi: Mura o Tsukurundesu,2016,Misc,Nippon Columbia,0,0,0.06,0,0.06
+12749,Girls RPG: Cinderellife,2012,Role-Playing,Level 5,0,0,0.06,0,0.06
+12785,Yuugen Gaisha Brave Company,2011,Strategy,Namco Bandai Games,0,0,0.06,0,0.06
+12787,Ken to Mahou to Gakuen Mono. 3D,2011,Role-Playing,Acquire,0,0,0.06,0,0.06
+12810,Pro Yakyuu Famista 2011,2011,Sports,Namco Bandai Games,0,0,0.06,0,0.06
+12889,Goosebumps: The Game,2015,Adventure,WayForward Technologies,0.05,0,0,0.01,0.05
+12918,New Prince of Tennis: Go to the Top,2015,Action,FuRyu,0,0,0.05,0,0.05
+12919,Zyuden Sentai Kyoryuger: Game de Gaburincho!!,2013,Action,Namco Bandai Games,0,0,0.05,0,0.05
+12941,Minna no Ennichi,2012,Action,Namco Bandai Games,0,0,0.05,0,0.05
+12956,Culdcept Revolt,2016,Strategy,Nintendo,0,0,0.05,0,0.05
+13157,Guild 01,2012,Action,Level 5,0,0,0.05,0,0.05
+13170,Chousoku Henkei Gyrozetter: Albatross no Tsubasa,2013,Role-Playing,Square Enix,0,0,0.05,0,0.05
+13190,G1 Grand Prix,2012,Action,Genki,0,0,0.05,0,0.05
+13228,Downtown no Gaki no Tsukai Yaarahen de!! Zettai ni Tsukamatte Haikenai Gasu Kurobikari Land,2015,Action,Alchemist,0,0,0.05,0,0.05
+13275,Detective Conan: Marionette Symphony,2013,Adventure,Namco Bandai Games,0,0,0.05,0,0.05
+13306,Gaist Crusher,2013,Action,Capcom,0,0,0.05,0,0.05
+13399,Mahjong 3D: Warriors of the Emperor,2011,Misc,DTP Entertainment,0,0.04,0,0.01,0.05
+13407,Centipede: Infestation,2011,Shooter,Atari,0.04,0,0,0,0.05
+13409,Hero Bank 2,2014,Role-Playing,Sega,0,0,0.05,0,0.05
+13435,Nazo Waku Yakata: Oto no Ma ni Ma ni,2011,Misc,Capcom,0,0,0.05,0,0.05
+13443,LEGO Friends,2013,Action,Warner Bros. Interactive Entertainment,0,0.04,0,0,0.05
+13498,Nobunaga's Ambition (3DS),2013,Simulation,Tecmo Koei,0,0,0.04,0,0.04
+13538,Gem Smashers,2011,Platform,Crave Entertainment,0.04,0,0,0,0.04
+13556,Yowamushi Pedal,2015,Action,Namco Bandai Games,0,0,0.04,0,0.04
+13584,Riding Stables: The Whitakers present Milton and Friends,2011,Sports,DTP Entertainment,0,0.04,0,0,0.04
+13598,Card Fight!! Vanguard G: Stride to Victory!!,2016,Misc,FuRyu,0,0,0.04,0,0.04
+13600,Doraemon: Shin Nobita no Daimakyou Peko to 5-nin no Tankenta,2014,Action,FuRyu,0,0,0.04,0,0.04
+13619,Hana to Ikimo no Rittai Zukan,2011,Misc,Nintendo,0,0,0.04,0,0.04
+13654,Doki Doki! PreCure Narikiri Life!,2013,Action,Namco Bandai Games,0,0,0.04,0,0.04
+13655,Gravity Falls: Legend of the Gnome Gemulets,2015,Action,Ubisoft,0.03,0,0,0,0.04
+13685,Horses 3D,2012,Misc,Ubisoft,0.04,0,0,0,0.04
+13729,Unchained Blades,2011,Role-Playing,FuRyu,0,0,0.04,0,0.04
+13773,Dolly Kanon Dokidoki Tokimeki Himitsu no Ongaku Katsudou Start Desu!!,2014,Adventure,Happinet,0,0,0.04,0,0.04
+13822,Time Travelers,2012,Adventure,Unknown,0,0,0.04,0,0.04
+13847,Haikyu!! Cross Team Match!,2016,Adventure,Namco Bandai Games,0,0,0.04,0,0.04
+13869,Paddington: Adventures in London,2015,Puzzle,Koch Media,0,0.04,0,0,0.04
+13889,Famicom Remix Best Choice,2015,Action,Nintendo,0,0,0.04,0,0.04
+13920,Rodea the Sky Soldier,2015,Action,Nippon Ichi Software,0.03,0,0,0,0.04
+13933,Corpse Party: Blood Covered - Repeated Fear,2015,Adventure,5pb,0,0,0.04,0,0.04
+13956,Monster High: New Ghoul in School,2015,Action,Little Orbit,0,0.03,0,0,0.04
+13983,Doraemon: Shin Nobita no Nihon Tanjou,2016,Misc,FuRyu,0,0,0.04,0,0.04
+14007,12-Sai. Koisuru Diary,2016,Adventure,Happinet,0,0,0.04,0,0.04
+14043,The Croods: Prehistoric Party!,2013,Misc,D3Publisher,0.01,0.02,0,0,0.04
+14046,Barbie and Her Sisters Puppy Rescue,2015,Action,Namco Bandai Games,0,0.03,0,0,0.04
+14055,Nobunaga's Ambition II,2015,Strategy,Tecmo Koei,0,0,0.04,0,0.04
+14101,FabStyle,2011,Strategy,Tecmo Koei,0,0,0.03,0,0.03
+14110,DoraMoji: Nobita no Kanji Daisakusen,2015,Misc,Shogakukan,0,0,0.03,0,0.03
+14126,Cooking Mama: My Sweets Shop,2014,Simulation,Office Create,0,0,0.03,0,0.03
+14152,SpongeBob: HeroPants,2015,Platform,Activision,0.03,0,0,0,0.03
+14156,Mame Goma: Shiro to Kuro no Meikyuu,2012,Action,Nippon Ichi Software,0,0,0.03,0,0.03
+14158,Clash of Elementalists,2013,Action,Unknown,0,0.03,0,0,0.03
+14170,Deer Drive: Legends,2012,Action,Maximum Family Games,0.03,0,0,0,0.03
+14193,Romance of the Three Kingdoms (3DS),2013,Strategy,Tecmo Koei,0,0,0.03,0,0.03
+14210,Detective Conan: Phantom Rhapsody,2014,Action,Namco Bandai Games,0,0,0.03,0,0.03
+14228,Yumi's Odd Odyssey,2013,Platform,Agatsuma Entertainment,0,0,0.03,0,0.03
+14231,Angler's Club: Ultimate Bass Fishing 3D,2011,Sports,D3Publisher,0,0.03,0,0,0.03
+14261,Tamagotchi no Doki Doki Dream Omisecchi,2013,Simulation,Namco Bandai Games,0,0,0.03,0,0.03
+14262,Toushin Toshi,2014,Role-Playing,imageepoch Inc.,0,0,0.03,0,0.03
+14276,Beyond the Labyrinth,N/A,Role-Playing,Unknown,0,0,0.03,0,0.03
+14282,Cooking Mama 5: Bon Appetit!,2013,Simulation,Office Create,0,0,0.03,0,0.03
+14294,Medarot 9: Kabuto Ver. / Kuwagata Ver.,2015,Role-Playing,Rocket Company,0,0,0.03,0,0.03
+14304,Metroid Prime: Federation Force,2016,Action,Nintendo,0.02,0.01,0.01,0,0.03
+14309,Sonic Boom: Fire & Ice,2016,Platform,Sega,0.03,0,0,0,0.03
+14319,Toriko: Ultimate Survival,2013,Action,Namco Bandai Games,0,0,0.03,0,0.03
+14328,Onna no Ko to Misshitsu ni Itara **shichau Kamoshirenai,2012,Adventure,D3Publisher,0,0,0.03,0,0.03
+14362,PriPara & Pretty Rhythm: PriPara de Tsukaeru Oshare Item 1450!,2015,Action,Namco Bandai Games,0,0,0.03,0,0.03
+14382,Medabots 9: Metabee / Rokusho,2015,Role-Playing,Rocket Company,0,0,0.03,0,0.03
+14405,Zero Escape: Virtue's Last Reward,2012,Adventure,Rising Star Games,0.03,0,0,0,0.03
+14458,Kyokugen Dasshutsu ADV: Zennin Shiboudesu,2012,Adventure,ChunSoft,0,0,0.03,0,0.03
+14470,Langrisser: Re:Incarnation Tensei,2015,Role-Playing,Extreme Entertainment Group,0.02,0,0.01,0,0.03
+14480,Shantae and the Pirate's Curse,2015,Platform,Intergrow,0,0,0.03,0,0.03
+14482,The Peanuts Movie: Snoopy's Grand Adventure,2015,Action,Activision,0,0.03,0,0,0.03
+14484,Power Rangers Super Megaforce,2014,Action,Namco Bandai Games,0.01,0.01,0,0,0.03
+14557,Beyblade Evolution,2013,Action,Rising Star Games,0.02,0.01,0,0,0.03
+14580,Young Justice: Legacy,2013,Action,Namco Bandai Games,0.03,0,0,0,0.03
+14585,HappinessCharge PreCure! Kawarun Collection,2014,Misc,Namco Bandai Games,0,0,0.03,0,0.03
+14613,Medabots Girls Mission: Metabee Ver. / Rokusho Ver.,2016,Role-Playing,Rocket Company,0,0,0.03,0,0.03
+14617,My Hero Academia: Battle for All,2016,Action,Namco Bandai Games,0,0,0.03,0,0.03
+14628,Romance of the Three Kingdoms II,2015,Strategy,Tecmo Koei,0,0,0.03,0,0.03
+14702,Gudetama: Hanjuku de Tanomuwa,2015,Action,Rocket Company,0,0,0.03,0,0.03
+14750,Pro Evolution Soccer 2012,2011,Action,Konami Digital Entertainment,0.02,0,0,0,0.03
+14769,Nekketsu Kouha Kunio-Kun SP: Rantou Kyousoukyoku,2013,Fighting,Arc System Works,0,0,0.03,0,0.03
+14779,3DS Classic Collection,2016,Misc,Sega,0.02,0,0,0,0.03
+14819,The Legend of Korra (3DS),2014,Strategy,Activision,0.02,0,0,0,0.03
+14831,Dream Girl Premier,2015,Misc,Alchemist,0,0,0.03,0,0.03
+14971,Teddy Together,2016,Simulation,Nintendo,0,0.02,0,0,0.02
+15074,Thomas and Friends: Steaming around Sodor,2015,Action,Avanquest Software,0,0.02,0,0,0.02
+15230,UnchainBlades EXXiV,2012,Role-Playing,FuRyu,0,0,0.02,0,0.02
+15264,Mario Tennis,N/A,Sports,N/A,0,0,0.02,0,0.02
+15282,Heavy Fire: The Chosen Few 3D,2011,Shooter,Mastiff,0.02,0,0,0,0.02
+15297,Detective Jinguuji Saburo: Ronde Revenge,2012,Action,Arc System Works,0,0,0.02,0,0.02
+15339,Kung Fu Panda: Showdown of Legendary Legends,2015,Action,Little Orbit,0,0.02,0,0,0.02
+15361,Bella Sara 2 - The Magic of Drasilmare,2013,Adventure,Big Ben Interactive,0,0.02,0,0,0.02
+15395,Crayon Shin-Chan: Uchuu de Achoo!? Yuujou no Oba-Karate!!,2011,Action,Namco Bandai Games,0,0,0.02,0,0.02
+15435,Tenkai Knights: Brave Battle,2014,Action,Namco Bandai Games,0.01,0.01,0,0,0.02
+15443,Downtown Nekketsu Jidaigek,2015,Action,Arc System Works,0,0,0.02,0,0.02
+15493,Devil Survivor: Over Clock,2015,Strategy,Atlus,0,0,0.02,0,0.02
+15501,Azada,2012,Puzzle,Licensed 4U,0,0.02,0,0,0.02
+15546,Poyo Poyo Kansatsu Nikki,2012,Action,IE Institute,0,0,0.02,0,0.02
+15558,Gon: BakuBakuBakuBaku Adventure,2012,Action,Namco Bandai Games,0,0,0.02,0,0.02
+15573,New Atelier Rorona: Hajimari no Monogatari,2015,Action,Tecmo Koei,0,0,0.02,0,0.02
+15584,Niko Puchi Girls Runway,2015,Misc,Happinet,0,0,0.02,0,0.02
+15618,PachiPara 3D: Ooumi Monogatari 2 - Pachi Pro Fuuunroku Hana,2012,Action,Irem Software Engineering,0,0,0.02,0,0.02
+15621,Ben 10 Omniverse 2,2013,Action,Namco Bandai Games,0,0.02,0,0,0.02
+15681,50 Classic Games,2012,Misc,Avanquest Software,0,0.02,0,0,0.02
+15703,Monster High 13 Wishes,2013,Action,Little Orbit,0,0.02,0,0,0.02
+15832,Phoenix Wright: Ace Attorney Trilogy,2014,Adventure,Capcom,0,0,0.02,0,0.02
+15866,Gaist Crusher God,2014,Action,Capcom,0,0,0.02,0,0.02
+15878,Turbo: Super Stunt Squad,2013,Sports,D3Publisher,0,0.01,0,0,0.02
+15882,PachiPara 3D,2011,Misc,Irem Software Engineering,0,0,0.02,0,0.02
+15911,Adventure Time: The Secret of the Nameless,2014,Adventure,Little Orbit,0.01,0,0,0,0.02
+15985,Super Battle For Money Sentouchuu: Kyuukyoku no Shinobu to Battle Player Choujou Kessen!,2016,Action,Namco Bandai Games,0,0,0.01,0,0.01
+16001,One Piece: Daikaizoku Coliseum,2016,Fighting,Namco Bandai Games,0,0,0.01,0,0.01
+16067,Kaitou Joker: Toki o Koeru Kaitou to Ushinawareta Houseki,2015,Action,Namco Bandai Games,0,0,0.01,0,0.01
+16075,Sousaku Alice to Oujisama!,2015,Simulation,Happinet,0,0,0.01,0,0.01
+16126,Nintendogs and Cats Golden Retriever and New Friends,2011,Action,Nintendo,0,0.01,0,0,0.01
+16170,Order Up!!,2011,Action,Funbox Media,0,0.01,0,0,0.01
+16243,Seisou no Amazones,2013,Role-Playing,Arc System Works,0,0,0.01,0,0.01
+16320,Touch Detective 3: Does Funghi Dream of Bananas?,2014,Adventure,Success,0,0,0.01,0,0.01
+16383,Fate/kaleid liner Prisma Illya,2014,Action,Kadokawa Games,0,0,0.01,0,0.01
+16414,Teenage Mutant Ninja Turtles (3DS),2013,Action,Activision,0.01,0,0,0,0.01
+16426,SoniPro,2014,Adventure,imageepoch Inc.,0,0,0.01,0,0.01
+16456,Winx Club: Saving Alfea,2014,Action,Namco Bandai Games,0,0.01,0,0,0.01
+16463,"Horse Life 4: My Horse, My Friend, My Champion",2015,Action,Unknown,0,0.01,0,0,0.01
+16465,Outdoors Unleashed: Alaska 3D,2011,Sports,Mastiff,0.01,0,0,0,0.01
+16471,Exstetra,2013,Role-Playing,FuRyu,0,0,0.01,0,0.01
+16475,Azure Striker Gunvolt: Striker Pack,2016,Action,Inti Creates,0,0,0.01,0,0.01
+16496,The Smurfs,N/A,Action,Unknown,0,0.01,0,0,0.01
+16497,Legends of Oz: Dorothy's Return,2014,Puzzle,N/A,0,0.01,0,0,0.01
+16515,Balloon Pop 2,2012,Puzzle,UFO Interactive,0.01,0,0,0,0.01
+16531,Kiniro no Corda 3,2015,Adventure,Tecmo Koei,0,0,0.01,0,0.01
+16538,Mushi Bugyou,2013,Action,Namco Bandai Games,0,0,0.01,0,0.01
+16545,Mario & Luigi: Paper Jam & Mario Kart 7 Double Pack,2015,Misc,Nintendo,0,0,0.01,0,0.01
+16570,Fujiko F. Fujio Characters: Great Assembly! Slightly Fantastic Slapstick Party,2014,Action,Namco Bandai Games,0,0,0.01,0,0.01
+16581,Outdoors Unleashed: Africa 3D,2011,Sports,Mastiff,0.01,0,0,0,0.01

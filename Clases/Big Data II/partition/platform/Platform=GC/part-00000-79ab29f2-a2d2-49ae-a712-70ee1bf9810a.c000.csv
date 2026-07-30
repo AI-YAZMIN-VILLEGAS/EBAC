@@ -1,0 +1,557 @@
+Rank,Name,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+108,Super Smash Bros. Melee,2001,Fighting,Nintendo,4.41,1.04,1.39,0.22,7.07
+111,Mario Kart: Double Dash!!,2003,Racing,Nintendo,4.12,1.77,0.87,0.19,6.95
+136,Super Mario Sunshine,2002,Platform,Nintendo,4.01,1.26,0.87,0.17,6.31
+233,The Legend of Zelda: The Wind Waker,2002,Action,Nintendo,2.6,0.99,0.89,0.13,4.6
+357,Luigi's Mansion,2001,Action,Nintendo,2.38,0.67,0.46,0.1,3.6
+436,Animal Crossing,2001,Simulation,Nintendo,1.92,0.16,0.99,0.09,3.15
+520,Metroid Prime,2002,Shooter,Nintendo,1.96,0.67,0.1,0.09,2.82
+602,Sonic Adventure 2 Battle,2001,Platform,Sega,1.7,0.59,0.21,0.07,2.56
+605,Pokémon Colosseum,2003,Role-Playing,Nintendo,1.21,0.57,0.7,0.07,2.54
+627,Mario Party 4,2002,Misc,Nintendo,1.13,0.36,0.92,0.07,2.47
+718,Paper Mario: The Thousand-Year Door,2004,Role-Playing,Nintendo,1.48,0.25,0.46,0.06,2.25
+805,Mario Party 5,2003,Misc,Nintendo,0.97,0.33,0.73,0.06,2.08
+827,Sonic Mega Collection,2002,Misc,Infogrames,1.47,0.48,0.05,0.06,2.05
+909,Star Wars Rogue Leader: Rogue Squadron II,2001,Simulation,LucasArts,1.03,0.75,0.03,0.09,1.9
+921,Star Fox Adventures,2002,Adventure,Nintendo,0.96,0.53,0.3,0.09,1.87
+1072,Resident Evil 4,2005,Action,Capcom,0.98,0.42,0.22,0.06,1.69
+1109,Mario Party 6,2004,Misc,Nintendo,0.9,0.11,0.6,0.05,1.65
+1127,Pikmin,2001,Strategy,Nintendo,0.78,0.25,0.56,0.04,1.63
+1139,Kirby Air Ride,2003,Racing,Nintendo,1.01,0.11,0.45,0.04,1.62
+1146,Super Mario Strikers,2005,Sports,Nintendo,0.98,0.38,0.2,0.04,1.61
+1159,Sonic Heroes,2003,Platform,Sega,1.05,0.44,0.06,0.04,1.6
+1162,The Legend of Zelda: Twilight Princess,2006,Action,Nintendo,1.15,0.36,0.04,0.04,1.59
+1185,Mario Party 7,2005,Misc,Nintendo,0.95,0.11,0.46,0.04,1.57
+1227,Mario Golf: Toadstool Tour,2003,Sports,Nintendo,1.09,0.15,0.25,0.04,1.53
+1241,Super Monkey Ball 2,2002,Puzzle,Atari,1.11,0.31,0.06,0.04,1.52
+1253,SoulCalibur II,2003,Fighting,Namco Bandai Games,0.99,0.32,0.11,0.08,1.5
+1269,Final Fantasy: Crystal Chronicles,2003,Role-Playing,Nintendo,0.72,0.38,0.36,0.04,1.49
+1307,Super Monkey Ball,2001,Puzzle,Atari,0.95,0.37,0.1,0.04,1.46
+1310,Mario Superstar Baseball,2005,Sports,Nintendo,0.93,0.24,0.25,0.04,1.46
+1365,Resident Evil (Remake),2002,Action,Capcom,0.63,0.38,0.35,0.05,1.42
+1371,LEGO Star Wars: The Video Game,2005,Action,Eidos Interactive,1.09,0.28,0,0.04,1.41
+1462,Donkey Kong Jungle Beat,2004,Platform,Nintendo,0.84,0.22,0.24,0.04,1.34
+1478,Metroid Prime 2: Echoes,2004,Shooter,Nintendo,0.87,0.35,0.07,0.04,1.33
+1531,Resident Evil Zero,2002,Action,Capcom,0.54,0.27,0.45,0.04,1.29
+1567,Sonic Adventure DX: Director's Cut,2003,Platform,Sega,0.87,0.3,0.06,0.03,1.27
+1593,Pokemon XD: Gale of Darkness,2005,Role-Playing,Nintendo,0.71,0.19,0.31,0.03,1.25
+1636,Mario Power Tennis,2004,Sports,Nintendo,0.58,0.16,0.46,0.03,1.22
+1663,Need for Speed Underground,2003,Racing,Electronic Arts,0.69,0.48,0.01,0.03,1.21
+1671,Pikmin 2,2004,Strategy,Nintendo,0.48,0.13,0.56,0.03,1.2
+1701,Spider-Man: The Movie,2002,Action,Activision,0.86,0.27,0.01,0.04,1.19
+1777,Donkey Konga,2003,Misc,Nintendo,0.5,0.16,0.46,0.03,1.15
+1802,Need for Speed Underground 2,2004,Racing,Electronic Arts,0.7,0.39,0.01,0.03,1.14
+1868,Tales of Symphonia,2003,Role-Playing,Nintendo,0.54,0.21,0.31,0.04,1.1
+1916,Star Fox: Assault,2005,Shooter,Nintendo,0.68,0.18,0.19,0.03,1.08
+1999,Naruto: Clash of Ninja 2,2003,Fighting,Nintendo,0.44,0.12,0.45,0.03,1.04
+2032,Shrek 2,2004,Platform,Activision,0.73,0.26,0.01,0.03,1.02
+2086,The Simpsons: Hit & Run,2003,Racing,Vivendi Games,0.77,0.2,0,0.03,0.99
+2103,Shadow The Hedgehog,2005,Platform,Sega,0.76,0.2,0,0.03,0.99
+2146,LEGO Star Wars II: The Original Trilogy,2006,Action,LucasArts,0.75,0.19,0,0.03,0.97
+2178,SpongeBob SquarePants: Battle for Bikini Bottom,2003,Platform,THQ,0.74,0.19,0,0.03,0.95
+2200,The SpongeBob SquarePants Movie,2004,Platform,THQ,0.73,0.19,0,0.03,0.94
+2241,Cars,2006,Racing,THQ,0.72,0.19,0,0.03,0.93
+2269,Sonic Riders,2006,Racing,Sega,0.71,0.18,0,0.03,0.92
+2339,Finding Nemo,2003,Action,THQ,0.69,0.18,0,0.02,0.89
+2455,Spider-Man 2,2004,Action,Activision,0.65,0.17,0,0.02,0.84
+2463,The Incredibles,2004,Action,THQ,0.65,0.17,0,0.02,0.84
+2509,Tony Hawk's Pro Skater 3,2001,Sports,Activision,0.64,0.17,0,0.02,0.82
+2542,The Legend of Zelda: Four Swords Adventures,2004,Action,Nintendo,0.63,0.16,0,0.02,0.81
+2568,Star Wars Rogue Squadron III: Rebel Strike,2003,Simulation,LucasArts,0.62,0.16,0,0.02,0.8
+2589,Need for Speed: Hot Pursuit 2,2002,Racing,Electronic Arts,0.68,0.09,0,0.02,0.8
+2605,Harvest Moon: A Wonderful Life,2003,Role-Playing,Ubisoft,0.61,0.16,0,0.02,0.79
+2655,James Bond 007: Nightfire,2002,Shooter,Electronic Arts,0.6,0.16,0,0.02,0.78
+2825,James Bond 007: Agent Under Fire,2002,Shooter,Electronic Arts,0.56,0.15,0,0.02,0.72
+2872,Godzilla: Destroy All Monsters Melee,2002,Fighting,Atari,0.55,0.14,0,0.02,0.71
+2878,Yu-Gi-Oh! The Falsebound Kingdom,2002,Strategy,Konami Digital Entertainment,0.49,0.13,0.07,0.02,0.71
+2881,Spyro: Enter the Dragonfly,2002,Platform,Universal Interactive,0.55,0.14,0,0.02,0.71
+2890,"WarioWare, Inc.: Mega Party Game$",2003,Puzzle,Nintendo,0.2,0.05,0.44,0.02,0.71
+2906,Tony Hawk's Underground,2003,Sports,Activision,0.54,0.14,0,0.02,0.7
+2915,Madden NFL 2005,2004,Sports,Electronic Arts,0.54,0.14,0,0.02,0.7
+2959,Dragon Ball Z: Budokai,2003,Fighting,Atari,0.53,0.14,0,0.02,0.69
+2964,Harry Potter and the Chamber of Secrets,2002,Action,Electronic Arts,0.53,0.14,0,0.02,0.69
+2966,The Lord of the Rings: The Return of the King,2003,Action,Electronic Arts,0.53,0.14,0,0.02,0.69
+2986,Naruto: Clash of Ninja,2003,Fighting,Tomy Corporation,0.53,0.14,0,0.02,0.68
+3067,Madagascar,2005,Platform,Activision,0.52,0.13,0,0.02,0.66
+3079,The Sims: Bustin' Out,2003,Simulation,Electronic Arts,0.43,0.2,0,0.03,0.66
+3103,F-Zero GX,2003,Racing,Nintendo,0.41,0.11,0.12,0.02,0.65
+3237,Namco Museum,2002,Misc,Namco Bandai Games,0.48,0.13,0,0.02,0.63
+3248,Madden NFL 07,2006,Sports,Electronic Arts,0.48,0.13,0,0.02,0.62
+3259,Viewtiful Joe,2003,Action,Capcom,0.38,0.1,0.12,0.02,0.62
+3274,Pac-Man Player's Choice Bundle,2003,Misc,Namco Bandai Games,0.48,0.12,0,0.02,0.62
+3324,Madden NFL 2002,2001,Sports,Electronic Arts,0.47,0.12,0,0.02,0.61
+3340,Wave Race: Blue Storm,2001,Racing,Nintendo,0.4,0.1,0.09,0.02,0.6
+3395,Medal of Honor: Frontline,2002,Shooter,Electronic Arts,0.46,0.12,0,0.02,0.59
+3409,Crash Bandicoot: The Wrath of Cortex,2002,Platform,Universal Interactive,0.46,0.12,0,0.02,0.59
+3492,Tony Hawk's Pro Skater 4,2002,Sports,Activision,0.45,0.12,0,0.02,0.58
+3526,Madden NFL 06,2005,Sports,Electronic Arts,0.44,0.11,0,0.02,0.57
+3562,True Crime: Streets of LA,2003,Action,Activision,0.44,0.11,0,0.02,0.56
+3587,Need for Speed: Most Wanted,2005,Racing,Electronic Arts,0.43,0.11,0,0.02,0.56
+3725,Fire Emblem: Path of Radiance,2005,Action,Nintendo,0.29,0.08,0.16,0.01,0.54
+3738,SSX Tricky,2001,Sports,Electronic Arts,0.42,0.11,0,0.01,0.54
+3755,NBA Street Vol. 2,N/A,Sports,Electronic Arts,0.41,0.11,0,0.01,0.54
+3799,X-Men Legends,2004,Role-Playing,Activision,0.41,0.11,0,0.01,0.53
+3810,The Lord of the Rings: The Two Towers,2002,Action,Electronic Arts,0.41,0.11,0,0.01,0.53
+3898,Madden NFL 2004,2003,Sports,Electronic Arts,0.4,0.1,0,0.01,0.51
+3963,Avatar: The Last Airbender,2006,Adventure,THQ,0.39,0.1,0,0.01,0.5
+4002,Tony Hawk's Underground 2,2004,Sports,Activision,0.38,0.1,0,0.01,0.5
+4033,WWE Wrestlemania X8,2002,Fighting,THQ,0.38,0.1,0,0.01,0.49
+4039,The Sims,2003,Simulation,Electronic Arts,0.35,0.13,0,0.01,0.49
+4065,Crazy Taxi,2001,Racing,Acclaim Entertainment,0.36,0.09,0.02,0.01,0.49
+4223,Dance Dance Revolution: Mario Mix,2005,Misc,Nintendo,0.36,0.09,0,0.01,0.47
+4224,Metal Gear Solid: The Twin Snakes,2004,Action,Konami Digital Entertainment,0.3,0.08,0.07,0.01,0.47
+4321,Enter the Matrix,2003,Action,Atari,0.34,0.09,0.02,0.01,0.45
+4326,Phantasy Star Online Episode I & II,2002,Role-Playing,Infogrames,0.23,0.06,0.16,0.01,0.45
+4394,NBA Live 2005,2004,Sports,Electronic Arts,0.35,0.09,0,0.01,0.45
+4396,WWE Day of Reckoning,2004,Fighting,THQ,0.35,0.09,0,0.01,0.45
+4458,"SpongeBob SquarePants: Lights, Camera, Pants!",2005,Misc,THQ,0.34,0.09,0,0.01,0.44
+4467,Naruto: Gekito Ninja Taisen! 3,2004,Fighting,Tomy Corporation,0,0,0.43,0.01,0.44
+4469,Wario World,2003,Platform,Nintendo,0.34,0.09,0,0.01,0.44
+4476,TimeSplitters 2,2002,Shooter,Eidos Interactive,0.34,0.09,0,0.01,0.44
+4479,Eternal Darkness: Sanity's Requiem,2002,Adventure,Nintendo,0.34,0.09,0,0.01,0.44
+4552,Madden NFL 2003,2002,Sports,Electronic Arts,0.33,0.09,0,0.01,0.43
+4571,NBA Street,2002,Sports,Electronic Arts,0.33,0.09,0,0.01,0.42
+4580,Medal of Honor: Rising Sun,2003,Shooter,Electronic Arts,0.33,0.09,0,0.01,0.42
+4588,Tony Hawk's American Wasteland,2005,Sports,Activision,0.33,0.08,0,0.01,0.42
+4628,James Bond 007: Everything or Nothing,2004,Shooter,Electronic Arts,0.32,0.08,0,0.01,0.42
+4634,Mega Man Anniversary Collection,2004,Platform,Capcom,0.32,0.08,0,0.01,0.42
+4640,Harry Potter and the Goblet of Fire,2005,Action,Electronic Arts,0.32,0.08,0,0.01,0.42
+4648,Kumamon Bomber: Puzzle de Kumamon Taisou,2005,Puzzle,Sega,0.32,0.08,0,0.01,0.42
+4751,Mortal Kombat: Deadly Alliance,2002,Fighting,Midway Games,0.31,0.08,0,0.01,0.41
+4790,Tak and the Power of Juju,2003,Platform,THQ,0.31,0.08,0,0.01,0.4
+4805,Harry Potter: Quidditch World Cup,2003,Sports,Electronic Arts,0.31,0.08,0,0.01,0.4
+4813,Battalion Wars,2005,Strategy,Nintendo,0.25,0.07,0.07,0.01,0.4
+4815,Power Rangers: Dino Thunder,2004,Action,THQ,0.31,0.08,0,0.01,0.4
+4845,Rampage: Total Destruction,2006,Action,Midway Games,0.31,0.08,0,0.01,0.4
+4847,The Urbz: Sims in the City,2004,Simulation,Electronic Arts,0.24,0.14,0,0.02,0.4
+4861,Star Wars: Clone Wars,2002,Shooter,Activision,0.31,0.08,0,0.01,0.4
+4871,Call of Duty: Finest Hour,2004,Shooter,Activision,0.31,0.08,0,0.01,0.4
+4915,Donkey Konga 2,2004,Misc,Nintendo,0.3,0.08,0,0.01,0.39
+4937,Chibi-Robo! Plug into Adventure!,2005,Adventure,Nintendo,0.23,0.06,0.09,0.01,0.39
+5003,Turok: Evolution,2002,Shooter,Acclaim Entertainment,0.3,0.08,0,0.01,0.38
+5014,Marvel Nemesis: Rise of the Imperfects,2005,Fighting,Electronic Arts,0.3,0.08,0,0.01,0.38
+5024,SSX 3,2003,Sports,Electronic Arts,0.29,0.08,0,0.01,0.38
+5052,Pokemon Channel,2003,Adventure,Nintendo,0.24,0.06,0.07,0.01,0.38
+5081,Harry Potter and the Prisoner of Azkaban,2004,Action,Electronic Arts,0.29,0.08,0,0.01,0.38
+5097,Ultimate Spider-Man,2005,Action,Activision,0.29,0.07,0,0.01,0.37
+5110,"Monsters, Inc. Scream Arena",2002,Platform,THQ,0.29,0.07,0,0.01,0.37
+5130,Custom Robo,2004,Role-Playing,Nintendo,0.29,0.07,0,0.01,0.37
+5135,Pac-Man World 2,2002,Action,Nintendo,0.28,0.07,0,0.01,0.37
+5167,GoldenEye: Rogue Agent,2004,Shooter,Electronic Arts,0.28,0.07,0,0.01,0.36
+5272,Nicktoons: Unite!,2005,Adventure,THQ,0.27,0.07,0,0.01,0.35
+5312,Need for Speed Carbon,2006,Racing,Electronic Arts,0.27,0.07,0,0.01,0.35
+5331,NFL Street,2004,Sports,Electronic Arts,0.27,0.07,0,0.01,0.35
+5345,Over the Hedge,2006,Platform,Activision,0.27,0.07,0,0.01,0.35
+5388,WWE Day of Reckoning 2,2005,Fighting,THQ,0.26,0.07,0,0.01,0.34
+5424,Teenage Mutant Ninja Turtles,2003,Action,Konami Digital Entertainment,0.26,0.07,0,0.01,0.34
+5468,WWE Wrestlemania XIX,2003,Fighting,THQ,0.26,0.07,0,0.01,0.33
+5470,The Sims 2,2005,Simulation,Electronic Arts,0.26,0.07,0,0.01,0.33
+5485,Tak 2: The Staff of Dreams,2004,Platform,THQ,0.26,0.07,0,0.01,0.33
+5522,Call Of Duty 2: Big Red One,2005,Shooter,Activision,0.25,0.07,0,0.01,0.33
+5531,SpongeBob SquarePants: Creature from the Krusty Krab,2006,Platform,THQ,0.25,0.07,0,0.01,0.33
+5542,Naruto: Gekito Ninja Taisen! 4,2005,Fighting,Tomy Corporation,0,0,0.32,0.01,0.33
+5547,MVP Baseball 2005,2005,Sports,Electronic Arts,0.25,0.07,0,0.01,0.33
+5559,Teen Titans,2006,Action,THQ,0.25,0.07,0,0.01,0.33
+5564,NBA Live 06,2005,Sports,Electronic Arts,0.25,0.07,0,0.01,0.33
+5630,Prince of Persia: The Sands of Time,2003,Action,Ubisoft,0.25,0.06,0,0.01,0.32
+5789,NASCAR Thunder 2003,2002,Racing,Electronic Arts,0.24,0.06,0,0.01,0.31
+5847,Burnout,2002,Racing,Acclaim Entertainment,0.23,0.06,0,0.01,0.3
+5903,NBA Live 2003,N/A,Sports,Electronic Arts,0.23,0.06,0,0.01,0.3
+5945,Shark Tale,2004,Action,Activision,0.23,0.06,0,0.01,0.3
+5956,Scooby-Doo! Night of 100 Frights,2002,Platform,THQ,0.23,0.06,0,0.01,0.3
+5988,NBA Street V3,2005,Sports,Electronic Arts,0.23,0.06,0,0.01,0.29
+6007,From TV Animation One Piece: Treasure Battle!,2002,Fighting,Namco Bandai Games,0,0,0.28,0.01,0.29
+6041,The Lord of the Rings: The Third Age,2004,Role-Playing,Electronic Arts,0.22,0.06,0,0.01,0.29
+6044,Nicktoons: Battle for Volcano Island,N/A,Action,Unknown,0.22,0.06,0,0.01,0.29
+6094,Spyro: A Hero's Tail,2004,Platform,Vivendi Games,0.22,0.06,0,0.01,0.29
+6134,ATV Quad Power Racing 2,2003,Racing,Acclaim Entertainment,0.22,0.06,0,0.01,0.28
+6197,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",N/A,Action,Disney Interactive Studios,0.22,0.06,0,0.01,0.28
+6202,The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies,2004,Action,THQ,0.22,0.06,0,0.01,0.28
+6213,Pac-Man Fever,N/A,Misc,Unknown,0.21,0.06,0,0.01,0.28
+6233,Pokemon Box: Ruby & Sapphire,2003,Misc,Nintendo,0,0,0.27,0.01,0.28
+6238,Dave Mirra Freestyle BMX 2,2001,Sports,Acclaim Entertainment,0.21,0.06,0,0.01,0.28
+6273,Dragon Ball Z: Budokai 2,2004,Fighting,Atari,0.21,0.06,0,0.01,0.27
+6307,Baten Kaitos: Eternal Wings and the Lost Ocean,2003,Role-Playing,Nintendo,0.21,0.05,0,0.01,0.27
+6328,Disney's Chicken Little,2005,Platform,Disney Interactive Studios,0.21,0.05,0,0.01,0.27
+6330,Ty the Tasmanian Tiger,2002,Platform,Electronic Arts,0.21,0.05,0,0.01,0.27
+6374,NBA Live 2004,2003,Sports,Electronic Arts,0.21,0.05,0,0.01,0.27
+6393,The Sims 2: Pets,2006,Simulation,Electronic Arts,0.21,0.05,0,0.01,0.27
+6500,Star Wars: Bounty Hunter,2002,Shooter,LucasArts,0.2,0.05,0,0.01,0.26
+6537,Batman: Vengeance,2001,Adventure,Ubisoft,0.2,0.05,0,0.01,0.26
+6550,Crash Nitro Kart,2003,Racing,Vivendi Games,0.2,0.05,0,0.01,0.26
+6580,Lemony Snicket's A Series of Unfortunate Events,2004,Platform,Activision,0.2,0.05,0,0.01,0.26
+6592,Backyard NFL Football,2002,Sports,Infogrames,0.2,0.05,0,0.01,0.26
+6608,MVP Baseball 2004,2004,Sports,Electronic Arts,0.2,0.05,0,0.01,0.26
+6622,Bomberman Generation,2002,Adventure,Vivendi Games,0.15,0.04,0.06,0.01,0.25
+6636,Happy Feet,2006,Action,Midway Games,0.2,0.05,0,0.01,0.25
+6666,Medal of Honor European Assault,2005,Shooter,Electronic Arts,0.19,0.05,0,0.01,0.25
+6668,Billy Hatcher and the Giant Egg,2003,Platform,Sega,0.19,0.05,0,0.01,0.25
+6698,Def Jam Vendetta,2003,Fighting,Electronic Arts,0.19,0.05,0,0.01,0.25
+6741,"Ed, Edd n Eddy: The Mis-Edventures",2005,Platform,Midway Games,0.19,0.05,0,0.01,0.25
+6754,Nickelodeon Party Blast,2002,Misc,Atari,0.19,0.05,0,0.01,0.25
+6761,X-Men Legends II: Rise of Apocalypse,2005,Role-Playing,Activision,0.19,0.05,0,0.01,0.25
+6765,NBA Courtside 2002,2002,Sports,Nintendo,0.19,0.05,0,0.01,0.25
+6814,Harvest Moon: Magical Melody,2005,Simulation,Ubisoft,0.19,0.05,0,0.01,0.24
+6840,Peter Jackson's King Kong: The Official Game of the Movie,2005,Action,Ubisoft,0.19,0.05,0,0.01,0.24
+6845,The Simpsons: Road Rage,2001,Racing,Electronic Arts,0.19,0.05,0,0.01,0.24
+6862,Harvest Moon: Another Wonderful Life,2004,Role-Playing,Marvelous Interactive,0.19,0.05,0,0.01,0.24
+6881,Fantastic 4,2005,Action,Activision,0.19,0.05,0,0.01,0.24
+7010,Star Wars Jedi Knight II: Jedi Outcast,2002,Shooter,Activision,0.18,0.05,0,0.01,0.23
+7011,Tom Clancy's Splinter Cell,2003,Action,Ubisoft,0.18,0.05,0,0.01,0.23
+7025,Rocket Power: Beach Bandits,2002,Platform,THQ,0.18,0.05,0,0.01,0.23
+7099,Tiger Woods PGA Tour 2003,2002,Sports,Electronic Arts,0.18,0.05,0,0.01,0.23
+7142,Def Jam: Fight for NY,2004,Fighting,Electronic Arts,0.17,0.05,0,0.01,0.22
+7149,Mary-Kate and Ashley: Sweet 16 - Licenced to Drive,2003,Misc,Acclaim Entertainment,0.17,0.04,0,0.01,0.22
+7167,Skies of Arcadia Legends,2002,Role-Playing,Atari,0.17,0.04,0,0.01,0.22
+7175,NCAA Football 2005,2004,Sports,Electronic Arts,0.17,0.04,0,0.01,0.22
+7223,Tetris Worlds,2002,Puzzle,THQ,0.17,0.04,0,0.01,0.22
+7232,Viewtiful Joe 2,2004,Action,Capcom,0.17,0.04,0,0.01,0.22
+7249,All-Star Baseball 2002,2001,Sports,Acclaim Entertainment,0.17,0.04,0,0.01,0.22
+7258,From Russia With Love,2005,Action,Electronic Arts,0.17,0.04,0,0.01,0.22
+7281,NFL 2K3,2002,Sports,Sega,0.17,0.04,0,0.01,0.22
+7295,Scooby-Doo! Mystery Mayhem,2004,Action,THQ,0.17,0.04,0,0.01,0.22
+7300,Shrek SuperSlam,2005,Action,Activision,0.17,0.04,0,0.01,0.22
+7324,Namco Museum: 50th Anniversary,2005,Misc,Namco Bandai Games,0.17,0.04,0,0.01,0.21
+7343,Bratz: Forever Diamondz,2006,Adventure,THQ,0.17,0.04,0,0.01,0.21
+7383,Naruto: Clash of Ninja (JP sales),2003,Fighting,Tomy Corporation,0,0,0.21,0.01,0.21
+7401,The Fairly OddParents: Breakin' Da Rules,2003,Platform,THQ,0.16,0.04,0,0.01,0.21
+7424,Bionicle,2003,Action,Electronic Arts,0.16,0.04,0,0.01,0.21
+7444,NHL Hitz 20-02,2001,Sports,Midway Games,0.16,0.04,0,0.01,0.21
+7446,NCAA Football 2003,2002,Sports,Electronic Arts,0.16,0.04,0,0.01,0.21
+7481,BeyBlade VForce: Super Tournament Battle,2002,Action,Atari,0.16,0.04,0,0.01,0.21
+7491,Dragon Ball Z: Sagas,2005,Fighting,Atari,0.16,0.04,0,0.01,0.21
+7553,Bratz: Rock Angelz,2005,Misc,THQ,0.16,0.04,0,0.01,0.2
+7562,From TV Animation One Piece: Grand Battle! 3,2003,Fighting,Namco Bandai Games,0,0,0.2,0.01,0.2
+7576,The Fairly Odd Parents: Shadow Showdown,2004,Platform,THQ,0.16,0.04,0,0.01,0.2
+7587,Spy Hunter,2002,Racing,Midway Games,0.16,0.04,0,0.01,0.2
+7604,Ty the Tasmanian Tiger 2: Bush Rescue,2004,Platform,Electronic Arts,0.15,0.04,0,0.01,0.2
+7662,NFL Street 2,2004,Sports,Electronic Arts,0.15,0.04,0,0.01,0.2
+7675,SpongeBob SquarePants: Revenge of the Flying Dutchman,2002,Platform,THQ,0.15,0.04,0,0.01,0.2
+7708,MC Groovz Dance Craze,2004,Misc,Mad Catz,0.15,0.04,0,0.01,0.2
+7718,Prince of Persia: Warrior Within,2004,Action,Ubisoft,0.15,0.04,0,0.01,0.2
+7764,Ice Age 2: The Meltdown,2006,Platform,Vivendi Games,0.15,0.04,0,0.01,0.19
+7803,Disney's Magical Mirror Starring Mickey Mouse,2002,Adventure,Nintendo,0.15,0.04,0,0.01,0.19
+7873,Teenage Mutant Ninja Turtles 2: Battle Nexus,2004,Action,Konami Digital Entertainment,0.15,0.04,0,0.01,0.19
+7893,Hulk,2003,Action,Universal Interactive,0.15,0.04,0,0.01,0.19
+7905,The Legend of Spyro: A New Beginning,2006,Platform,Vivendi Games,0.15,0.04,0,0.01,0.19
+8066,Bloody Roar: Primal Fury,2002,Fighting,Activision,0.14,0.04,0,0,0.18
+8075,FIFA Soccer 07,2006,Sports,Electronic Arts,0.14,0.04,0,0,0.18
+8104,Gauntlet: Dark Legacy,2002,Action,Midway Games,0.14,0.04,0,0,0.18
+8121,Gun,2005,Shooter,Activision,0.14,0.04,0,0,0.18
+8144,FIFA Soccer 2002,2001,Sports,Electronic Arts,0.14,0.04,0,0,0.18
+8151,Disney's Tarzan Untamed,2001,Platform,Ubisoft,0.14,0.04,0,0,0.18
+8161,Charlie and the Chocolate Factory,2005,Adventure,Global Star,0.14,0.04,0,0,0.18
+8230,Rugrats: Royal Ransom,2002,Platform,THQ,0.13,0.03,0,0,0.17
+8232,Open Season,2006,Platform,Ubisoft,0.13,0.03,0,0,0.17
+8242,Major League Baseball 2K6,2006,Sports,Take-Two Interactive,0.13,0.03,0,0,0.17
+8248,The Grim Adventures of Billy & Mandy,2006,Action,Midway Games,0.13,0.03,0,0,0.17
+8262,The Hobbit,2003,Platform,Vivendi Games,0.13,0.03,0,0,0.17
+8266,True Crime: New York City,2005,Action,Activision,0.13,0.03,0,0,0.17
+8275,Fight Night Round 2,2005,Fighting,Electronic Arts,0.13,0.03,0,0,0.17
+8309,Looney Tunes: Back in Action,2003,Platform,Warner Bros. Interactive Entertainment,0.13,0.03,0,0,0.17
+8380,SSX On Tour,2005,Sports,Electronic Arts,0.13,0.03,0,0,0.17
+8385,Shrek Extra Large,2002,Platform,TDK Mediactive,0.13,0.03,0,0,0.17
+8403,Mega Man Network Transmission,2003,Platform,Capcom,0.13,0.03,0,0,0.17
+8418,Lost Kingdoms,2002,Role-Playing,Activision,0.1,0.02,0.04,0,0.17
+8437,Midway Arcade Treasures,2003,Misc,Midway Games,0.13,0.03,0,0,0.17
+8452,Cubivore: Survival of the Fittest,2002,Adventure,Nintendo,0.01,0,0.15,0,0.17
+8495,Robotech: Battlecry,2002,Shooter,TDK Mediactive,0.13,0.03,0,0,0.16
+8520,Midway Arcade Treasures 2,2004,Misc,Midway Games,0.13,0.03,0,0,0.16
+8521,Hot Wheels World Race,2003,Racing,THQ,0.13,0.03,0,0,0.16
+8533,Crash Tag Team Racing,2005,Racing,Vivendi Games,0.12,0.03,0,0,0.16
+8553,The Incredibles: Rise of the Underminer,2005,Action,THQ,0.12,0.03,0,0,0.16
+8557,Flushed Away,2006,Platform,D3Publisher,0.12,0.03,0,0,0.16
+8570,Robots,2005,Action,Vivendi Games,0.12,0.03,0,0,0.16
+8671,Tiger Woods PGA Tour 2004,2003,Sports,Electronic Arts,0.12,0.03,0,0,0.16
+8688,NBA 2K3,2002,Sports,Sega,0.12,0.03,0,0,0.16
+8738,Burnout 2: Point of Impact,2003,Racing,Acclaim Entertainment,0.12,0.03,0,0,0.15
+8747,Tak: The Great Juju Challenge,2005,Platform,THQ,0.12,0.03,0,0,0.15
+8750,Knockout Kings 2003,2002,Sports,Electronic Arts,0.12,0.03,0,0,0.15
+8751,NCAA Football 2004,2003,Sports,Electronic Arts,0.12,0.03,0,0,0.15
+8752,XGIII: Extreme G Racing,2001,Racing,Acclaim Entertainment,0.12,0.03,0,0,0.15
+8774,Scooby-Doo! Unmasked,2005,Platform,THQ,0.12,0.03,0,0,0.15
+8783,Army Men: Sarge's War,2004,Shooter,Global Star,0.12,0.03,0,0,0.15
+8793,Frogger's Adventures: The Rescue,2003,Platform,Konami Digital Entertainment,0.12,0.03,0,0,0.15
+8816,Zoids: Battle Legends,2003,Action,Tomy Corporation,0.12,0.03,0,0,0.15
+8820,Killer7,2005,Action,Capcom,0.12,0.03,0,0,0.15
+8826,Super Monkey Ball Adventure,2006,Platform,Sega,0.12,0.03,0,0,0.15
+8853,Top Gun: Combat Zones,2002,Simulation,Titus,0.12,0.03,0,0,0.15
+8868,All-Star Baseball 2003,2002,Sports,Acclaim Entertainment,0.12,0.03,0,0,0.15
+8885,X-Men: The Official Game,2006,Action,Activision,0.12,0.03,0,0,0.15
+8897,Curious George,2006,Action,Namco Bandai Games,0.11,0.03,0,0,0.15
+8900,Geist,2005,Adventure,Nintendo,0.11,0.03,0,0,0.15
+8922,The Incredible Hulk: Ultimate Destruction,2005,Action,Vivendi Games,0.11,0.03,0,0,0.15
+8923,Prince of Persia: The Two Thrones,2005,Action,Ubisoft,0.11,0.03,0,0,0.15
+8937,Batman Begins,2005,Action,Electronic Arts,0.11,0.03,0,0,0.15
+8970,Tom Clancy's Ghost Recon,2003,Shooter,Ubisoft,0.11,0.03,0,0,0.15
+8994,MLB SlugFest 20-03,2002,Sports,Midway Games,0.11,0.03,0,0,0.15
+9027,Ratatouille,2007,Action,THQ,0.11,0.03,0,0,0.14
+9052,Doshin the Giant,2002,Simulation,Nintendo,0,0,0.14,0,0.14
+9062,FIFA Soccer 2005,2004,Sports,Electronic Arts,0.11,0.03,0,0,0.14
+9121,Dead to Rights,2002,Shooter,Electronic Arts,0.11,0.03,0,0,0.14
+9122,Sphinx and the Cursed Mummy,2003,Action,THQ,0.11,0.03,0,0,0.14
+9156,Baldur's Gate: Dark Alliance,2002,Role-Playing,Virgin Interactive,0.11,0.03,0,0,0.14
+9165,Monster House,2006,Adventure,THQ,0.11,0.03,0,0,0.14
+9197,NFL Blitz 20-03,2002,Sports,Midway Games,0.11,0.03,0,0,0.14
+9220,Ultimate Muscle - The Kinnikuman Legacy: Legends vs New Generation,2002,Fighting,Namco Bandai Games,0.04,0.01,0.08,0,0.14
+9235,FIFA 06 Soccer,2005,Sports,Electronic Arts,0.11,0.03,0,0,0.14
+9236,Rayman Arena,2002,Racing,Ubisoft,0.11,0.03,0,0,0.14
+9238,4x4 EVO 2,2002,Racing,Vivendi Games,0.11,0.03,0,0,0.14
+9317,Tiger Woods PGA Tour 2005,2004,Sports,Electronic Arts,0.1,0.03,0,0,0.14
+9409,NHL 2003,2002,Sports,Electronic Arts,0.1,0.03,0,0,0.13
+9428,Frogger Beyond,2002,Platform,Konami Digital Entertainment,0.1,0.03,0,0,0.13
+9474,Shrek Smash n' Crash Racing,2006,Racing,Activision,0.1,0.03,0,0,0.13
+9502,FIFA World Cup Germany 2006,2006,Sports,Electronic Arts,0.1,0.03,0,0,0.13
+9503,Hitman 2: Silent Assassin,2003,Action,Eidos Interactive,0.1,0.03,0,0,0.13
+9524,Nintendo Puzzle Collection,N/A,Puzzle,Unknown,0,0,0.13,0,0.13
+9554,Backyard Baseball,2003,Sports,Infogrames,0.1,0.03,0,0,0.13
+9560,Legends of Wrestling,2002,Fighting,Acclaim Entertainment,0.1,0.03,0,0,0.13
+9581,Zapper: One Wicked Cricket!,2002,Platform,Infogrames,0.1,0.03,0,0,0.13
+9592,Monopoly Party,2002,Misc,Infogrames,0.1,0.03,0,0,0.13
+9614,X-Men: Next Dimension,2002,Fighting,Activision,0.1,0.03,0,0,0.13
+9637,Freedom Fighters,2003,Shooter,Electronic Arts,0.1,0.03,0,0,0.13
+9641,Mega Man X Collection,2006,Misc,Capcom,0.1,0.03,0,0,0.13
+9679,Mega Man X: Command Mission,2004,Role-Playing,Capcom,0.1,0.02,0,0,0.12
+9701,NASCAR 2005: Chase for the Cup,2004,Racing,Electronic Arts,0.1,0.02,0,0,0.12
+9733,The Ant Bully,2006,Platform,Midway Games,0.09,0.02,0,0,0.12
+9806,X2: Wolverine's Revenge,2003,Platform,Activision,0.09,0.02,0,0,0.12
+9817,Street Hoops,N/A,Sports,Unknown,0.09,0.02,0,0,0.12
+9877,Disney's Extreme Skate Adventure,2003,Sports,Activision,0.09,0.02,0,0,0.12
+9879,NBA 2K2,2002,Sports,Sega,0.09,0.02,0,0,0.12
+9886,Jeremy McGrath Supercross World,2002,Racing,Acclaim Entertainment,0.09,0.02,0,0,0.12
+9903,Legends of Wrestling II,2002,Fighting,Acclaim Entertainment,0.09,0.02,0,0,0.12
+9909,Jikkyou Powerful Pro Yakyuu 9,2002,Sports,Konami Digital Entertainment,0,0,0.11,0,0.12
+9951,Teenage Mutant Ninja Turtles 3: Mutant Nightmare,2005,Action,Konami Digital Entertainment,0.09,0.02,0,0,0.12
+9963,Dora the Explorer: Journey to the Purple Planet,2005,Adventure,Global Star,0.09,0.02,0,0,0.12
+9970,Barnyard,2006,Action,THQ,0.09,0.02,0,0,0.12
+9990,Die Hard: Vendetta,2002,Shooter,NDA Productions,0.09,0.02,0,0,0.12
+10039,FIFA Street 2,2006,Sports,Electronic Arts,0.09,0.02,0,0,0.11
+10077,18 Wheeler: American Pro Trucker,2002,Racing,Acclaim Entertainment,0.09,0.02,0,0,0.11
+10122,BloodRayne,2002,Shooter,Universal Interactive,0.09,0.02,0,0,0.11
+10135,Home Run King,2002,Sports,Sega,0.09,0.02,0,0,0.11
+10152,Capcom vs. SNK 2 EO,2002,Fighting,Capcom,0.09,0.02,0,0,0.11
+10153,Hot Wheels Velocity X,2002,Racing,THQ,0.09,0.02,0,0,0.11
+10172,Mortal Kombat: Deception,2005,Fighting,Midway Games,0.09,0.02,0,0,0.11
+10194,The Adventures of Jimmy Neutron Boy Genius: Jet Fusion,2003,Action,THQ,0.09,0.02,0,0,0.11
+10198,Odama,2006,Misc,Nintendo,0.07,0.02,0.02,0,0.11
+10210,Bionicle Heroes,2006,Shooter,Eidos Interactive,0.08,0.02,0,0,0.11
+10271,The Scorpion King: Rise of the Akkadian,2002,Action,Universal Interactive,0.08,0.02,0,0,0.11
+10274,GiFTPiA,N/A,Role-Playing,Unknown,0,0,0.11,0,0.11
+10287,Defender,2002,Misc,Midway Games,0.08,0.02,0,0,0.11
+10289,The Polar Express,2004,Adventure,THQ,0.08,0.02,0,0,0.11
+10310,Starsky & Hutch,2003,Racing,BAM! Entertainment,0.08,0.02,0,0,0.11
+10355,Tiger Woods PGA Tour 06,2005,Sports,Electronic Arts,0.08,0.02,0,0,0.11
+10366,Reign of Fire,2002,Shooter,BAM! Entertainment,0.08,0.02,0,0,0.11
+10440,Jikkyou Powerful Pro Yakyuu 10,2003,Sports,Konami Digital Entertainment,0,0,0.1,0,0.1
+10463,Metal Arms: Glitch in the System,2003,Shooter,Vivendi Games,0.08,0.02,0,0,0.1
+10465,Tom Clancy's Splinter Cell: Chaos Theory,2005,Action,Ubisoft,0.08,0.02,0,0,0.1
+10547,Hunter: The Reckoning,2002,Action,Virgin Interactive,0.08,0.02,0,0,0.1
+10556,Baten Kaitos Origins,2006,Role-Playing,Unknown,0.06,0.02,0.02,0,0.1
+10566,NHL 2004,2003,Sports,Electronic Arts,0.08,0.02,0,0,0.1
+10577,Minority Report: Everybody Runs,2002,Action,Activision,0.08,0.02,0,0,0.1
+10587,Disney's The Haunted Mansion,2003,Platform,Take-Two Interactive,0.08,0.02,0,0,0.1
+10592,Beach Spikers: Virtua Beach Volleyball,2002,Sports,Sega,0.08,0.02,0,0,0.1
+10706,Universal Studios Theme Parks Adventure,2001,Misc,Kemco,0.08,0.02,0,0,0.1
+10792,Jikkyou Powerful Pro Yakyuu 11,2004,Sports,Konami Digital Entertainment,0,0,0.09,0,0.1
+10828,SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,2005,Adventure,Activision,0.07,0.02,0,0,0.09
+10842,Pac-Man World 3,2005,Platform,Namco Bandai Games,0.07,0.02,0,0,0.09
+10845,Rocky,2002,Fighting,Rage Software,0.07,0.02,0,0,0.09
+10897,Freekstyle,2002,Racing,Electronic Arts,0.07,0.02,0,0,0.09
+10913,Alien Hominid,2004,Shooter,O3 Entertainment,0.07,0.02,0,0,0.09
+10939,I-Ninja,2003,Platform,Namco Bandai Games,0.07,0.02,0,0,0.09
+10988,MX SuperFly featuring Ricky Carmichael,2002,Racing,THQ,0.07,0.02,0,0,0.09
+10998,NASCAR: Dirt to Daytona,2002,Racing,Infogrames,0.07,0.02,0,0,0.09
+11081,Mystic Heroes,2002,Action,Tecmo Koei,0.03,0.01,0.04,0,0.09
+11112,Battle Stadium D.O.N,2006,Fighting,Namco Bandai Games,0,0,0.09,0,0.09
+11120,NFL Blitz 20-02,2002,Sports,Midway Games,0.07,0.02,0,0,0.09
+11133,Ikaruga,2003,Shooter,Atari,0.07,0.02,0,0,0.09
+11156,Digimon World 4,2005,Role-Playing,Namco Bandai Games,0.07,0.02,0,0,0.09
+11163,Ty the Tasmanian Tiger 3: Night of the Quinkan,2005,Action,Activision,0.07,0.02,0,0,0.09
+11170,Bleach GC: Tasogare Ni Mamieru Shinigami,2005,Fighting,Sega,0,0,0.08,0,0.09
+11184,Jimmy Neutron: Boy Genius,2002,Platform,THQ,0.07,0.02,0,0,0.09
+11215,XIII,2003,Shooter,Ubisoft,0.07,0.02,0,0,0.09
+11258,SRS: Street Racing Syndicate,2004,Racing,Namco Bandai Games,0.07,0.02,0,0,0.08
+11320,Bomberman Jetters,2002,Puzzle,Hudson Soft,0.06,0.02,0,0,0.08
+11350,Hello Kitty: Roller Rescue,2005,Action,Empire Interactive,0.06,0.02,0,0,0.08
+11351,Jikkyou Powerful Pro Yakyuu 12,2005,Sports,Konami Digital Entertainment,0,0,0.08,0,0.08
+11353,Pac-Man World Rally,2006,Racing,Namco Bandai Games,0.06,0.02,0,0,0.08
+11398,NHL 06,2005,Sports,Electronic Arts,0.06,0.02,0,0,0.08
+11418,Tom Clancy's Splinter Cell: Pandora Tomorrow,2004,Action,Ubisoft,0.06,0.02,0,0,0.08
+11421,Swingerz Golf,2002,Sports,Eidos Interactive,0.06,0.02,0,0,0.08
+11431,FIFA Soccer 2003,2002,Sports,Electronic Arts,0.06,0.02,0,0,0.08
+11437,Outlaw Golf,2002,Sports,TDK Mediactive,0.06,0.02,0,0,0.08
+11450,Smuggler's Run: Warzones,2002,Misc,Take-Two Interactive,0.06,0.02,0,0,0.08
+11465,Big Mutha Truckers,2003,Racing,Empire Interactive,0.06,0.02,0,0,0.08
+11491,Harry Potter and the Sorcerer's Stone,2003,Action,Electronic Arts,0.06,0.02,0,0,0.08
+11493,TimeSplitters: Future Perfect,2005,Shooter,Electronic Arts,0.06,0.02,0,0,0.08
+11518,Shonen Jump's One Piece: Pirates Carnival,2005,Misc,Namco Bandai Games,0.06,0.02,0,0,0.08
+11535,Superman: Shadow of Apokolips,2003,Action,Atari,0.06,0.02,0,0,0.08
+11540,Batman: Dark Tomorrow,2003,Action,Kemco,0.06,0.02,0,0,0.08
+11555,Tomb Raider: Legend,2006,Action,Eidos Interactive,0.06,0.02,0,0,0.08
+11567,Taz Wanted,2002,Platform,Atari,0.06,0.02,0,0,0.08
+11574,Evolution Worlds,2002,Role-Playing,Ubisoft,0.06,0.02,0,0,0.08
+11593,P.N.03 - Product Number Three,2003,Shooter,Capcom,0.06,0.02,0,0,0.08
+11613,Phantasy Star Online Episode III: C.A.R.D. Revolution,2003,Role-Playing,Sega,0.06,0.02,0,0,0.08
+11624,Ultimate Fighting Championship: Throwdown,2002,Fighting,Ubisoft,0.06,0.02,0,0,0.08
+11635,WWE Crush Hour,2003,Racing,THQ,0.06,0.02,0,0,0.08
+11643,NHL Hitz 20-03,2002,Sports,Midway Games,0.06,0.02,0,0,0.08
+11644,Momotarou Dentetsu 11,2002,Misc,Hudson Soft,0,0,0.07,0,0.08
+11653,Resident Evil 3: Nemesis,2003,Action,Capcom,0.06,0.02,0,0,0.08
+11654,All-Star Baseball 2004,2003,Sports,Acclaim Entertainment,0.06,0.02,0,0,0.08
+11655,Madden NFL 08,2007,Sports,Electronic Arts,0.06,0.02,0,0,0.08
+11665,Pitfall: The Lost Expedition,2004,Platform,Activision,0.06,0.02,0,0,0.08
+11690,R: Racing Evolution,2003,Racing,Namco Bandai Games,0.06,0.02,0,0,0.08
+11696,Conflict: Desert Storm,2003,Shooter,SCi,0.06,0.02,0,0,0.08
+11726,Driven,2002,Racing,BAM! Entertainment,0.06,0.02,0,0,0.08
+11779,Gladius,2003,Strategy,Activision,0.06,0.01,0,0,0.07
+11800,Smashing Drive,N/A,Racing,Unknown,0.06,0.01,0,0,0.07
+11831,Beyond Good & Evil,2003,Adventure,Ubisoft,0.06,0.01,0,0,0.07
+11852,SD Gundam: Gashapon Wars,2005,Strategy,Namco Bandai Games,0,0,0.07,0,0.07
+11868,TMNT: Mutant Melee,2005,Fighting,Konami Digital Entertainment,0.06,0.01,0,0,0.07
+11894,Tom Clancy's Ghost Recon 2,2005,Shooter,Ubisoft,0.06,0.01,0,0,0.07
+11920,NCAA College Football 2K3,2002,Sports,Sega,0.05,0.01,0,0,0.07
+11922,Karaoke Revolution Party,2005,Misc,Konami Digital Entertainment,0.05,0.01,0,0,0.07
+11981,Wallace & Gromit in Project Zoo,2003,Platform,BAM! Entertainment,0.05,0.01,0,0,0.07
+11998,FIFA Soccer 2004,2003,Sports,Electronic Arts,0.05,0.01,0,0,0.07
+12002,Rayman 3: Hoodlum Havoc,2003,Platform,Ubisoft,0.05,0.01,0,0,0.07
+12032,Disney's Winnie the Pooh's Rumbly Tumbly Adventure,2005,Platform,Ubisoft,0.05,0.01,0,0,0.07
+12037,Catwoman,2004,Action,Electronic Arts,0.05,0.01,0,0,0.07
+12051,Spartan: Total Warrior,2005,Action,Sega,0.05,0.01,0,0,0.07
+12069,Tom and Jerry in War of the Whiskers,2003,Fighting,NewKidCo,0.05,0.01,0,0,0.07
+12092,NHL 2005,2004,Sports,Electronic Arts,0.05,0.01,0,0,0.07
+12093,Midway Arcade Treasures 3,2005,Misc,Midway Games,0.05,0.01,0,0,0.07
+12108,The Powerpuff Girls: Relish Rampage,2002,Action,BAM! Entertainment,0.05,0.01,0,0,0.07
+12112,Army Men: RTS,2004,Strategy,Global Star,0.05,0.01,0,0,0.07
+12121,Sega Soccer Slam,2002,Sports,Sega,0.05,0.01,0,0,0.07
+12138,Spawn: Armageddon,2003,Action,Electronic Arts,0.05,0.01,0,0,0.07
+12200,Cabela's Big Game Hunter 2005 Adventures,2004,Sports,Activision,0.05,0.01,0,0,0.07
+12201,Worms 3D,2003,Strategy,Sega,0.05,0.01,0,0,0.07
+12257,Zatch Bell! Mamodo Battles,2005,Fighting,Namco Bandai Games,0.05,0.01,0,0,0.06
+12281,BMX XXX,2002,Sports,Acclaim Entertainment,0.05,0.01,0,0,0.06
+12325,Tonka Rescue Patrol,2003,Action,TDK Mediactive,0.05,0.01,0,0,0.06
+12333,Cel Damage,2002,Racing,Electronic Arts,0.05,0.01,0,0,0.06
+12349,Intellivision Lives!,2004,Misc,Crave Entertainment,0.05,0.01,0,0,0.06
+12389,Strike Force Bowling,2005,Sports,Crave Entertainment,0.05,0.01,0,0,0.06
+12424,Shonen Jump's One Piece: Grand Battle,2005,Fighting,Namco Bandai Games,0.05,0.01,0,0,0.06
+12474,Vexx,2003,Platform,Acclaim Entertainment,0.05,0.01,0,0,0.06
+12478,Batman: Rise of Sin Tzu,2003,Action,Ubisoft,0.05,0.01,0,0,0.06
+12484,Disney Sports Skateboarding,2002,Sports,Konami Digital Entertainment,0.05,0.01,0,0,0.06
+12518,Worms Blast,2002,Puzzle,Ubisoft,0.05,0.01,0,0,0.06
+12590,Resident Evil - Code: Veronica X,2003,Action,Capcom,0.05,0.01,0,0,0.06
+12595,Kelly Slater's Pro Surfer,2002,Sports,Activision,0.05,0.01,0,0,0.06
+12676,Resident Evil 2,2003,Action,Capcom,0.04,0.01,0,0,0.06
+12714,Tom Clancy's Splinter Cell: Double Agent,2006,Action,Ubisoft,0.04,0.01,0,0,0.06
+12726,FIFA Street,2005,Sports,Electronic Arts,0.04,0.01,0,0,0.06
+12729,Lost Kingdoms II,2003,Role-Playing,Activision,0.04,0.01,0,0,0.06
+12730,Aggressive Inline,2002,Sports,Acclaim Entertainment,0.04,0.01,0,0,0.06
+12733,Viewtiful Joe: Red Hot Rumble,2005,Action,Capcom,0.04,0.01,0,0,0.06
+12745,Wreckless: ThE YaKuza MisSiOns,2002,Racing,Activision,0.04,0.01,0,0,0.06
+12772,Dance Dance Revolution: Mario Mix (JP sales),2005,Simulation,Nintendo,0,0,0.05,0,0.06
+12797,Tom Clancy's Rainbow Six 3,2004,Shooter,Ubisoft,0.04,0.01,0,0,0.06
+12814,Amazing Island,2004,Strategy,Sega,0.04,0.01,0,0,0.06
+12851,Phantasy Star Online Episode I & II Plus,2003,Role-Playing,Sega,0.04,0.01,0,0,0.05
+12858,NFL Quarterback Club 2002,2001,Sports,Acclaim Entertainment,0.04,0.01,0,0,0.05
+12870,Blood Omen 2,2002,Action,Eidos Interactive,0.04,0.01,0,0,0.05
+12898,Shaman King: Soul Fight,2003,Platform,Namco Bandai Games,0,0,0.05,0,0.05
+12902,Medabots: Infinity,2003,Role-Playing,Ubisoft,0.04,0.01,0,0,0.05
+12966,Virtua Striker 2002,2002,Sports,Sega,0.01,0,0.03,0,0.05
+12974,Disney's PK: Out of the Shadows,2002,Platform,Ubisoft,0.04,0.01,0,0,0.05
+12988,Piglet's Big Game,2003,Platform,Gotham Games,0.04,0.01,0,0,0.05
+13003,Pinball Hall of Fame: The Gottlieb Collection,2005,Misc,Crave Entertainment,0.04,0.01,0,0,0.05
+13050,Disney's Party,2002,Misc,Electronic Arts,0.04,0.01,0,0,0.05
+13079,Shrek Super Party,2003,Misc,TDK Mediactive,0.04,0.01,0,0,0.05
+13080,Monster 4x4: Masters of Metal,2003,Racing,Ubisoft,0.04,0.01,0,0,0.05
+13089,Second Sight,2004,Adventure,Codemasters,0.04,0.01,0,0,0.05
+13096,Rave Master,2002,Fighting,Konami Digital Entertainment,0,0,0.05,0,0.05
+13109,ESPN International Winter Sports 2002,2002,Sports,Konami Digital Entertainment,0.04,0.01,0,0,0.05
+13135,Dark Summit,2002,Sports,THQ,0.04,0.01,0,0,0.05
+13152,Codename: Kids Next Door: Operation V.I.D.E.O.G.A.M.E.,2005,Platform,Global Star,0.04,0.01,0,0,0.05
+13174,Rogue Ops,2003,Action,Kemco,0.04,0.01,0,0,0.05
+13198,Whirl Tour,2002,Sports,Vivendi Games,0.04,0.01,0,0,0.05
+13219,World Series of Poker,2005,Misc,Activision Value,0.04,0.01,0,0,0.05
+13260,American Chopper 2: Full Throttle,2005,Racing,Activision,0.04,0.01,0,0,0.05
+13267,2002 FIFA World Cup,2002,Sports,Electronic Arts,0.04,0.01,0,0,0.05
+13281,Ribbit King,2003,Sports,Atari,0.04,0.01,0,0,0.05
+13286,Summoner: A Goddess Reborn,2003,Role-Playing,THQ,0.04,0.01,0,0,0.05
+13321,Frogger: Ancient Shadow,2005,Platform,Konami Digital Entertainment,0.04,0.01,0,0,0.05
+13353,Black & Bruised,2003,Fighting,Vivendi Games,0.04,0.01,0,0,0.05
+13359,Tom Clancy's Rainbow Six: Lockdown,2005,Shooter,Ubisoft,0.04,0.01,0,0,0.05
+13369,Super Bubble Pop,2003,Puzzle,Jaleco,0.04,0.01,0,0,0.05
+13386,Monster Jam: Maximum Destruction,2002,Racing,Ubisoft,0.04,0.01,0,0,0.05
+13389,Big Air Freestyle,2002,Racing,Atari,0.04,0.01,0,0,0.05
+13451,Bad Boys: Miami Takedown,2004,Shooter,Empire Interactive,0.03,0.01,0,0,0.05
+13478,Disney's Donald Duck: Goin' Quackers,2002,Platform,Ubisoft,0.03,0.01,0,0,0.04
+13523,Disney's Meet the Robinsons,2007,Action,Disney Interactive Studios,0.03,0.01,0,0,0.04
+13536,Conflict: Desert Storm II - Back to Bagdhad,2004,Shooter,SCi,0.03,0.01,0,0,0.04
+13541,King Arthur,2004,Action,Konami Digital Entertainment,0.03,0.01,0,0,0.04
+13628,MLB SlugFest 20-04,2003,Sports,Midway Games,0.03,0.01,0,0,0.04
+13653,Digimon Rumble Arena 2,2004,Fighting,Atari,0.03,0.01,0,0,0.04
+13728,Mat Hoffman's Pro BMX 2,2002,Sports,Activision,0.03,0.01,0,0,0.04
+13735,NHL Hitz Pro,N/A,Sports,Unknown,0.03,0.01,0,0,0.04
+13749,Dragon's Lair 3D: Return to the Lair,2002,Platform,THQ,0.03,0.01,0,0,0.04
+13844,Zatch Bell! Mamodo Fury,2005,Fighting,Namco Bandai Games,0.03,0.01,0,0,0.04
+13877,Shonen Jump's One Piece: Grand Adventure,2006,Fighting,Namco Bandai Games,0.03,0.01,0,0,0.04
+13931,Jikkyou Powerful Major League,2006,Sports,Konami Digital Entertainment,0,0,0.04,0,0.04
+13936,Evolution Skateboarding,2002,Sports,Konami Digital Entertainment,0.03,0.01,0,0,0.04
+13986,Scaler,2004,Platform,Take-Two Interactive,0.03,0.01,0,0,0.04
+14151,Cabela's Dangerous Hunts 2,2005,Sports,Activision,0.03,0.01,0,0,0.03
+14166,SX Superstar,2003,Racing,Acclaim Entertainment,0.03,0.01,0,0,0.03
+14172,Red Faction II,2003,Shooter,THQ,0.03,0.01,0,0,0.03
+14195,Cabela's Outdoor Adventures,2005,Sports,Activision,0.03,0.01,0,0,0.03
+14208,The Italian Job,2003,Racing,Eidos Interactive,0.03,0.01,0,0,0.03
+14226,The Sum of All Fears,2003,Shooter,Ubisoft,0.03,0.01,0,0,0.03
+14281,Disney Sports Soccer,2002,Sports,Konami Digital Entertainment,0.03,0.01,0,0,0.03
+14288,Disney's Hide & Sneak,2003,Action,Capcom,0.03,0.01,0,0,0.03
+14363,RoadKill,2003,Action,Midway Games,0.02,0.01,0,0,0.03
+14367,F1 2002,2002,Racing,Electronic Arts,0.02,0.01,0,0,0.03
+14396,Dr. Muto,2002,Platform,Midway Games,0.02,0.01,0,0,0.03
+14451,Go! Go! Hypergrind,2003,Sports,Atlus,0.02,0.01,0,0,0.03
+14598,Drome Racers,2003,Racing,Electronic Arts,0.02,0.01,0,0,0.03
+14662,Fireblade,2002,Action,Midway Games,0.02,0.01,0,0,0.03
+14686,Animaniacs: The Great Edgar Hunt,2005,Platform,Ignition Entertainment,0.02,0.01,0,0,0.03
+14726,Dakar 2: The World's Ultimate Rally,2003,Racing,Acclaim Entertainment,0.02,0.01,0,0,0.03
+14728,Auto Modellista,2003,Racing,Capcom,0.02,0.01,0,0,0.03
+14753,Gotcha Force,2003,Shooter,Capcom,0.01,0,0.01,0,0.03
+14771,Buffy the Vampire Slayer: Chaos Bleeds,2003,Action,Vivendi Games,0.02,0.01,0,0,0.03
+14801,Archer Maclean Presents: Pool Paradise,2004,Sports,Ignition Entertainment,0.02,0.01,0,0,0.03
+14920,ZooCube,2002,Puzzle,Acclaim Entertainment,0.02,0,0,0,0.02
+14928,Tube Slider,N/A,Racing,Unknown,0.02,0,0,0,0.02
+14949,Jikkyou Powerful Pro Yakyuu 12 Ketteiban,2005,Sports,Konami Digital Entertainment,0,0,0.02,0,0.02
+14950,Road Trip: The Arcade Edition,2002,Racing,Zoo Digital Publishing,0.02,0,0,0,0.02
+15028,Future Tactics: The Uprising,2004,Strategy,JoWood Productions,0.02,0,0,0,0.02
+15136,RedCard 20-03,2002,Sports,Midway Games,0.02,0,0,0,0.02
+15152,NFL Blitz Pro,2003,Sports,Midway Games,0.02,0,0,0,0.02
+15184,Muppets Party Cruise,2003,Misc,TDK Mediactive,0.02,0,0,0,0.02
+15194,Serious Sam: Next Encounter,2004,Shooter,Global Star,0.02,0,0,0,0.02
+15233,Carmen Sandiego: The Secret of the Stolen Drums,2004,Action,BAM! Entertainment,0.02,0,0,0,0.02
+15253,Terminator 3: The Redemption,2004,Shooter,Atari,0.02,0,0,0,0.02
+15274,XGRA: Extreme G Racing Association,2003,Racing,Acclaim Entertainment,0.02,0,0,0,0.02
+15298,Casper: Spirit Dimensions,2002,Platform,TDK Mediactive,0.02,0,0,0,0.02
+15404,ESPN MLS ExtraTime 2002,2002,Sports,Konami Digital Entertainment,0.02,0,0,0,0.02
+15497,Speed Kings,2003,Racing,Acclaim Entertainment,0.01,0,0,0,0.02
+15524,Charlie's Angels,2003,Action,Ubisoft,0.01,0,0,0,0.02
+15647,NHL 2K3,2002,Sports,Sega,0.01,0,0,0,0.02
+15664,Disney Sports Football,2002,Sports,Konami Digital Entertainment,0.01,0,0,0,0.02
+15671,Freestyle Metal X,2003,Racing,Midway Games,0.01,0,0,0,0.02
+15678,Spirits & Spells,2003,Platform,Wanadoo,0.01,0,0,0,0.02
+15732,Goblin Commander: Unleash the Horde,2003,Strategy,Jaleco,0.01,0,0,0,0.02
+15803,Pro Rally,2002,Racing,Ubisoft,0.01,0,0,0,0.02
+15818,Samurai Jack: The Shadow of Aku,2004,Action,Sega,0.01,0,0,0,0.02
+15836,Kao the Kangaroo Round 2,2005,Platform,JoWood Productions,0.01,0,0,0,0.02
+15879,Dinotopia: The Sunstone Odyssey,N/A,Action,Unknown,0.01,0,0,0,0.02
+15893,Mission: Impossible - Operation Surma,2004,Platform,Atari,0.01,0,0,0,0.02
+15894,Trigger Man,2004,Shooter,Crave Entertainment,0.01,0,0,0,0.02
+15980,Lotus Challenge,2004,Racing,Ignition Entertainment,0.01,0,0,0,0.02
+16044,Puyo Pop Fever,2004,Puzzle,Sega,0.01,0,0,0,0.01
+16252,Aquaman: Battle for Atlantis,2003,Action,TDK Mediactive,0.01,0,0,0,0.01
+16295,Surf's Up,2007,Sports,Ubisoft,0.01,0,0,0,0.01
+16310,Freaky Flyers,N/A,Racing,Unknown,0.01,0,0,0,0.01
+16311,Army Men: Air Combat - The Elite Missions,2003,Shooter,3DO,0.01,0,0,0,0.01
+16312,Rally Championship,2003,Racing,SCi,0.01,0,0,0,0.01
+16343,Grooverider: Slot Car Thunder,2003,Racing,Encore,0.01,0,0,0,0.01
+16390,Darkened Skye,2002,Adventure,TDK Mediactive,0.01,0,0,0,0.01
+16430,Virtua Quest,N/A,Role-Playing,Unknown,0.01,0,0,0,0.01
+16467,Egg Mania: Eggstreme Madness,2002,Puzzle,Kemco,0.01,0,0,0,0.01
+16478,Space Raiders,2003,Shooter,Taito,0.01,0,0,0,0.01
+16587,Bust-A-Move 3000,2003,Puzzle,Ubisoft,0.01,0,0,0,0.01
+16597,Men in Black II: Alien Escape,2003,Shooter,Infogrames,0.01,0,0,0,0.01

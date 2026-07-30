@@ -1,0 +1,18 @@
+Rank,Name,Platform,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+422,Baseball,NES,Sports,Nintendo,0.73,0.1,2.35,0.02,3.2
+702,Mario Bros.,NES,Platform,Nintendo,0.51,0.12,1.63,0.02,2.28
+765,Mahjong,NES,Misc,Nintendo,0.01,0,2.13,0,2.14
+1510,Pitfall II: Lost Caverns,2600,Platform,Activision,1.22,0.07,0,0.02,1.31
+1811,Donkey Kong,NES,Platform,Nintendo,0.23,0.05,0.84,0.01,1.13
+1841,Donkey Kong Jr.,NES,Platform,Nintendo,0.33,0.07,0.7,0.01,1.11
+1863,Popeye,NES,Platform,Nintendo,0.51,0.12,0.45,0.02,1.1
+2654,Jr. Pac-Man,2600,Puzzle,Atari,0.72,0.05,0,0.01,0.78
+2674,Crystal Castles,2600,Action,Atari,0.72,0.04,0,0.01,0.77
+3955,Midnight Magic,2600,Action,Atari,0.47,0.03,0,0.01,0.5
+4098,Millipede,2600,Shooter,Atari,0.45,0.03,0,0.01,0.48
+4269,Gremlins,2600,Action,Atari,0.43,0.03,0,0,0.46
+4782,Pengo,2600,Adventure,Atari,0.38,0.02,0,0,0.4
+5384,Frostbite,2600,Action,Activision,0.32,0.02,0,0,0.34
+5561,Frogger II: Threeedeep!,2600,Action,Parker Bros.,0.31,0.02,0,0,0.33
+6009,Dolphin,2600,Action,Activision,0.27,0.02,0,0,0.29
+8459,Mr. Do!'s Castle,2600,Action,Parker Bros.,0.15,0.01,0,0,0.17

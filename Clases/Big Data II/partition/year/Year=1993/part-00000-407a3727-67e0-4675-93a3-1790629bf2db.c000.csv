@@ -1,0 +1,61 @@
+Rank,Name,Platform,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+58,Super Mario All-Stars,SNES,Platform,Nintendo,5.99,2.15,2.12,0.29,10.55
+473,Star Fox,SNES,Shooter,Nintendo,1.61,0.51,0.8,0.07,2.99
+851,Super Street Fighter II,SNES,Fighting,Nintendo,0.52,0.16,1.29,0.03,2
+889,Mortal Kombat II,SNES,Fighting,Acclaim Entertainment,1.48,0.39,0,0.06,1.93
+950,Secret of Mana,SNES,Role-Playing,SquareSoft,0.25,0.07,1.49,0.02,1.83
+1011,Disney's Aladdin,SNES,Platform,Capcom,0.94,0.34,0.21,0.27,1.75
+1012,Kirby's Adventure,NES,Platform,Nintendo,0.79,0.14,0.8,0.02,1.75
+1056,Super Puyo Puyo,SNES,Puzzle,Banpresto,0,0,1.69,0.01,1.7
+1263,Sonic CD,SCD,Platform,Sega,1,0.36,0.09,0.05,1.5
+1327,Dragon Ball Z,SNES,Fighting,Namco Bandai Games,0,0,1.45,0,1.45
+1676,Dragon Ball Z: La Legende Saien,SNES,Fighting,Namco Bandai Games,0,0,1.2,0,1.2
+1731,Romancing SaGa 2,SNES,Role-Playing,SquareSoft,0,0,1.17,0,1.17
+1753,Mega Man X,SNES,Platform,Capcom,0.57,0.08,0.5,0.01,1.16
+1779,Dragon Quest I & II,SNES,Role-Playing,Enix Corporation,0,0,1.15,0,1.15
+2035,Final Fight 2,SNES,Action,Capcom,0.39,0.12,0.49,0.02,1.02
+2113,Tetris 2,NES,Puzzle,Nintendo,0.62,0.13,0.21,0.02,0.98
+2594,Capcom's Soccer Shootout,SNES,Sports,Nintendo,0,0,0.8,0,0.8
+2653,Torneko no Daibouken: Fushigi no Dungeon,SNES,Role-Playing,ChunSoft,0,0,0.78,0,0.78
+2797,Dragon Ball Z: Ultime Menace,SNES,Fighting,Namco Bandai Games,0,0,0.73,0,0.73
+2958,J-League Soccer: Prime Goal,SNES,Sports,Namco Bandai Games,0,0,0.69,0,0.69
+3238,Nobunaga no Yabou: Haouden,SNES,Strategy,Tecmo Koei,0.3,0,0.32,0,0.62
+3593,Mega Man X2,SNES,Platform,Laguna,0.09,0.02,0.45,0,0.56
+3782,Virtual Soccer,SNES,Sports,Hudson Soft,0,0,0.53,0,0.53
+3784,Winning Post,SNES,Sports,Tecmo Koei,0,0,0.53,0,0.53
+3846,Mega Man 6,NES,Platform,Capcom,0.28,0.07,0.16,0.01,0.52
+4043,Mario & Wario,SNES,Puzzle,Nintendo,0,0,0.49,0,0.49
+4244,Crayon Shin-Chan: Arashi o Yobu Enji,SNES,Platform,Namco Bandai Games,0,0,0.46,0,0.46
+4365,Fatal Fury 2,SNES,Fighting,Takara,0,0,0.45,0,0.45
+5176,Yuu Yuu Hakusho,SNES,Fighting,Namco Bandai Games,0,0,0.36,0,0.36
+5206,Jurassic Park,NES,Action,Ocean,0.25,0.1,0,0.01,0.36
+5293,Stunt Race FX,SNES,Racing,Nintendo,0,0,0.35,0,0.35
+5668,Shin Momotarou Densetsu,SNES,Role-Playing,Hudson Soft,0,0,0.32,0,0.32
+5801,Ganbare Goemon 2: Kiteretsu Shougun Magginesu,SNES,Platform,Konami Digital Entertainment,0,0,0.31,0,0.31
+6308,Bishoujo Senshi Sailormoon R,SNES,Fighting,Namco Bandai Games,0,0,0.27,0,0.27
+7303,Sailor Moon,SNES,Action,Namco Bandai Games,0,0,0.22,0,0.22
+7771,Jissen Pachi-Slot Hisshouhou,SNES,Misc,Sammy Corporation,0,0,0.19,0,0.19
+7912,Shining Force II,GEN,Strategy,Sega,0,0,0.19,0,0.19
+7931,Thoroughbred Breeder,SNES,Simulation,Hect,0,0,0.19,0,0.19
+8069,Mega Man Soccer,SNES,Sports,Capcom,0.04,0.01,0.13,0,0.18
+8426,Super Power League,SNES,Sports,Hudson Soft,0,0,0.17,0,0.17
+8910,Super Street Fighter II,GEN,Fighting,Capcom,0,0,0.15,0,0.15
+9198,The King of Fighters '94 (CD),NG,Fighting,SNK,0,0,0.14,0,0.14
+9463,Illusion of Gaia,SNES,Role-Playing,Nintendo,0,0,0.13,0,0.13
+9931,Harukanaru Augusta 2: Masters,SNES,Sports,T&E Soft,0,0,0.12,0,0.12
+10261,Classic Road,SNES,Sports,Victor Interactive,0,0,0.11,0,0.11
+10333,Ranma 1/2: Akanekodan Teki Hihou,SNES,Role-Playing,TOHO,0,0,0.11,0,0.11
+11129,Lethal Enforcers,SNES,Shooter,Konami Digital Entertainment,0,0,0.09,0,0.09
+11953,Ecco: The Tides of Time,GEN,Adventure,Sega,0,0,0.07,0,0.07
+12067,Street Fighter II': Special Champion Edition (JP weekly sales),GEN,Action,Capcom,0,0,0.07,0,0.07
+12086,Samurai Shodown,NG,Fighting,SNK,0,0,0.07,0,0.07
+12111,Ninja Warriors,SNES,Action,Titus,0,0,0.07,0,0.07
+12233,Streets of Rage 3,GEN,Action,Sega,0,0,0.07,0,0.07
+12291,Super Mahjong 2: Honkaku 4Jin Uchi,SNES,Misc,Imax,0,0,0.06,0,0.06
+12654,Pop'n TwinBee: Rainbow Bell Adventure,SNES,Platform,Konami Digital Entertainment,0,0,0.06,0,0.06
+12929,Doraemon 2: Nobita no Toizurando Daibouken,SNES,Role-Playing,Epoch,0,0,0.05,0,0.05
+12947,Dynamite Headdy,GEN,Platform,Sega,0,0,0.05,0,0.05
+12958,Pachinko Wars II,SNES,Misc,Coconuts Japan,0,0,0.05,0,0.05
+13149,Keiba Eight Special,SNES,Sports,Misawa,0,0,0.05,0,0.05
+13313,Beyond Oasis,GEN,Role-Playing,Sega,0,0,0.05,0,0.05
+16108,Rock N' Roll Racing,SNES,Racing,Interplay,0,0,0.01,0,0.01

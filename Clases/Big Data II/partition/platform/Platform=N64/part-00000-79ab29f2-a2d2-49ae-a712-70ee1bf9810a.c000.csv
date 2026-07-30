@@ -1,0 +1,320 @@
+Rank,Name,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+47,Super Mario 64,1996,Platform,Nintendo,6.91,2.85,1.91,0.23,11.89
+64,Mario Kart 64,1996,Racing,Nintendo,5.55,1.94,2.23,0.15,9.87
+85,GoldenEye 007,1997,Shooter,Nintendo,5.8,2.01,0.13,0.15,8.09
+95,The Legend of Zelda: Ocarina of Time,1998,Action,Nintendo,4.1,1.89,1.45,0.16,7.6
+158,Super Smash Bros.,1999,Fighting,Nintendo,2.95,0.6,1.97,0.04,5.55
+166,Pokemon Stadium,1999,Strategy,Nintendo,3.18,1.24,0.94,0.09,5.45
+176,Donkey Kong 64,1999,Platform,Nintendo,3.33,0.79,1.09,0.06,5.27
+214,Diddy Kong Racing,1997,Racing,Nintendo,2.91,0.99,0.89,0.1,4.88
+297,Star Fox 64,1997,Shooter,Nintendo,2.78,0.58,0.64,0.04,4.03
+342,Banjo-Kazooie,1998,Platform,Nintendo,1.87,1.13,0.55,0.1,3.65
+347,Pokemon Snap,1999,Simulation,Nintendo,2.23,0.68,0.66,0.06,3.63
+399,The Legend of Zelda: Majora's Mask,2000,Action,Nintendo,1.9,0.67,0.73,0.06,3.36
+444,Star Wars Episode I Racer,1999,Racing,Nintendo,2.31,0.62,0.14,0.04,3.12
+485,Wave Race 64,1996,Racing,Nintendo,1.98,0.58,0.34,0.04,2.94
+511,Yoshi's Story,1997,Platform,Nintendo,1.29,0.53,0.98,0.05,2.85
+548,Pokémon Stadium 2,2000,Strategy,Nintendo,1.02,0.36,1.13,0.23,2.73
+555,Mario Party,1998,Misc,Nintendo,1.25,0.53,0.87,0.05,2.7
+575,Star Wars: Shadows of the Empire,1996,Action,Nintendo,2,0.5,0.12,0.03,2.65
+610,Perfect Dark,2000,Action,Nintendo,1.55,0.75,0.16,0.06,2.52
+616,Mario Party 2,1999,Misc,Nintendo,1.28,0.14,1.08,0.01,2.5
+661,WCW/nWo Revenge,1998,Fighting,THQ,1.94,0.39,0.03,0.02,2.38
+685,Mario Tennis,2000,Sports,Nintendo,0.78,0.4,1.06,0.07,2.32
+755,Star Wars: Rogue Squadron,1998,Simulation,Nintendo,1.6,0.46,0.08,0.03,2.17
+780,Tony Hawk's Pro Skater,2000,Sports,Activision,1.68,0.4,0,0.03,2.11
+839,1080°: TenEighty Snowboarding,1998,Sports,Nintendo,1.25,0.61,0.13,0.05,2.03
+904,Mario Party 3,2000,Misc,Nintendo,0.72,0.16,1.01,0.02,1.91
+929,Turok 2: Seeds of Evil,1997,Platform,Acclaim Entertainment,1.37,0.41,0.04,0.04,1.86
+945,"Hey You, Pikachu!",1998,Simulation,Nintendo,0.83,0.06,0.93,0,1.83
+986,Kirby 64: The Crystal Shards,2000,Platform,Nintendo,0.63,0.06,1.03,0.04,1.77
+1022,Cruis'n USA,1996,Racing,Nintendo,1.69,0.04,0,0.01,1.74
+1066,WCW vs. nWo: World Tour,1997,Fighting,THQ,1.37,0.28,0.03,0.02,1.69
+1154,F-1 World Grand Prix,1998,Racing,Video System,0.46,0.96,0.09,0.08,1.6
+1202,007: The World is not Enough,2000,Action,Electronic Arts,1.13,0.38,0.02,0.03,1.55
+1261,WWF No Mercy,2000,Fighting,THQ,1.2,0.27,0.02,0.02,1.5
+1273,Banjo-Tooie,2000,Platform,Nintendo,0.82,0.36,0.25,0.06,1.49
+1281,WWF WrestleMania 2000,1999,Fighting,THQ,1.2,0.25,0.02,0.02,1.48
+1290,Mario Golf,1999,Action,Nintendo,0.62,0.18,0.65,0.02,1.47
+1329,Namco Museum 64,1999,Misc,Namco Bandai Games,1.24,0.17,0.03,0.01,1.45
+1403,Paper Mario,2000,Role-Playing,Nintendo,0.58,0.18,0.59,0.02,1.38
+1423,Pocket Monsters Stadium,1998,Strategy,Nintendo,0,0,1.37,0,1.37
+1474,WWF War Zone,1998,Fighting,Acclaim Entertainment,1.08,0.24,0,0.02,1.33
+1696,Kobe Bryant in NBA Courtside,1998,Sports,Nintendo,1.02,0.13,0.04,0.01,1.19
+1730,Mission: Impossible,1997,Action,Ocean,0.74,0.38,0.02,0.03,1.17
+1752,Jet Force Gemini,1999,Shooter,Nintendo,0.78,0.28,0.07,0.02,1.16
+1792,South Park,1998,Shooter,Acclaim Entertainment,0.9,0.23,0,0.02,1.14
+1821,Pilotwings 64,1996,Simulation,Nintendo,0.56,0.24,0.3,0.02,1.12
+1862,F-Zero X,1998,Racing,Nintendo,0.45,0.33,0.29,0.03,1.1
+1955,NFL Blitz,1998,Sports,Midway Games,1.02,0.04,0,0.01,1.06
+1956,NFL Quarterback Club 98,1997,Sports,Acclaim Entertainment,1.01,0.05,0,0.01,1.06
+2003,Bomberman 64,1997,Puzzle,Hudson Soft,0.5,0.2,0.31,0.03,1.04
+2062,Excitebike 64,2000,Racing,Nintendo,0.65,0.15,0.19,0.01,1
+2114,NASCAR 99,1998,Racing,Electronic Arts,0.94,0.04,0,0.01,0.98
+2159,Mortal Kombat Trilogy,1996,Fighting,GT Interactive,0.72,0.22,0,0.02,0.96
+2237,Toy Story 2: Buzz Lightyear to the Rescue!,1999,Platform,Activision,0.71,0.2,0,0.01,0.93
+2260,Knockout Kings 2000,1999,Fighting,Electronic Arts,0.63,0.27,0,0.02,0.92
+2285,Glover,1998,Platform,Hasbro Interactive,0.72,0.17,0,0.01,0.91
+2313,Madden NFL 99,1998,Sports,Electronic Arts,0.84,0.05,0,0.01,0.9
+2421,Madden Football 64,1997,Sports,Electronic Arts,0.81,0.04,0,0.01,0.86
+2516,Killer Instinct Gold,1996,Fighting,Nintendo,0.61,0.19,0,0.01,0.82
+2548,Army Men: Sarge's Heroes,1999,Action,3DO,0.68,0.12,0,0.01,0.81
+2611,WCW Mayhem,1999,Fighting,Electronic Arts,0.63,0.15,0,0.01,0.79
+2620,Major League Baseball Featuring Ken Griffey Jr,1998,Sports,Nintendo,0.75,0.03,0,0.01,0.79
+2675,Conker's Bad Fur Day,2001,Platform,THQ,0.53,0.22,0,0.02,0.77
+2707,Tony Hawk's Pro Skater 2,2001,Sports,Activision,0.59,0.16,0,0.01,0.76
+2744,San Francisco Rush: Extreme Racing,1997,Racing,GT Interactive,0.63,0.11,0,0.01,0.75
+2801,Mortal Kombat 4,1998,Fighting,GT Interactive,0.55,0.17,0,0.01,0.73
+2885,LEGO Racers,1999,Racing,LEGO Media,0.51,0.18,0,0.01,0.71
+2886,WWF Attitude,1999,Fighting,Acclaim Entertainment,0.57,0.13,0,0.01,0.71
+2887,Blast Corps,1997,Action,Nintendo,0.39,0.09,0.17,0.06,0.71
+3158,Tom Clancy's Rainbow Six,1999,Shooter,Red Storm Entertainment,0.48,0.15,0,0.01,0.64
+3159,Castlevania,1999,Platform,Konami Digital Entertainment,0.44,0.1,0.04,0.05,0.64
+3160,Rayman 2: The Great Escape,1999,Platform,Ubisoft,0.4,0.22,0,0.02,0.64
+3176,Cruis'n World,1998,Racing,Nintendo,0.59,0.04,0,0.01,0.64
+3177,Madden NFL 2001,2000,Sports,Electronic Arts,0.6,0.03,0,0.01,0.64
+3205,A Bug's Life,1998,Platform,Activision,0.49,0.13,0,0.01,0.63
+3261,Beetle Adventure Racing!,1999,Racing,Electronic Arts,0.4,0.2,0,0.02,0.62
+3282,NFL Quarterback Club 99,1998,Sports,Acclaim Entertainment,0.59,0.02,0,0,0.62
+3328,Madden NFL 2000,1999,Sports,Electronic Arts,0.58,0.02,0,0,0.61
+3362,Mickey's Speedway USA,2000,Racing,Nintendo,0.37,0.08,0.14,0.01,0.6
+3363,International Superstar Soccer 64,1997,Sports,Konami Digital Entertainment,0.09,0.26,0.23,0.02,0.6
+3414,Extreme-G,1997,Racing,Acclaim Entertainment,0.47,0.11,0,0.01,0.59
+3415,Ready 2 Rumble Boxing,1999,Sports,Midway Games,0.47,0.11,0,0.01,0.59
+3467,FIFA: Road to  World Cup 98,1997,Sports,Electronic Arts,0.15,0.39,0,0.03,0.58
+3468,World Cup 98,1998,Sports,Electronic Arts,0.14,0.4,0,0.04,0.58
+3469,International Superstar Soccer '98,1998,Sports,Konami Digital Entertainment,0.06,0.3,0.19,0.03,0.58
+3501,NFL Blitz 2000,1999,Sports,Midway Games,0.55,0.02,0,0,0.58
+3535,NBA Hangtime,1997,Sports,GT Interactive,0.48,0.08,0,0,0.57
+3592,Resident Evil 2,1999,Action,Virgin Interactive,0.39,0.09,0.07,0.01,0.56
+3719,Gauntlet Legends,1999,Action,Midway Games,0.43,0.1,0,0.01,0.54
+3720,FIFA 99,1998,Sports,Electronic Arts,0.11,0.39,0,0.03,0.54
+3796,Spider-Man,2000,Action,Activision,0.43,0.09,0,0.01,0.53
+3820,NASCAR 2000,1999,Racing,Electronic Arts,0.49,0.03,0,0,0.53
+3821,Wayne Gretzky's 3D Hockey,1996,Sports,Nintendo,0.49,0.03,0,0,0.53
+3908,Rugrats: Scavenger Hunt,1999,Misc,THQ,0.41,0.09,0,0.01,0.51
+3910,International Superstar Soccer 2000 (All region sales),1999,Sports,Konami Digital Entertainment,0.01,0.26,0.22,0.02,0.51
+3978,Rugrats in Paris: The Movie,2000,Action,THQ,0.4,0.09,0,0.01,0.5
+4047,FIFA Soccer 64,1997,Sports,Electronic Arts,0.16,0.3,0,0.03,0.49
+4116,All-Star Baseball 99,1998,Sports,Acclaim Entertainment,0.44,0.04,0,0,0.48
+4117,Harvest Moon 64,1999,Simulation,Pack In Soft,0.25,0.06,0.11,0.06,0.48
+4151,NBA Live 99,1998,Sports,Electronic Arts,0.45,0.02,0,0,0.47
+4188,Bomberman Hero,1998,Platform,Nintendo,0.27,0.06,0.08,0.05,0.47
+4189,Automobili Lamborghini,1997,Racing,Titus,0.28,0.17,0,0.01,0.47
+4190,Quest 64,1998,Role-Playing,Konami Digital Entertainment,0.38,0.08,0,0.01,0.47
+4192,Doom 64,1997,Shooter,Midway Games,0.38,0.08,0,0.01,0.47
+4366,Rampage World Tour,1998,Action,GT Interactive,0.36,0.08,0,0.01,0.45
+4367,Pokemon Puzzle League,2000,Puzzle,Nintendo,0.36,0.08,0,0.01,0.45
+4416,NBA Live 2000,1999,Sports,Electronic Arts,0.42,0.02,0,0,0.44
+4454,Duke Nukem 64,1997,Shooter,GT Interactive,0.35,0.08,0,0.01,0.44
+4499,Madden NFL 2002,2001,Sports,Electronic Arts,0.41,0.02,0,0,0.43
+4533,WipEout 64,1998,Racing,Midway Games,0.28,0.14,0,0.01,0.43
+4534,Mischief Makers,1997,Platform,Nintendo,0.25,0.06,0.07,0.06,0.43
+4623,Rush 2: Extreme Racing USA,1998,Racing,Midway Games,0.35,0.06,0,0,0.42
+4624,NFL Blitz 2001,2000,Sports,Midway Games,0.34,0.07,0,0,0.42
+4625,Dr. Mario 64,2001,Puzzle,Nintendo,0.34,0.07,0,0,0.42
+4626,Jikkyou Powerful Pro Yakyuu 6,1999,Sports,Konami Digital Entertainment,0,0,0.39,0.03,0.42
+4627,Army Men: Sarge's Heroes 2,2000,Shooter,3DO,0.34,0.07,0,0,0.42
+4730,Ogre Battle 64: Person of Lordly Caliber,1999,Role-Playing,Nintendo,0.1,0.02,0.25,0.04,0.41
+4731,Superman: The New Superman Adventures,1999,Action,Titus,0.33,0.07,0,0,0.41
+4828,RR64: Ridge Racer 64,1999,Racing,Nintendo,0.32,0.07,0,0,0.4
+4829,Top Gear Rally,1997,Racing,Kemco,0.32,0.07,0,0,0.4
+4830,NFL Quarterback Club 2000,1999,Sports,Acclaim Entertainment,0.37,0.03,0,0,0.4
+4831,Mortal Kombat Mythologies: Sub-Zero,1997,Fighting,Midway Games,0.32,0.07,0,0,0.4
+4887,NHL 99,1998,Sports,Electronic Arts,0.38,0.01,0,0,0.39
+4932,All-Star Baseball 2000,1999,Sports,Acclaim Entertainment,0.36,0.03,0,0,0.39
+4933,Custom Robo V2,2000,Fighting,Nintendo,0,0,0.34,0.05,0.39
+4934,Extreme-G: XG2,1998,Racing,Acclaim Entertainment,0.31,0.07,0,0,0.39
+4935,BattleTanx: Global Assault,1999,Action,3DO,0.31,0.07,0,0,0.39
+5126,Fushigi no Dungeon: Furai no Shiren 2 - Oni Shuurai! Shiren Shiro!,2000,Role-Playing,ChunSoft,0,0,0.32,0.05,0.37
+5127,Turok: Rage Wars,1999,Shooter,Acclaim Entertainment,0.3,0.06,0,0,0.37
+5128,Scooby-Doo! Classic Creep Capers,2000,Action,THQ,0.3,0.06,0,0,0.37
+5146,Bottom of the 9th,1999,Sports,Konami Digital Entertainment,0.37,0,0,0,0.37
+5207,Mystical Ninja starring Goemon,1997,Action,Konami Digital Entertainment,0.07,0.02,0.23,0.04,0.36
+5208,Tetrisphere,1997,Puzzle,Nintendo,0.29,0.06,0,0,0.36
+5209,Saban's Power Rangers: Lightspeed Rescue,2000,Action,THQ,0.29,0.06,0,0,0.36
+5306,Jikkyou Powerful Pro Yakyuu 2000,2000,Sports,Konami Digital Entertainment,0,0,0.29,0.06,0.35
+5396,Off Road Challenge,1998,Racing,GT Interactive,0.27,0.06,0,0,0.34
+5510,Custom Robo,N/A,Role-Playing,Nintendo,0,0,0.29,0.04,0.33
+5511,BattleTanx,1998,Action,3DO,0.26,0.06,0,0,0.33
+5595,NHL Breakaway 98,1998,Sports,Acclaim Entertainment,0.3,0.02,0,0,0.32
+5632,Nagano Winter Olympics 98,1997,Sports,Konami Digital Entertainment,0.15,0.04,0.13,0,0.32
+5755,Jikkyou Powerful Pro Yakyuu 4,1997,Sports,Konami Digital Entertainment,0,0,0.26,0.05,0.31
+5756,Goemon's Great Adventure,1998,Platform,Konami Digital Entertainment,0.06,0.02,0.13,0.1,0.31
+5757,Hot Wheels Turbo Racing,1999,Racing,Electronic Arts,0.25,0.06,0,0,0.31
+5758,Vigilante 8,1998,Racing,Activision,0.25,0.06,0,0,0.31
+5759,Bass Hunter 64,1999,Sports,Take-Two Interactive,0.25,0.06,0,0,0.31
+5760,Doubutsu no Mori,2001,Simulation,Nintendo,0,0,0.26,0.05,0.31
+5887,Monster Truck Madness 64,1999,Racing,Take-Two Interactive,0.24,0.06,0,0,0.3
+5888,Quake II,1999,Shooter,Activision,0.24,0.06,0,0,0.3
+6025,Viz,1998,Racing,Acclaim Entertainment,0.23,0.06,0,0,0.29
+6026,Top Gear Overdrive,1998,Racing,Kemco,0.23,0.06,0,0,0.29
+6027,Xena: Warrior Princess - The Talisman of Fate,1999,Fighting,Titus,0.23,0.06,0,0,0.29
+6028,Jeremy McGrath Supercross 2000,1999,Racing,Acclaim Entertainment,0.23,0.06,0,0,0.29
+6029,The New Tetris,1999,Puzzle,Nintendo,0.22,0.05,0.02,0,0.29
+6030,Ken Griffey Jr.'s Slugfest,1999,Sports,Nintendo,0.23,0.06,0,0,0.29
+6031,Supercross 2000,1999,Racing,Electronic Arts,0.23,0.06,0,0,0.29
+6032,War Gods,1997,Fighting,Midway Games,0.23,0.06,0,0,0.29
+6149,Triple Play 2000,1999,Sports,Electronic Arts,0.27,0.01,0,0,0.28
+6344,NBA In The Zone '98,1997,Sports,Konami Digital Entertainment,0.25,0.02,0,0,0.27
+6345,Jikkyou Powerful Pro Yakyuu 5,1998,Sports,Konami Digital Entertainment,0,0,0.27,0,0.27
+6346,NBA Jam 99,1998,Sports,Acclaim Entertainment,0.25,0.02,0,0,0.27
+6347,Shadow Man,1999,Action,Acclaim Entertainment,0.18,0.08,0,0.01,0.27
+6348,Command & Conquer,1999,Strategy,Nintendo,0.22,0.05,0,0,0.27
+6524,Nightmare Creatures,1996,Action,Activision,0.21,0.05,0,0,0.26
+6525,Star Wars Episode I: Battle for Naboo,2000,Simulation,LucasArts,0.21,0.05,0,0,0.26
+6526,Duke Nukem: Zero Hour,1999,Shooter,GT Interactive,0.21,0.05,0,0,0.26
+6527,Armorines: Project S.W.A.R.M.,1999,Shooter,Acclaim Entertainment,0.21,0.05,0,0,0.26
+6686,Hybrid Heaven,1999,Role-Playing,Konami Digital Entertainment,0.16,0.04,0.05,0,0.25
+6687,NBA Showtime: NBA on NBC,1999,Sports,Midway Games,0.23,0.02,0,0,0.25
+6688,Fox Sports College Hoops '99,1998,Sports,Fox Interactive,0.2,0.05,0,0,0.25
+6689,Wheel of Fortune,1997,Misc,Take-Two Interactive,0.2,0.05,0,0,0.25
+6690,MRC: Multi-Racing Championship,1997,Racing,Ocean,0.2,0.05,0,0,0.25
+6691,F1 Pole Position 64,1997,Racing,Ubisoft,0.11,0.13,0,0.01,0.25
+6692,Gex 64: Enter the Gecko,1998,Action,GT Interactive,0.2,0.05,0,0,0.25
+6693,Wayne Gretzky's 3D Hockey '98,1997,Sports,Midway Games,0.23,0.02,0,0,0.25
+6694,NBA Courtside 2 featuring Kobe Bryant,1999,Sports,Nintendo,0.2,0.05,0,0,0.25
+6869,Paperboy,1999,Action,Midway Games,0.19,0.05,0,0,0.24
+6870,South Park: Chef's Luv Shack,1999,Misc,Acclaim Entertainment,0.19,0.05,0,0,0.24
+6871,Midway's Greatest Arcade Hits Volume 1,2000,Misc,Midway Games,0.19,0.05,0,0,0.24
+6872,Road Rash 64,1999,Racing,THQ,0.19,0.05,0,0,0.24
+6873,Ready 2 Rumble Boxing: Round 2,2000,Fighting,Midway Games,0.19,0.05,0,0,0.24
+6874,Army Men: Air Combat,2000,Action,3DO,0.19,0.05,0,0,0.24
+7007,All-Star Baseball 2001,2000,Sports,Acclaim Entertainment,0.22,0.01,0,0,0.23
+7148,64 de Hakken! Tamagotchi Minna de Tamagotchi World,1997,Misc,Namco Bandai Games,0,0,0.22,0,0.22
+7225,ECW Hardcore Revolution,2000,Fighting,Acclaim Entertainment,0.18,0.04,0,0,0.22
+7226,Mega Man 64,2000,Action,Capcom,0.14,0.03,0.05,0,0.22
+7227,Chou-Kuukan Night Pro Yakyuu King(higher JP sales),1996,Sports,Imagineer,0,0,0.22,0,0.22
+7228,Rampage 2: Universal Tour,1999,Action,GT Interactive,0.18,0.04,0,0,0.22
+7229,Ms. Pac-Man: Maze Madness,2000,Puzzle,Namco Bandai Games,0.18,0.04,0,0,0.22
+7413,ClayFighter 63 1/3,1997,Fighting,Interplay,0.17,0.04,0,0,0.21
+7414,Monopoly,1999,Misc,Hasbro Interactive,0.17,0.04,0,0,0.21
+7415,WCW Nitro,1998,Fighting,THQ,0.17,0.04,0,0,0.21
+7416,Cruis'n Exotica,2000,Racing,Midway Games,0.17,0.04,0,0,0.21
+7417,Gex 3: Deep Cover Gecko,1999,Platform,Crave Entertainment,0.17,0.04,0,0,0.21
+7418,WinBack: Covert Operations,1999,Shooter,Virgin Interactive,0.17,0.04,0,0,0.21
+7616,Tigger's Honey Hunt,2000,Platform,Ubisoft,0.16,0.04,0,0,0.2
+7617,Famista 64,N/A,Sports,Namco Bandai Games,0,0,0.17,0.03,0.2
+7618,Roadsters 99,1999,Racing,Titus,0.06,0.13,0,0.01,0.2
+7619,Magical Tetris Challenge,1997,Puzzle,Activision,0.13,0.02,0.05,0,0.2
+7620,Twisted Edge Extreme Snowboarding,1998,Sports,Kemco,0.16,0.04,0,0,0.2
+7621,Disney's Tarzan,2000,Platform,Activision,0.16,0.04,0,0,0.2
+7622,South Park Rally,2000,Racing,Acclaim Entertainment,0.16,0.04,0,0,0.2
+7623,Body Harvest,1998,Shooter,Gremlin Interactive Ltd,0.16,0.04,0,0,0.2
+7624,San Francisco Rush 2049,2000,Racing,Midway Games,0.16,0.04,0,0,0.2
+7625,Super Robot Taisen 64,1999,Strategy,Banpresto,0,0,0.2,0,0.2
+7626,Snowboard Kids,1996,Sports,Atlus,0.16,0.04,0,0,0.2
+7792,Jikkyou J-League Perfect Striker,1996,Sports,Konami Digital Entertainment,0,0,0.19,0,0.19
+7861,Hexen,1996,Shooter,GT Interactive,0.15,0.04,0,0,0.19
+7862,Mace: The Dark Age,1997,Fighting,GT Interactive,0.15,0.04,0,0,0.19
+7863,AeroFighters Assault,1997,Action,Video System,0.15,0.04,0,0,0.19
+7864,Puyo Puyo Sun 64,1997,Puzzle,Compile,0,0,0.16,0.03,0.19
+7865,Chou-Kuukan Night Pro Yakyuu King (weekly JP sales),1996,Sports,Imagineer,0,0,0.19,0,0.19
+7866,Quake,1998,Shooter,GT Interactive,0.15,0.04,0,0,0.19
+7867,Sesame Street: Elmo's Number Journey,1999,Misc,NewKidCo,0.15,0.04,0,0,0.19
+8051,International Superstar Soccer 2000 (JP weekly sales),1999,Sports,Konami Digital Entertainment,0,0,0.18,0,0.18
+8100,Sesame Street: Elmo's Letter Adventure,1999,Misc,NewKidCo,0.14,0.04,0,0,0.18
+8101,Re-Volt,1999,Racing,Acclaim Entertainment,0.14,0.04,0,0,0.18
+8339,World Driver Championship,1999,Racing,Midway Games,0.14,0.03,0,0,0.17
+8340,Bomberman 64: The Second Attack!,1999,Adventure,Hudson Soft,0.05,0.01,0.11,0,0.17
+8341,Turok 3: Shadow of Oblivion,2000,Shooter,Acclaim Entertainment,0.12,0.05,0,0,0.17
+8583,Fighters Destiny,1998,Fighting,Ocean,0.13,0.03,0,0,0.16
+8584,Asteroids Hyper 64,1999,Shooter,Crave Entertainment,0.13,0.03,0,0,0.16
+8585,The Powerpuff Girls: Chemical X-Traction,2001,Action,BAM! Entertainment,0.13,0.03,0,0,0.16
+8586,Jikkyou Powerful Pro Yakyuu Basic-han 2001,2001,Sports,Konami Digital Entertainment,0,0,0.12,0.04,0.16
+8587,Tom and Jerry in Fists of Furry,2000,Fighting,Ubisoft,0.13,0.03,0,0,0.16
+8588,Hydro Thunder,2000,Racing,Midway Games,0.13,0.03,0,0,0.16
+8589,Space Invaders,1999,Shooter,Activision,0.13,0.03,0,0,0.16
+8590,Starcraft 64,2000,Strategy,Nintendo,0.13,0.03,0,0,0.16
+8591,Destruction Derby 64,1999,Racing,THQ,0.13,0.03,0,0,0.16
+8592,Buck Bumble,1998,Action,Ubisoft,0.13,0.03,0,0,0.16
+8593,California Speed,1999,Misc,Midway Games,0.13,0.03,0,0,0.16
+8594,Wonder Project J2: Koruro no Mori no Josette,1996,Simulation,Enix Corporation,0,0,0.12,0.04,0.16
+8863,Derby Stallion 64,2001,Sports,Media Factory,0,0,0.15,0,0.15
+8864,Doraemon 3: Nobi Dai no Machi SOS!,2000,Platform,Epoch,0,0,0.09,0.06,0.15
+8865,Space Station Silicon Valley,1997,Adventure,Take-Two Interactive,0.12,0.03,0,0,0.15
+8866,Dark Rift,1997,Fighting,Vic Tokai,0.12,0.03,0,0,0.15
+9153,WCW Backstage Assault,N/A,Action,Unknown,0.11,0.03,0,0,0.14
+9154,Micro Machines 64 Turbo,1999,Racing,Codemasters,0.11,0.03,0,0,0.14
+9155,Bassmasters 2000,1999,Sports,THQ,0.11,0.03,0,0,0.14
+9157,Bio FREAKS,1998,Action,GT Interactive,0.11,0.03,0,0,0.14
+9481,Sin and Punishment,2000,Shooter,Nintendo,0,0,0.13,0,0.13
+9482,NBA Jam 2000,1999,Sports,Acclaim Entertainment,0.12,0.01,0,0,0.13
+9483,Castlevania: Legacy of Darkness,1999,Platform,Konami Digital Entertainment,0.06,0.02,0.05,0,0.13
+9818,NFL QB Club 2001,2000,Sports,Acclaim Entertainment,0.11,0.01,0,0,0.12
+9819,Earthworm Jim 3D,1999,Platform,Interplay,0.1,0.02,0,0,0.12
+9820,Rocket: Robot on Wheels,1999,Platform,Ubisoft,0.1,0.02,0,0,0.12
+9821,Densha De Go! 64,1999,Simulation,Taito,0,0,0.05,0.07,0.12
+10218,Snowboard Kids 2,1999,Sports,Atlus,0.09,0.02,0,0,0.11
+10219,Tonic Trouble,1999,Platform,Ubisoft,0.09,0.02,0,0,0.11
+10220,Nuclear Strike 64,1999,Simulation,THQ,0.09,0.02,0,0,0.11
+10221,Chameleon Twist,1997,Platform,Sunsoft,0.09,0.02,0,0,0.11
+10222,Top Gear Rally 2,1999,Racing,Kemco,0.09,0.02,0,0,0.11
+10223,Chopper Attack,1997,Action,GT Interactive,0.09,0.02,0,0,0.11
+10224,Vigilante 8: 2nd Offense,2000,Racing,Activision,0.09,0.02,0,0,0.11
+10225,Fighting Force 64,1999,Action,Crave Entertainment,0.09,0.02,0,0,0.11
+10471,Mickey's Speedway USA (weekly JP sales),2000,Racing,Nintendo,0,0,0.1,0,0.1
+10632,Jeopardy!,1998,Misc,GameTek,0.08,0.02,0,0,0.1
+10633,Disney's Donald Duck: Goin' Quackers,2000,Platform,Ubisoft,0.08,0.02,0,0,0.1
+10634,Aidyn Chronicles: The First Mage,2001,Role-Playing,THQ,0.08,0.02,0,0,0.1
+10636,Virtual Pool 64,1998,Sports,Crave Entertainment,0.08,0.02,0,0,0.1
+10637,Indy Racing 2000,2000,Racing,Infogrames,0.08,0.02,0,0,0.1
+10638,Flying Dragon,1997,Fighting,Natsume,0.08,0.02,0,0,0.1
+10639,International Superstar Soccer 64 (weekly JP sales),1997,Sports,Konami Digital Entertainment,0,0,0.05,0.05,0.1
+10640,Lode Runner 3-D,1998,Action,Infogrames,0.08,0.02,0,0,0.1
+10642,GT64 Championship Edition,1998,Racing,Ocean,0.08,0.02,0,0,0.1
+10643,Milo's Astro Lanes,1998,Sports,Interplay,0.08,0.02,0,0,0.1
+11047,V-Rally Edition 99,1998,Racing,Infogrames,0.07,0.02,0,0,0.09
+11048,Saikyou Habu Shogi,1996,Misc,Seta Corporation,0,0,0.06,0.03,0.09
+11050,Golden Nugget 64,1998,Misc,Electronic Arts,0.07,0.02,0,0,0.09
+11051,Robotron 64,1998,Shooter,GT Interactive,0.07,0.02,0,0,0.09
+11052,Batman Beyond: Return of the Joker,2000,Action,Ubisoft,0.07,0.02,0,0,0.09
+11204,Mahjong Master,1996,Misc,Konami Digital Entertainment,0,0,0.09,0,0.09
+11477,Bust-A-Move 2 Arcade Edition,1997,Puzzle,Acclaim Entertainment,0.06,0.02,0,0,0.08
+11478,Knife Edge: NoseGunner,1998,Shooter,Mitsui,0.06,0.02,0,0,0.08
+11480,Wetrix,1998,Puzzle,Ocean,0.06,0.02,0,0,0.08
+11481,NHL Breakaway 99,1998,Sports,Acclaim Entertainment,0.07,0.01,0,0,0.08
+11482,Tony Hawk's Pro Skater 3,2002,Sports,Activision,0.06,0.02,0,0,0.08
+11483,Iggy's Reckin' Balls,1998,Racing,Acclaim Entertainment,0.06,0.02,0,0,0.08
+11925,Itoi Shigesato no Bass Tsuri No. 1 Ketteihan!,2000,Sports,Nintendo,0,0,0.07,0,0.07
+11983,Aero Gauge,1997,Racing,ASCII Entertainment,0.06,0.01,0,0,0.07
+11984,Battlezone: Rise of the Black Dogs,2000,Strategy,Crave Entertainment,0.06,0.01,0,0,0.07
+11986,Shadowgate 64: Trials of the Four Towers,1999,Adventure,Kemco,0.06,0.01,0,0,0.07
+11988,Super Robot Spirits,1998,Fighting,Banpresto,0,0,0.04,0.03,0.07
+11989,Mia Hamm Soccer 64,2000,Sports,THQ,0.06,0.01,0,0,0.07
+12496,Neon Genesis Evangelion,1999,Adventure,Namco Bandai Games,0,0,0.06,0,0.06
+12506,Top Gear Hyper-Bike,1999,Racing,Kemco,0.05,0.01,0,0,0.06
+12507,Brunswick Circuit Pro Bowling,1999,Sports,THQ,0.05,0.01,0,0,0.06
+12508,Olympic Hockey 98,1998,Sports,GT Interactive,0.05,0.01,0,0,0.06
+12509,CyberTiger,2000,Sports,Electronic Arts,0.05,0.01,0,0,0.06
+12510,Penny Racers,1998,Racing,THQ,0.05,0.01,0,0,0.06
+12511,S.C.A.R.S,1998,Racing,Ubisoft,0.05,0.01,0,0,0.06
+12512,Virtual Chess 64,1998,Misc,Titus,0.05,0.01,0,0,0.06
+12514,Mike Piazza's Strike Zone,1998,Sports,GT Interactive,0.05,0.01,0,0,0.06
+12515,Bust-A-Move '99,1998,Puzzle,Acclaim Entertainment,0.05,0.01,0,0,0.06
+12516,Star Soldier: Vanishing Earth,1998,Shooter,Hudson Entertainment,0.05,0.01,0,0,0.06
+12517,Polaris SnoCross,2000,Racing,Vatical Entertainment,0.05,0.01,0,0,0.06
+13085,NHL Blades of Steel '99,1999,Sports,Konami Digital Entertainment,0.05,0,0,0,0.05
+13112,Blues Brothers 2000,2000,Platform,Virgin Interactive,0.04,0.01,0,0,0.05
+13114,All Star Tennis 99,1999,Sports,Ubisoft,0.04,0.01,0,0,0.05
+13115,Hercules: The Legendary Journeys,2000,Role-Playing,Titus,0.04,0.01,0,0,0.05
+13116,Dual Heroes,1997,Fighting,Hudson Soft,0.04,0.01,0,0,0.05
+13117,Fighter Destiny 2,1999,Fighting,Imagineer,0.04,0.01,0,0,0.05
+13118,Chameleon Twist 2,1998,Platform,Infogrames,0.04,0.01,0,0,0.05
+13365,Turok: Dinosaur Hunter,1997,Shooter,Acclaim Entertainment,0,0,0.05,0,0.05
+13436,Choro Q 64 2: Hacha Mecha Grand Prix Race,1999,Racing,Takara,0,0,0.05,0,0.05
+13710,NBA in the Zone 2000,2000,Sports,Konami Digital Entertainment,0.04,0,0,0,0.04
+13712,NBA In The Zone '99,1998,Sports,Konami Digital Entertainment,0.04,0,0,0,0.04
+13740,PD Ultraman Battle Collection 64,1999,Strategy,Namco Bandai Games,0,0,0.04,0,0.04
+13741,Monaco Grand Prix,1999,Racing,Ubisoft,0.03,0.01,0,0,0.04
+13742,Worms Armageddon,1999,Strategy,Infogrames,0.03,0.01,0,0,0.04
+13743,Rally Challenge 2000,1999,Racing,Imagineer,0.03,0.01,0,0,0.04
+13744,Looney Tunes Duck Dodgers Starring: Daffy Duck,2000,Platform,Infogrames,0.03,0.01,0,0,0.04
+13746,Deadly Arts,1998,Fighting,Konami Digital Entertainment,0.03,0.01,0,0,0.04
+14495,Starshot: Space Circus Fever,1998,Platform,Infogrames,0.02,0.01,0,0,0.03
+14496,Charlie Blasts Territory,1999,Action,Kemco,0.02,0.01,0,0,0.03
+14497,Big Mountain 2000,1998,Sports,Imagineer,0.02,0.01,0,0,0.03
+15375,Super Bowling,1999,Sports,Athena,0.02,0,0,0,0.02
+15376,Rat Attack!,2000,Puzzle,Mindscape,0.02,0,0,0,0.02
+16582,PGA European Tour,2000,Sports,Infogrames,0.01,0,0,0,0.01
+16586,Carmageddon 64,1999,Action,Virgin Interactive,0.01,0,0,0,0.01

@@ -1,0 +1,214 @@
+Rank,Name,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+102,Call of Duty: Black Ops 3,2015,Shooter,Activision,4.52,2.09,0.01,0.67,7.3
+194,Call of Duty: Advanced Warfare,2014,Shooter,Activision,3.21,1.53,0.01,0.38,5.13
+198,Grand Theft Auto V,2014,Action,Take-Two Interactive,2.66,2.01,0,0.41,5.08
+261,Halo 5: Guardians,2015,Shooter,Microsoft Game Studios,2.64,1.2,0.03,0.39,4.26
+288,Fallout 4,2015,Role-Playing,Bethesda Softworks,2.45,1.26,0.01,0.37,4.09
+379,Star Wars Battlefront (2015),2015,Shooter,Electronic Arts,1.94,1.22,0.02,0.31,3.49
+382,Assassin's Creed: Unity,2014,Action,Ubisoft,2.26,0.89,0,0.3,3.46
+411,Destiny,2014,Shooter,Activision,2.13,0.92,0,0.23,3.28
+417,FIFA 16,2015,Sports,Electronic Arts,0.88,2.11,0,0.23,3.23
+440,Halo: The Master Chief Collection,2014,Shooter,Microsoft Game Studios,1.89,0.99,0.03,0.24,3.15
+468,Gears of War: Ultimate Edition,2015,Shooter,Microsoft Game Studios,2.38,0.32,0,0.31,3
+495,Titanfall,2014,Shooter,Electronic Arts,1.84,0.8,0.04,0.22,2.9
+506,Call of Duty: Ghosts,2013,Shooter,Activision,1.87,0.77,0,0.22,2.86
+644,Minecraft,2014,Misc,Microsoft Game Studios,1.43,0.76,0,0.22,2.41
+646,Madden NFL 16,2015,Sports,Electronic Arts,2.07,0.08,0,0.26,2.4
+683,NBA 2K16,2015,Sports,Take-Two Interactive,1.93,0.14,0,0.24,2.32
+733,Assassin's Creed IV: Black Flag,2013,Action,Ubisoft,1.47,0.55,0,0.19,2.21
+750,Forza Motorsport 5,2013,Racing,Microsoft Game Studios,1.21,0.78,0.01,0.17,2.18
+762,FIFA 15,2014,Sports,Electronic Arts,0.6,1.41,0,0.14,2.15
+847,Tom Clancy's The Division,2016,Shooter,Ubisoft,1.2,0.62,0,0.18,2.01
+858,Battlefield 4,2013,Shooter,Electronic Arts,1.25,0.58,0,0.16,1.98
+1020,Forza Motorsport 6,2015,Racing,Microsoft Game Studios,0.69,0.89,0.03,0.14,1.74
+1060,NBA 2K15,2014,Sports,Take-Two Interactive,1.36,0.18,0,0.15,1.69
+1149,Far Cry 4,2014,Shooter,Ubisoft,0.79,0.68,0.01,0.13,1.61
+1204,Watch Dogs,2014,Action,Ubisoft,0.9,0.53,0,0.13,1.55
+1210,Dead Rising 3,2013,Action,Microsoft Game Studios,1.06,0.35,0.01,0.12,1.54
+1226,FIFA 17,2016,Sports,Electronic Arts,0.17,1.26,0,0.1,1.53
+1243,Madden NFL 15,2014,Sports,Electronic Arts,1.3,0.09,0,0.12,1.51
+1319,Batman: Arkham Knight,2015,Action,Warner Bros. Interactive Entertainment,0.86,0.46,0,0.13,1.45
+1418,Forza Horizon 2,2014,Racing,Microsoft Game Studios,0.5,0.78,0.01,0.09,1.37
+1433,Ryse: Son of Rome,2013,Action,Microsoft Game Studios,0.82,0.42,0,0.11,1.36
+1446,Mortal Kombat X,2015,Fighting,Warner Bros. Interactive Entertainment,1,0.21,0,0.13,1.35
+1484,Middle-Earth: Shadow of Mordor,2014,Action,Warner Bros. Interactive Entertainment,0.72,0.5,0.01,0.1,1.32
+1526,Rise of the Tomb Raider,2015,Adventure,Square Enix,0.53,0.64,0.02,0.1,1.3
+1533,Tom Clancy's Rainbow Six: Siege,2015,Shooter,Ubisoft,0.73,0.44,0,0.12,1.29
+1545,Assassin's Creed Syndicate,2015,Action,Ubisoft,0.61,0.56,0,0.11,1.28
+1563,The Elder Scrolls Online,2015,Role-Playing,Bethesda Softworks,0.77,0.38,0,0.12,1.27
+1607,The Witcher 3: Wild Hunt,2015,Role-Playing,Namco Bandai Games,0.66,0.47,0,0.11,1.24
+1674,Battlefield: Hardline,2015,Shooter,Electronic Arts,0.72,0.37,0.01,0.11,1.2
+1700,FIFA 14,2013,Sports,Electronic Arts,0.41,0.66,0,0.12,1.19
+1739,Destiny: The Taken King,2015,Shooter,Activision,0.82,0.23,0,0.11,1.17
+1838,Sunset Overdrive,2014,Shooter,Microsoft Game Studios,0.62,0.4,0,0.08,1.11
+2009,LEGO Marvel Super Heroes,2013,Action,Warner Bros. Interactive Entertainment,0.61,0.34,0,0.09,1.04
+2294,Dragon Age: Inquisition,2014,Role-Playing,Electronic Arts,0.55,0.28,0,0.07,0.91
+2369,Just Cause 3,2015,Action,Square Enix,0.42,0.38,0,0.07,0.88
+2379,NBA 2K14,2013,Sports,Take-Two Interactive,0.7,0.11,0,0.06,0.87
+2436,Far Cry: Primal,2016,Action,Ubisoft,0.46,0.32,0,0.07,0.85
+2446,Overwatch,2016,Shooter,Activision,0.52,0.25,0,0.08,0.85
+2507,Madden NFL 17,2016,Sports,Electronic Arts,0.72,0.02,0,0.09,0.82
+2556,Dying Light,2015,Action,Warner Bros. Interactive Entertainment,0.43,0.3,0.01,0.07,0.81
+2665,Madden NFL 25,2013,Sports,Electronic Arts,0.67,0.05,0,0.05,0.77
+2731,Rare Replay,2015,Misc,Microsoft Game Studios,0.47,0.21,0.01,0.07,0.75
+2896,Metal Gear Solid V: The Phantom Pain,2015,Action,Konami Digital Entertainment,0.37,0.26,0.01,0.06,0.71
+2974,Plants vs. Zombies: Garden Warfare,2014,Shooter,Electronic Arts,0.39,0.23,0,0.06,0.68
+2993,Doom (2016),2016,Shooter,Bethesda Softworks,0.39,0.23,0,0.06,0.68
+2996,Need for Speed (2015),2015,Racing,Electronic Arts,0.3,0.33,0,0.06,0.68
+3012,Need for Speed Rivals,2013,Racing,Electronic Arts,0.45,0.17,0,0.05,0.67
+3020,Wolfenstein: The New Order,2014,Shooter,Bethesda Softworks,0.33,0.28,0,0.06,0.67
+3100,The Evil Within,2014,Action,Bethesda Softworks,0.35,0.25,0,0.05,0.65
+3138,Diablo III,2014,Role-Playing,Activision,0.35,0.24,0,0.05,0.64
+3147,NBA 2K17,2016,Sports,Take-Two Interactive,0.54,0.04,0,0.07,0.64
+3221,The Crew,2014,Racing,Ubisoft,0.24,0.34,0,0.05,0.63
+3233,LEGO Jurassic World,2015,Action,Warner Bros. Interactive Entertainment,0.35,0.22,0,0.06,0.63
+3254,Evolve,2015,Shooter,Take-Two Interactive,0.36,0.2,0,0.06,0.62
+3361,Tomb Raider (2013),2014,Action,Square Enix,0.34,0.21,0,0.05,0.6
+3456,Kinect Sports Rivals,2014,Sports,Microsoft Game Studios,0.3,0.22,0.02,0.04,0.58
+3458,WWE 2K16,2015,Sports,Take-Two Interactive,0.31,0.22,0,0.05,0.58
+3615,WWE 2K15,2014,Sports,Take-Two Interactive,0.28,0.23,0,0.04,0.56
+3712,Minecraft: Story Mode,2015,Adventure,Mojang,0.29,0.21,0,0.05,0.54
+3818,Just Dance 2015,2014,Misc,Ubisoft,0.35,0.13,0,0.05,0.53
+3884,The LEGO Movie Videogame,2014,Action,Warner Bros. Interactive Entertainment,0.34,0.13,0,0.04,0.51
+3929,Quantum Break,2016,Action,Microsoft Game Studios,0.27,0.19,0.01,0.04,0.51
+3944,Guitar Hero Live,2015,Misc,Activision,0.29,0.17,0,0.05,0.51
+3997,Alien: Isolation,2014,Shooter,Sega,0.22,0.24,0,0.04,0.5
+4202,NHL 16,2015,Sports,Electronic Arts,0.37,0.05,0,0.05,0.47
+4268,EA Sports UFC,2014,Sports,Electronic Arts,0.3,0.12,0,0.04,0.46
+4279,Mad Max (2015),2015,Action,Warner Bros. Interactive Entertainment,0.26,0.16,0,0.04,0.46
+4311,Thief (2014),2014,Action,Square Enix,0.26,0.15,0,0.04,0.45
+4410,Just Dance 2014,2013,Misc,Ubisoft,0.3,0.11,0,0.04,0.45
+4432,Plants vs. Zombies: Garden Warfare 2,2016,Shooter,Electronic Arts,0.26,0.15,0,0.04,0.44
+4512,Rock Band 4,2015,Misc,Harmonix Music Systems,0.35,0.04,0,0.04,0.43
+4551,Lego Batman 3: Beyond Gotham,2014,Action,Warner Bros. Interactive Entertainment,0.23,0.17,0,0.04,0.43
+4632,Disney Infinity 2.0: Marvel Super Heroes,2014,Action,Disney Interactive Studios,0.24,0.15,0,0.03,0.42
+4771,Borderlands: The Handsome Collection,2015,Shooter,Take-Two Interactive,0.24,0.13,0,0.04,0.41
+4816,Rocksmith 2014,2014,Misc,Ubisoft,0.29,0.08,0,0.04,0.4
+4818,NHL 15,2014,Sports,Electronic Arts,0.31,0.06,0,0.03,0.4
+4822,EA Sports UFC 2,2016,Sports,Electronic Arts,0.23,0.14,0,0.04,0.4
+5017,Forza Horizon 3,2016,Racing,Microsoft Game Studios,0.15,0.2,0,0.03,0.38
+5109,LEGO Dimensions,2015,Action,Warner Bros. Interactive Entertainment,0.21,0.13,0,0.03,0.37
+5270,Dark Souls III,2016,Role-Playing,Namco Bandai Games,0.23,0.09,0,0.03,0.35
+5364,Skylanders: Trap Team,2014,Action,Activision,0.25,0.07,0,0.03,0.34
+5411,Rayman Legends,2014,Platform,Ubisoft,0.13,0.18,0,0.03,0.34
+5421,Zoo Tycoon (2013),2013,Simulation,Microsoft Game Studios,0.18,0.13,0,0.03,0.34
+5558,Sniper Elite 3,2014,Shooter,505 Games,0.19,0.11,0,0.03,0.33
+5597,LEGO Marvel's Avengers,2016,Action,Warner Bros. Interactive Entertainment,0.18,0.11,0,0.03,0.32
+5693,Just Dance 2016,2015,Misc,Ubisoft,0.24,0.04,0,0.03,0.32
+5701,Dragon Ball: XenoVerse,2015,Fighting,Namco Bandai Games,0.18,0.11,0,0.03,0.31
+5741,Metro: Last Light,2014,Action,Deep Silver,0.15,0.13,0,0.03,0.31
+5764,Disney Infinity 3.0,2015,Action,Disney Interactive Studios,0.18,0.1,0,0.03,0.31
+5809,Skylanders SWAP Force,2013,Platform,Activision,0.22,0.06,0,0.02,0.31
+6120,Metal Gear Solid V: Ground Zeroes,2014,Action,Konami Digital Entertainment,0.15,0.11,0,0.02,0.28
+6159,Naruto Shippuden: Ultimate Ninja Storm 4,2016,Fighting,Namco Bandai Games,0.19,0.06,0,0.03,0.28
+6364,LEGO The Hobbit,2014,Action,Warner Bros. Interactive Entertainment,0.13,0.12,0,0.02,0.27
+6428,Rory McIlroy PGA Tour,2015,Action,Electronic Arts,0.15,0.09,0,0.02,0.27
+6703,Final Fantasy Type-0,2015,Role-Playing,Square Enix,0.15,0.07,0,0.02,0.25
+6780,Trials Fusion,2014,Racing,Ubisoft,0.12,0.1,0,0.02,0.24
+6827,F1 2015,2015,Racing,Codemasters,0.08,0.15,0,0.02,0.24
+6912,Lego Star Wars: The Force Awakens,2016,Action,Warner Bros. Interactive Entertainment,0.12,0.1,0,0.02,0.24
+6977,Zumba Fitness: World Party,2013,Misc,Majesco Entertainment,0.17,0.05,0,0.02,0.23
+7021,Skylanders: SuperChargers,2015,Action,Activision,0.16,0.05,0,0.02,0.23
+7050,Project CARS,2015,Racing,Slightly Mad Studios,0.08,0.13,0,0.02,0.23
+7163,Dark Souls II,2015,Role-Playing,Namco Bandai Games,0.13,0.07,0,0.02,0.22
+7313,Lords of the Fallen,2014,Role-Playing,Square Enix,0.1,0.1,0,0.02,0.22
+7341,The Amazing Spider-Man 2 (2014),2014,Action,Activision,0.12,0.07,0,0.02,0.21
+7511,NBA Live 15,2014,Sports,Electronic Arts,0.17,0.02,0,0.02,0.2
+7550,State of Decay,2015,Strategy,Microsoft Game Studios,0.14,0.05,0,0.02,0.2
+7609,Saints Row IV,2015,Action,Deep Silver,0.1,0.09,0,0.02,0.2
+7688,Sleeping Dogs,2014,Action,Square Enix,0.1,0.09,0,0.02,0.2
+7822,NBA Live 14,2013,Sports,Electronic Arts,0.16,0.02,0,0.01,0.19
+7834,Farming Simulator 2015,2015,Simulation,Koch Media,0.1,0.07,0,0.02,0.19
+7875,Fighter Within,2013,Fighting,Ubisoft,0.11,0.07,0,0.02,0.19
+7977,Dance Central: Spotlight,2014,Misc,Microsoft Game Studios,0.15,0.03,0,0,0.19
+8043,Shape Up,2014,Misc,Ubisoft,0.08,0.09,0,0.01,0.18
+8235,Project Spark,2014,Misc,Microsoft Game Studios,0.11,0.05,0,0.02,0.17
+8430,Payday 2,2015,Shooter,505 Games,0.08,0.07,0,0.01,0.17
+8574,Murdered: Soul Suspect,2014,Action,Square Enix,0.08,0.07,0,0.01,0.16
+8673,Angry Birds Star Wars,2013,Strategy,Activision,0.11,0.04,0,0.01,0.16
+8694,The Walking Dead: Season One,2014,Adventure,Telltale Games,0.08,0.06,0,0.01,0.16
+8753,NHL 17,2016,Sports,Electronic Arts,0.13,0.01,0,0.02,0.15
+8770,Wolfenstein: The Old Blood,2015,Action,Bethesda Softworks,0.07,0.07,0,0.01,0.15
+8849,Fantasia: Music Evolved,2014,Misc,Disney Interactive Studios,0.11,0.03,0,0.01,0.15
+8862,Mirror's Edge Catalyst,2016,Platform,Electronic Arts,0.08,0.05,0,0.02,0.15
+8949,Deus Ex: Mankind Divided,2016,Role-Playing,Square Enix,0.08,0.06,0,0.01,0.15
+9034,Dishonored,2015,Action,Bethesda Softworks,0.08,0.05,0,0.01,0.14
+9199,The Walking Dead: Season Two,2014,Adventure,Telltale Games,0.08,0.05,0,0.01,0.14
+9315,Pro Evolution Soccer 2015,2014,Sports,Konami Digital Entertainment,0.02,0.1,0,0.01,0.14
+9371,Transformers: Devastation,2015,Action,Activision,0.09,0.03,0,0.01,0.13
+9373,DmC: Devil May Cry,2015,Action,Capcom,0.08,0.04,0,0.01,0.13
+9473,Hasbro Family Fun Pack,2015,Misc,Ubisoft,0.1,0.02,0,0.01,0.13
+9648,Battleborn,2016,Shooter,Take-Two Interactive,0.08,0.04,0,0.01,0.13
+9702,Homefront: The Revolution,2016,Shooter,Deep Silver,0.05,0.07,0,0.01,0.12
+9713,Rocket League,2016,Sports,505 Games,0.03,0.09,0,0.01,0.12
+9959,Deadpool,2015,Action,Activision,0.08,0.03,0,0.01,0.12
+10031,Tony Hawk's Pro Skater 5,2015,Sports,Activision,0.08,0.02,0,0.01,0.11
+10040,DiRT Rally,2016,Racing,Codemasters,0.03,0.08,0,0.01,0.11
+10049,Life is Strange,2016,Adventure,Square Enix,0.08,0.02,0,0.01,0.11
+10331,Transformer: Rise of the Dark Spark,2014,Action,Activision,0.06,0.03,0,0.01,0.11
+10509,Zombie Army Trilogy,2015,Shooter,Rebellion Developments,0.04,0.05,0,0.01,0.1
+10558,Pro Evolution Soccer 2016,2015,Sports,Konami Digital Entertainment,0.03,0.06,0,0.01,0.1
+10612,NBA Live 16,2015,Sports,Electronic Arts,0.08,0.01,0,0.01,0.1
+10704,Ride,2015,Racing,Milestone S.r.l.,0.04,0.05,0,0.01,0.1
+10754,Resident Evil: Revelations 2,2015,Action,Capcom,0.07,0.02,0,0.01,0.1
+10816,ReCore,2016,Action,Microsoft Game Studios,0.06,0.03,0,0.01,0.1
+11142,F1 2016 (Codemasters),2016,Racing,Codemasters,0.01,0.07,0,0.01,0.09
+11243,Rugby 15,2015,Sports,Bigben Interactive,0.03,0.05,0,0.01,0.09
+11307,Dead or Alive 5,2015,Fighting,Tecmo Koei,0.04,0.03,0.01,0.01,0.08
+11529,Sherlock Holmes: Crimes & Punishments,2014,Adventure,Focus Home Interactive,0.03,0.04,0,0.01,0.08
+11552,BioShock The Collection,2016,Shooter,Take-Two Interactive,0.03,0.04,0,0.01,0.08
+11805,Resident Evil Zero,2016,Action,Capcom,0.05,0.02,0,0.01,0.07
+11846,The Wolf Among Us,2014,Adventure,Telltale Games,0.05,0.02,0,0.01,0.07
+12060,Dynasty Warriors 8: Empires,2014,Action,Tecmo Koei,0.04,0.02,0,0.01,0.07
+12073,Divinity: Original Sin,2015,Role-Playing,Focus Home Interactive,0.04,0.02,0,0.01,0.07
+12119,Just Dance: Disney Party 2,2015,Action,Ubisoft,0.05,0.01,0,0.01,0.07
+12335,Killer Instinct (2013),2013,Fighting,Microsoft Game Studios,0.03,0.03,0,0.01,0.06
+12521,BlazBlue: Chrono Phantasma Extend,2015,Action,PQube,0.05,0.01,0,0.01,0.06
+12547,Darksiders II,2015,Action,Nordic Games,0.03,0.02,0,0.01,0.06
+12581,TrackMania Turbo,2016,Action,Ubisoft,0.02,0.03,0,0,0.06
+12960,Toy Soldiers: War Chest,2015,Action,Ubisoft,0.05,0,0,0.01,0.05
+13126,Adventure Time: Finn & Jake Investigations,2015,Action,Little Orbit,0.02,0.02,0,0,0.05
+13176,MXGP 2,2016,Racing,Milestone S.r.l.,0.02,0.02,0,0,0.05
+13217,Bladestorm: Nightmare,2015,Action,Tecmo Koei,0.03,0.02,0,0,0.05
+13290,Wasteland 2,2015,Role-Playing,Deep Silver,0.04,0.01,0,0,0.05
+13492,Dead Island Definitive Collection,2016,Action,Deep Silver,0.02,0.02,0,0,0.04
+13531,R.B.I. Baseball 2016,2016,Sports,MLB.com,0.04,0,0,0,0.04
+13652,7 Days to Die,2016,Action,Telltale Games,0.02,0.02,0,0,0.04
+13765,One Piece: Burning Blood,2016,Fighting,Namco Bandai Games,0.03,0.01,0,0,0.04
+13772,Terraria,2014,Action,505 Games,0,0.04,0,0,0.04
+13860,Brothers: A Tale of Two Sons,2015,Adventure,505 Games,0.03,0.01,0,0,0.04
+13873,Song of the Deep,2016,Action,Insomniac Games,0.03,0,0,0,0.04
+13925,Don Bradman Cricket 14,2015,Sports,Tru Blu Entertainment,0,0.04,0,0,0.04
+13952,Resident Evil 6,2016,Shooter,Capcom,0.03,0,0,0,0.04
+13955,Warriors Orochi 3,2014,Action,Tecmo Koei,0.01,0.03,0,0,0.04
+13996,Destiny: The Collection,2016,Shooter,Activision,0.01,0.02,0,0,0.04
+14188,Teenage Mutant Ninja Turtles: Mutants in Manhattan,2016,Action,Activision,0.02,0.01,0,0,0.03
+14413,MotoGP 15,2015,Racing,Milestone S.r.l.,0,0.03,0,0,0.03
+14592,Game of Thrones (Telltale),2015,Adventure,Telltale Games,0.03,0,0,0,0.03
+14612,Attack on Titan (KOEI),2016,Action,Tecmo Koei,0.01,0.01,0,0,0.03
+14741,Pro Evolution Soccer 2017,2016,Sports,Konami Digital Entertainment,0,0.02,0,0,0.03
+14763,The Golf Club,2014,Sports,Unknown,0.02,0,0,0,0.03
+14916,Ghostbusters (2016),2016,Action,Activision,0.02,0,0,0,0.02
+15055,NASCAR Heat Evolution,2016,Racing,Dusenberry Martin Racing,0.02,0,0,0,0.02
+15156,Rugby World Cup 2015,2015,Sports,Ubisoft,0,0.02,0,0,0.02
+15206,Valentino Rossi: The Game,2016,Racing,Namco Bandai Games,0,0.02,0,0,0.02
+15344,The Technomancer,2016,Role-Playing,Focus Home Interactive,0.01,0.01,0,0,0.02
+15615,The Crew: Wild Run,2015,Action,Ubisoft,0,0.02,0,0,0.02
+15710,Back to the Future: The Game,2015,Adventure,Telltale Games,0,0.02,0,0,0.02
+15723,Arslan: The Warriors of Legend,2016,Action,Tecmo Koei,0.01,0,0,0,0.02
+15730,MX vs. ATV Supercross Encore,2015,Sports,Nordic Games,0.02,0,0,0,0.02
+15804,XCOM 2,2016,Strategy,Take-Two Interactive,0.01,0.01,0,0,0.02
+16040,WRC 5: FIA World Rally Championship,2015,Sports,Bigben Interactive,0,0.01,0,0,0.01
+16117,Psycho-Pass,2014,Adventure,5pb,0,0,0.01,0,0.01
+16225,Carmageddon: Max Damage,2016,Action,Stainless Games,0.01,0.01,0,0,0.01
+16237,Broken Sword 5: The Serpent's Curse,2015,Adventure,Revolution Software,0,0.01,0,0,0.01
+16279,Assetto Corsa,2016,Racing,505 Games,0,0.01,0,0,0.01
+16432,Goat Simulator,2016,Simulation,Koch Media,0,0.01,0,0,0.01
+16451,Assassin's Creed Chronicles,2016,Action,Ubisoft,0,0.01,0,0,0.01
+16455,Rugby League Live 3,2015,Action,Tru Blu Entertainment,0,0.01,0,0,0.01
+16508,Rabbids Invasion: The Interactive TV Show,2014,Misc,Ubisoft,0,0.01,0,0,0.01
+16533,Sébastien Loeb Rally Evo,2016,Racing,Milestone S.r.l,0,0.01,0,0,0.01
+16534,Hitman (2016),2016,Action,Square Enix,0,0.01,0,0,0.01
+16565,Mighty No. 9,2016,Platform,Deep Silver,0.01,0,0,0,0.01
+16572,Resident Evil 4 HD,2016,Shooter,Capcom,0.01,0,0,0,0.01
+16579,Rugby Challenge 3,2016,Sports,Alternative Software,0,0.01,0,0,0.01
