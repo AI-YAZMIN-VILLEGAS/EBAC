@@ -1,0 +1,11 @@
+Rank,Name,Platform,Year,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+259,Asteroids,2600,1980,Atari,4,0.26,0,0.05,4.31
+261,Halo 5: Guardians,XOne,2015,Microsoft Game Studios,2.64,1.2,0.03,0.39,4.26
+272,Uncharted 4: A Thief's End,PS4,2016,Sony Computer Entertainment,1.3,2.07,0.18,0.65,4.2
+282,Half-Life,PC,1997,Vivendi Games,4.03,0,0.09,0,4.12
+296,Far Cry 4,PS4,2014,Ubisoft,1.12,2.12,0.1,0.69,4.03
+297,Star Fox 64,N64,1997,Nintendo,2.78,0.58,0.64,0.04,4.03
+302,Left 4 Dead 2,X360,2009,Electronic Arts,2.67,0.89,0.05,0.37,3.99
+337,Battlefield 4,PS3,2013,Electronic Arts,1.3,1.51,0.27,0.61,3.69
+343,SOCOM: U.S. Navy SEALs,PS2,2002,Sony Computer Entertainment,2.53,0.81,0.06,0.24,3.65
+350,Call of Duty: Ghosts,PS4,2013,Activision,1.78,1.42,0.05,0.38,3.63

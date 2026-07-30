@@ -1,0 +1,51 @@
+Rank,Name,Platform,Year,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+10,Duck Hunt,NES,1984,Nintendo,26.93,0.63,0.28,0.47,28.31
+30,Call of Duty: Modern Warfare 3,X360,2011,Activision,9.03,4.28,0.13,1.32,14.76
+32,Call of Duty: Black Ops,X360,2010,Activision,9.67,3.73,0.11,1.13,14.64
+34,Call of Duty: Black Ops 3,PS4,2015,Activision,5.77,5.81,0.35,2.31,14.24
+35,Call of Duty: Black Ops II,PS3,2012,Activision,4.99,5.88,0.65,2.52,14.03
+36,Call of Duty: Black Ops II,X360,2012,Activision,8.25,4.3,0.07,1.12,13.73
+37,Call of Duty: Modern Warfare 2,X360,2009,Activision,8.52,3.63,0.08,1.29,13.51
+38,Call of Duty: Modern Warfare 3,PS3,2011,Activision,5.54,5.82,0.49,1.62,13.46
+41,Call of Duty: Black Ops,PS3,2010,Activision,5.98,4.44,0.48,1.83,12.73
+44,Halo 3,X360,2007,Microsoft Game Studios,7.97,2.83,0.13,1.21,12.14
+56,Call of Duty: Modern Warfare 2,PS3,2009,Activision,4.99,3.69,0.38,1.63,10.69
+62,Call of Duty: Ghosts,X360,2013,Activision,6.72,2.63,0.04,0.82,10.21
+63,Halo: Reach,X360,2010,Microsoft Game Studios,7.03,1.98,0.08,0.78,9.88
+66,Halo 4,X360,2012,Microsoft Game Studios,6.63,2.36,0.04,0.73,9.76
+68,Call of Duty: Ghosts,PS3,2013,Activision,4.09,3.73,0.38,1.38,9.59
+71,Call of Duty 4: Modern Warfare,X360,2007,Activision,5.91,2.38,0.13,0.9,9.32
+80,Halo 2,XB,2004,Microsoft Game Studios,6.82,1.53,0.05,0.08,8.49
+85,GoldenEye 007,N64,1997,Nintendo,5.8,2.01,0.13,0.15,8.09
+93,Star Wars Battlefront (2015),PS4,2015,Electronic Arts,2.93,3.29,0.22,1.23,7.67
+94,Call of Duty: Advanced Warfare,PS4,2014,Activision,2.8,3.3,0.14,1.37,7.6
+99,Call of Duty: World at War,X360,2008,Activision,4.79,1.9,0,0.69,7.37
+100,Battlefield 3,X360,2011,Electronic Arts,4.46,2.13,0.06,0.69,7.34
+102,Call of Duty: Black Ops 3,XOne,2015,Activision,4.52,2.09,0.01,0.67,7.3
+104,Battlefield 3,PS3,2011,Electronic Arts,2.85,2.93,0.35,1.1,7.23
+115,Medal of Honor: Frontline,PS2,2002,Electronic Arts,2.93,2.75,0.17,0.99,6.83
+119,Gears of War 2,X360,2008,Microsoft Game Studios,4.15,1.92,0.06,0.64,6.76
+121,Call of Duty 4: Modern Warfare,PS3,2007,Activision,3.1,2.3,0.28,1.04,6.72
+130,Halo: Combat Evolved,XB,2001,Microsoft Game Studios,4.98,1.3,0.08,0.07,6.43
+134,Halo 3: ODST,X360,2009,Microsoft Game Studios,4.34,1.35,0.06,0.61,6.36
+141,Gears of War 3,X360,2011,Microsoft Game Studios,4.05,1.62,0.07,0.49,6.24
+142,Gears of War,X360,2006,Microsoft Game Studios,3.54,1.9,0.07,0.6,6.11
+155,Destiny,PS4,2014,Activision,2.49,2.05,0.16,0.96,5.65
+167,Call of Duty: World at War,PS3,2008,Activision,2.72,1.87,0,0.84,5.43
+191,Medal of Honor: Rising Sun,PS2,2003,Electronic Arts,1.98,2.23,0.13,0.8,5.13
+194,Call of Duty: Advanced Warfare,XOne,2014,Activision,3.21,1.53,0.01,0.38,5.13
+207,Link's Crossbow Training,Wii,2007,Nintendo,3.06,1.18,0.29,0.46,5
+236,Splatoon,WiiU,2015,Nintendo,1.55,1.15,1.44,0.43,4.57
+245,Call of Duty: Advanced Warfare,PS3,2014,Activision,1.54,1.94,0.19,0.77,4.45
+254,Resistance: Fall of Man,PS3,2006,Sony Computer Entertainment,1.73,1.73,0.14,0.75,4.35
+258,Call of Duty: Advanced Warfare,X360,2014,Activision,2.75,1.18,0,0.37,4.31
+259,Asteroids,2600,1980,Atari,4,0.26,0,0.05,4.31
+261,Halo 5: Guardians,XOne,2015,Microsoft Game Studios,2.64,1.2,0.03,0.39,4.26
+272,Uncharted 4: A Thief's End,PS4,2016,Sony Computer Entertainment,1.3,2.07,0.18,0.65,4.2
+282,Half-Life,PC,1997,Vivendi Games,4.03,0,0.09,0,4.12
+296,Far Cry 4,PS4,2014,Ubisoft,1.12,2.12,0.1,0.69,4.03
+297,Star Fox 64,N64,1997,Nintendo,2.78,0.58,0.64,0.04,4.03
+302,Left 4 Dead 2,X360,2009,Electronic Arts,2.67,0.89,0.05,0.37,3.99
+337,Battlefield 4,PS3,2013,Electronic Arts,1.3,1.51,0.27,0.61,3.69
+343,SOCOM: U.S. Navy SEALs,PS2,2002,Sony Computer Entertainment,2.53,0.81,0.06,0.24,3.65
+350,Call of Duty: Ghosts,PS4,2013,Activision,1.78,1.42,0.05,0.38,3.63

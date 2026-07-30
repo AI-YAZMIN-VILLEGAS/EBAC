@@ -1,0 +1,51 @@
+Rank,Name,Platform,Year,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+991,The SpongeBob SquarePants Movie,PS2,2004,THQ,1.06,0.54,0,0.16,1.76
+993,Sonic the Hedgehog 3,GEN,1994,Sega,1.02,0.47,0.2,0.07,1.76
+994,Kid Icarus,NES,1986,Nintendo,0.53,0.12,1.09,0.02,1.76
+1011,Disney's Aladdin,SNES,1993,Capcom,0.94,0.34,0.21,0.27,1.75
+1012,Kirby's Adventure,NES,1993,Nintendo,0.79,0.14,0.8,0.02,1.75
+1021,Sonic Colors,Wii,2010,Sega,0.96,0.61,0.01,0.16,1.74
+1032,Crash Bandicoot: The Huge Adventure,GBA,2002,Universal Interactive,0.95,0.7,0,0.08,1.73
+1044,Toy Story 2: Buzz Lightyear to the Rescue!,PS,1998,Activision,0.99,0.64,0,0.08,1.71
+1055,Kirby's Return to Dreamland,Wii,2011,Nintendo,0.62,0.21,0.79,0.08,1.7
+1089,Knack,PS4,2013,Sony Computer Entertainment Europe,0.43,0.67,0.42,0.15,1.67
+1091,Disney's DuckTales,NES,1989,Capcom,0.91,0.3,0.42,0.04,1.67
+1098,SpongeBob SquarePants: Battle for Bikini Bottom,PS2,2003,THQ,1.08,0.45,0,0.14,1.67
+1115,Kirby & the Amazing Mirror,GBA,2004,Nintendo,0.8,0.05,0.76,0.03,1.64
+1129,Sonic Generations,PS3,2011,Sega,0.6,0.73,0.02,0.28,1.63
+1131,Ape Escape,PS,1999,Sony Computer Entertainment,0.71,0.48,0.32,0.11,1.63
+1159,Sonic Heroes,GC,2003,Sega,1.05,0.44,0.06,0.04,1.6
+1165,Mario Bros.,2600,1982,Atari,1.48,0.09,0,0.02,1.59
+1181,Spyro 2: Season of Flame,GBA,2002,Vivendi Games,0.85,0.65,0,0.08,1.58
+1189,Donkey Kong Classics,NES,1988,Nintendo,0.59,0.14,0.81,0.02,1.56
+1229,Donkey Kong Country: Tropical Freeze,WiiU,2014,Nintendo,0.73,0.52,0.15,0.12,1.52
+1262,Ice Climber,NES,1985,Nintendo,0.46,0.1,0.92,0.02,1.5
+1263,Sonic CD,SCD,1993,Sega,1,0.36,0.09,0.05,1.5
+1264,Ninja Hattori Kun: Ninja wa Shuugyou Degogiru no Maki,NES,1986,Hudson Soft,0,0,1.5,0,1.5
+1273,Banjo-Tooie,N64,2000,Nintendo,0.82,0.36,0.25,0.06,1.49
+1282,Wario Land II,GB,1997,Nintendo,0.7,0.35,0.39,0.04,1.48
+1291,Disney Princess,GBA,2003,THQ,1.04,0.37,0,0.06,1.47
+1298,LittleBigPlanet PS Vita,PSV,2012,Sony Computer Entertainment,0.4,0.72,0.02,0.33,1.47
+1300,The SpongeBob SquarePants Movie,GBA,2004,THQ,1.02,0.38,0,0.06,1.46
+1304,Wall-E,DS,2008,THQ,0.46,0.83,0,0.17,1.46
+1308,Donkey Kong,2600,1981,Coleco,1.36,0.08,0,0.02,1.46
+1316,LEGO City Undercover,3DS,2013,Nintendo,0.51,0.75,0.07,0.12,1.46
+1338,Kirby Super Star,SNES,1996,Nintendo,0.26,0.07,1.09,0.02,1.44
+1352,Disney's DuckTales,GB,1988,Capcom,0.82,0.23,0.35,0.03,1.43
+1353,Classic NES Series: Super Mario Bros.,GBA,2004,Nintendo,0,0,1.39,0.03,1.43
+1361,Sonic Generations,X360,2011,Sega,0.71,0.57,0,0.14,1.42
+1374,Disney's The Lion King,GEN,1994,Virgin Interactive,0.97,0.37,0.03,0.05,1.41
+1386,Sonic Advance 3,GBA,2004,THQ,0.74,0.52,0.08,0.06,1.4
+1420,Sonic Colors,DS,2010,Sega,0.74,0.5,0.01,0.13,1.37
+1426,Crash Bandicoot 2: N-Tranced,GBA,2003,Vivendi Games,0.63,0.66,0,0.07,1.36
+1432,Yoshi's New Island,3DS,2014,Nintendo,0.47,0.51,0.28,0.09,1.36
+1462,Donkey Kong Jungle Beat,GC,2004,Nintendo,0.84,0.22,0.24,0.04,1.34
+1468,Ratchet & Clank: Up Your Arsenal (Weekly american sales),PS2,2004,Sony Computer Entertainment,1.27,0.05,0,0.02,1.33
+1471,Skylanders SWAP Force,X360,2013,Activision,0.86,0.36,0,0.11,1.33
+1507,Madagascar,PS2,2005,Activision,0.78,0.45,0,0.07,1.31
+1510,Pitfall II: Lost Caverns,2600,1983,Activision,1.22,0.07,0,0.02,1.31
+1528,Yoshi's Woolly World,WiiU,2015,Nintendo,0.61,0.47,0.11,0.1,1.29
+1534,Pirates of the Caribbean: The Curse of the Black Pearl,GBA,2003,TDK Mediactive,0.93,0.34,0,0.02,1.29
+1553,Castlevania: Symphony of the Night,PS,1997,Konami Digital Entertainment,0.58,0.4,0.21,0.08,1.27
+1567,Sonic Adventure DX: Director's Cut,GC,2003,Sega,0.87,0.3,0.06,0.03,1.27
+1606,Oddworld: Abe's Oddysee,PS,1997,GT Interactive,0.75,0.44,0,0.06,1.24

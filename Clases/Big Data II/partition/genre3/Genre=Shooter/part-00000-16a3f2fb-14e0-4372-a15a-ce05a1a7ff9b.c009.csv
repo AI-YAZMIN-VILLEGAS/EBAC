@@ -1,0 +1,51 @@
+Rank,Name,Platform,Year,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+4101,Dark Sector,X360,2008,D3Publisher,0.22,0.2,0.01,0.05,0.48
+4102,James Bond 007: Blood Stone,X360,2010,Activision,0.2,0.24,0,0.05,0.48
+4150,Alien Trilogy,PS,1996,Acclaim Entertainment,0.24,0.16,0.04,0.03,0.47
+4154,Dark Sector,PS3,2008,D3Publisher,0.23,0.16,0.01,0.07,0.47
+4155,Unreal Tournament III,X360,2008,Midway Games,0.25,0.17,0.01,0.05,0.47
+4192,Doom 64,N64,1997,Midway Games,0.38,0.08,0,0.01,0.47
+4229,Iridion 3D,GBA,2001,THQ,0.33,0.12,0,0.01,0.46
+4232,Destroy All Humans!,XB,2005,THQ,0.34,0.11,0,0.02,0.46
+4238,F.E.A.R. 3,PS3,2011,Warner Bros. Interactive Entertainment,0.21,0.17,0.01,0.07,0.46
+4241,Syphon Filter: Logan's Shadow,PSP,2007,Sony Computer Entertainment,0.25,0.12,0,0.09,0.46
+4246,Wolfenstein: The New Order,PC,2014,Bethesda Softworks,0.12,0.29,0,0.05,0.46
+4247,"Warhammer 40,000: Space Marine",PS3,2011,THQ,0.13,0.25,0,0.09,0.46
+4254,Brothers In Arms: Earned in Blood,PS2,2005,Ubisoft,0.38,0.01,0,0.06,0.46
+4261,Brothers In Arms: D-Day,PSP,2006,Ubisoft,0.23,0.14,0,0.09,0.46
+4266,Brothers In Arms: Road to Hill 30,PS2,2005,Ubisoft,0.38,0.01,0,0.06,0.46
+4291,Delta Force: Black Hawk Down,PS2,2005,NovaLogic,0.22,0.17,0,0.06,0.46
+4295,Space Invaders,SNES,1994,Taito,0,0,0.46,0,0.46
+4307,Red Faction: Armageddon,PS3,2011,THQ,0.2,0.16,0.03,0.07,0.46
+4315,Missile Command,PS,1999,Atari,0.25,0.17,0,0.03,0.45
+4329,Resistance: Burning Skies,PSV,2012,Sony Computer Entertainment,0.21,0.16,0.02,0.07,0.45
+4332,The Chronicles of Riddick: Escape from Butcher Bay,XB,N/A,Vivendi Games,0.32,0.11,0,0.02,0.45
+4338,Enemy Territory: Quake Wars,X360,2008,Activision,0.3,0.11,0,0.04,0.45
+4341,Area 51,PS2,2005,Midway Games,0.22,0.17,0,0.06,0.45
+4346,Star Wars Jedi Knight: Jedi Academy,XB,2003,Activision,0.34,0.1,0,0.02,0.45
+4350,F.E.A.R. 3,X360,2011,Warner Bros. Interactive Entertainment,0.3,0.11,0.01,0.04,0.45
+4352,Plants vs. Zombies: Garden Warfare 2,PS4,2016,Electronic Arts,0.17,0.21,0,0.07,0.45
+4384,SOCOM: U.S. Navy SEALs Fireteam Bravo 3,PSP,2010,Sony Computer Entertainment,0.17,0.13,0.06,0.08,0.45
+4395,Defender II,2600,1987,Atari,0.42,0.02,0,0,0.45
+4412,Payday 2,PS3,2013,505 Games,0.21,0.15,0,0.08,0.44
+4432,Plants vs. Zombies: Garden Warfare 2,XOne,2016,Electronic Arts,0.26,0.15,0,0.04,0.44
+4435,Battlefield 2: Modern Combat,PS2,2005,Electronic Arts,0.37,0.01,0,0.06,0.44
+4440,Independence Day,PS,1997,Fox Interactive,0.25,0.17,0,0.03,0.44
+4444,Child of Eden,X360,2011,Ubisoft,0.28,0.12,0,0.04,0.44
+4448,The Darkness,X360,2007,Take-Two Interactive,0.36,0.04,0.01,0.04,0.44
+4449,Gundam SEED: Federation vs. Z.A.F.T.,PS2,2005,Namco Bandai Games,0,0,0.44,0,0.44
+4454,Duke Nukem 64,N64,1997,GT Interactive,0.35,0.08,0,0.01,0.44
+4455,Sin and Punishment: Star Successor,Wii,2009,Nintendo,0.2,0.14,0.06,0.04,0.44
+4476,TimeSplitters 2,GC,2002,Eidos Interactive,0.34,0.09,0,0.01,0.44
+4502,Spec Ops: Covert Assault,PS,2001,Take-Two Interactive,0.24,0.16,0,0.03,0.43
+4511,Overwatch,PC,2016,Activision,0.22,0.18,0,0.04,0.43
+4518,TimeSplitters,PS2,2000,Eidos Interactive,0.21,0.17,0,0.06,0.43
+4527,Spec Ops: The Line,X360,2012,Take-Two Interactive,0.21,0.19,0,0.04,0.43
+4535,Max Payne 3,PC,2012,Take-Two Interactive,0.15,0.22,0,0.06,0.43
+4556,Call of Duty: Black Ops II,WiiU,2012,Activision,0.21,0.18,0,0.03,0.43
+4559,Call of Duty: Modern Warfare: Mobilized,DS,2009,Activision,0.37,0.02,0,0.03,0.43
+4578,25 to Life,PS2,2006,Eidos Interactive,0.35,0.01,0,0.06,0.42
+4580,Medal of Honor: Rising Sun,GC,2003,Electronic Arts,0.33,0.09,0,0.01,0.42
+4592,Medal of Honor Heroes 2,Wii,2007,Electronic Arts,0.34,0.04,0.01,0.04,0.42
+4610,Vanquish,X360,2010,Sega,0.19,0.17,0.03,0.04,0.42
+4627,Army Men: Sarge's Heroes 2,N64,2000,3DO,0.34,0.07,0,0,0.42

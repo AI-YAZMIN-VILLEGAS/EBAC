@@ -1,0 +1,102 @@
+Rank,Name,Platform,Year,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+749,ATV Offroad Fury 2,PS2,2002,1.92,0.2,0,0.06,2.18
+901,MX Unleashed,PS2,2004,0.94,0.73,0,0.25,1.92
+1643,Cars,PSP,2006,0.72,0.29,0,0.21,1.22
+1653,Cars,PS2,2006,1.01,0.04,0,0.16,1.21
+1691,The Simpsons: Road Rage,GBA,2003,0.86,0.32,0,0.02,1.19
+1807,Cars,GBA,2006,0.81,0.3,0,0.02,1.13
+2015,MX vs. ATV Unleashed,PS2,2005,0.86,0.03,0,0.14,1.03
+2094,Cars: Race-O-Rama,Wii,2009,0.61,0.3,0,0.09,0.99
+2106,Cars,DS,2006,0.85,0.05,0,0.08,0.98
+2203,Cars,Wii,2006,0.83,0.04,0,0.07,0.94
+2233,Crash City Mayhem,GBA,2004,0.67,0.25,0,0.02,0.93
+2241,Cars,GC,2006,0.72,0.19,0,0.03,0.93
+2286,MX vs. ATV Reflex,PS3,2009,0.52,0.26,0,0.12,0.91
+2821,MX vs. ATV Reflex,X360,2009,0.52,0.15,0,0.06,0.73
+2954,MX vs. ATV Unleashed: On the Edge,PSP,2006,0.64,0,0,0.05,0.69
+2968,MX vs. ATV Untamed,X360,2007,0.55,0.08,0,0.06,0.69
+2997,Cars: Mater-National Championship,DS,2007,0.63,0.01,0,0.05,0.68
+3125,MX vs. ATV Untamed,PSP,2007,0.35,0.18,0,0.12,0.65
+3154,Stuntman: Ignition,X360,2007,0.25,0.32,0,0.07,0.64
+3191,Juiced 2: Hot Import Nights,X360,2007,0.22,0.34,0,0.07,0.63
+3385,Hot Wheels: Stunt Track Challenge,PS2,2004,0.29,0.23,0,0.08,0.59
+3482,Championship Motocross featuring Ricky Carmichael,PS,1998,0.32,0.22,0,0.04,0.58
+3624,MX 2002 Featuring Ricky Carmichael,PS2,2001,0.27,0.21,0,0.07,0.56
+3628,MX vs. ATV: Alive,X360,2011,0.37,0.14,0,0.05,0.56
+3806,Stuntman: Ignition,PS3,2007,0.17,0.26,0,0.1,0.53
+3811,Juiced,PS2,2005,0.26,0.2,0,0.07,0.53
+4003,SplashDown: Rides Gone Wild,PS2,2003,0.24,0.19,0,0.06,0.5
+4020,Cars Mater-National Championship,Wii,2007,0.46,0,0,0.04,0.49
+4145,Cars: Race-O-Rama,DS,2009,0.35,0.09,0,0.04,0.48
+4178,Hot Wheels Velocity X,PS2,2002,0.23,0.18,0,0.06,0.47
+4210,Cars: Race-O-Rama,PS2,2009,0.27,0.03,0,0.17,0.47
+4219,MX vs. ATV: Alive,PS3,2011,0.24,0.15,0,0.07,0.47
+4230,MX vs. ATV Untamed,PS3,2007,0.35,0.06,0,0.05,0.46
+4378,Hot Wheels: Stunt Track Challenge,GBA,2004,0.32,0.12,0,0.01,0.45
+4464,MX Unleashed,XB,2004,0.34,0.08,0,0.02,0.44
+4567,Juiced: Eliminator,PSP,2006,0.11,0.2,0,0.12,0.43
+4605,Hot Wheels World Race,PS2,2003,0.21,0.16,0,0.05,0.42
+4692,Cars: Mater-National Championship,PS3,2007,0.37,0.01,0,0.03,0.41
+4725,Cars: Race-O-Rama,PSP,2009,0.29,0.07,0,0.06,0.41
+4844,MX vs. ATV Unleashed,XB,2005,0.32,0.07,0,0.01,0.4
+4885,Juiced 2: Hot Import Nights,PS2,2007,0.19,0.15,0.01,0.05,0.39
+5048,MX vs. ATV Untamed,PS2,2007,0.32,0.01,0,0.05,0.38
+5124,Juiced 2: Hot Import Nights,PSP,2007,0.06,0.2,0,0.11,0.37
+5295,WWE Crush Hour,PS2,2003,0.17,0.13,0,0.04,0.35
+5401,MX vs. ATV Untamed,Wii,2008,0.29,0.03,0,0.03,0.34
+5507,GT Advance Championship Racing,GBA,2001,0.24,0.09,0,0.01,0.33
+5890,Crazy Taxi: Catch a Ride,GBA,2003,0.21,0.08,0,0.01,0.3
+6172,MX SuperFly featuring Ricky Carmichael,PS2,2002,0.14,0.11,0,0.04,0.28
+6186,Hot Wheels: Track Attack,DS,2010,0.18,0.08,0,0.02,0.28
+6356,Stuntman: Ignition,PS2,2007,0.13,0.1,0,0.03,0.27
+6521,Juiced 2: Hot Import Nights,PS3,2007,0.18,0.04,0.01,0.03,0.26
+6651,Cars,X360,2006,0.22,0.02,0,0.02,0.25
+6682,MotoGP '07,X360,2007,0.23,0,0,0.02,0.25
+6742,Cars: Mater-National Championship,PS2,2007,0.12,0.09,0,0.03,0.25
+6866,MX vs. ATV Reflex,PSP,2009,0.18,0.03,0,0.03,0.24
+6872,Road Rash 64,N64,1999,0.19,0.05,0,0,0.24
+6885,Juiced 2: Hot Import Nights,DS,2007,0.22,0,0,0.02,0.24
+7346,Baja: Edge of Control,PS3,2008,0.1,0.08,0,0.04,0.21
+7584,Cars,XB,2006,0.15,0.04,0,0.01,0.2
+7640,Hot Wheels: Track Attack,Wii,2010,0.15,0.04,0,0.01,0.2
+7677,Baja: Edge of Control,X360,2008,0.12,0.06,0,0.02,0.2
+7846,Cars: Race-O-Rama,PS3,2009,0.14,0.03,0,0.02,0.19
+8122,World of Outlaws: Sprint Cars,X360,2010,0.17,0,0,0.01,0.18
+8171,Juiced,XB,2005,0.13,0.04,0,0.01,0.18
+8421,Matchbox Cross Town Heroes,GBA,2002,0.12,0.04,0,0,0.17
+8474,Hot Wheels Velocity X,GBA,2002,0.12,0.04,0,0,0.16
+8521,Hot Wheels World Race,GC,2003,0.13,0.03,0,0,0.16
+8591,Destruction Derby 64,N64,1999,0.13,0.03,0,0,0.16
+8684,MX 2002 Featuring Ricky Carmichael,GBA,2001,0.11,0.04,0,0,0.16
+8757,Cars: Race-O-Rama,X360,2009,0.14,0.01,0,0.01,0.15
+8985,Cars: Mater-National Championship,X360,2007,0.13,0,0,0.01,0.15
+9049,Championship Motocross 2001 featuring Ricky Carmichael,PS,2001,0.08,0.05,0,0.01,0.14
+9118,MX vs. ATV Reflex,DS,2009,0.13,0,0,0.01,0.14
+9132,Bravo Air Race,PS,1997,0.08,0.05,0,0.01,0.14
+9276,MotoGP '06,X360,2006,0.11,0.01,0,0.01,0.14
+9289,Hot Wheels: World Race,GBA,2003,0.1,0.04,0,0,0.14
+9397,Castrol Honda Superbike Racing,PS,1998,0.07,0.05,0,0.01,0.13
+9460,MX 2002 Featuring Ricky Carmichael,XB,2001,0.1,0.03,0,0,0.13
+9660,Monster Truck Madness,GBA,2003,0.09,0.03,0,0,0.12
+9833,2 Games in 1 Double Pack: Hot Wheels Velocity X / Hot Wheels World Race,GBA,2005,0.09,0.03,0,0,0.12
+9836,MX vs. ATV Untamed,DS,2007,0.11,0,0,0.01,0.12
+9998,GT Advance 2: Rally Racing,GBA,2001,0.08,0.03,0,0,0.11
+10153,Hot Wheels Velocity X,GC,2002,0.09,0.02,0,0,0.11
+10453,Banjo-Pilot,GBA,2005,0.07,0.03,0,0,0.1
+10534,Hot Wheels: Stunt Track Challenge,XB,2004,0.08,0.02,0,0,0.1
+10777,MotoGP 2,XB,2003,0.07,0.02,0,0,0.1
+10808,MX SuperFly featuring Ricky Carmichael,XB,2002,0.07,0.02,0,0,0.1
+10874,MotoGP,XB,2002,0.07,0.02,0,0,0.09
+10988,MX SuperFly featuring Ricky Carmichael,GC,2002,0.07,0.02,0,0,0.09
+11635,WWE Crush Hour,GC,2003,0.06,0.02,0,0,0.08
+11669,GT Advance 3: Pro Concept Racing,GBA,2002,0.05,0.02,0,0,0.08
+11882,Circus Maximus: Chariot Wars,XB,2002,0.05,0.02,0,0,0.07
+12043,Sprint Cars: Road to Knoxville,PS2,2005,0.03,0.03,0,0.01,0.07
+12248,Hot Wheels: Burnin' Rubber,GBA,2001,0.05,0.02,0,0,0.06
+12510,Penny Racers,N64,1998,0.05,0.01,0,0,0.06
+12775,MotoGP,GBA,2002,0.04,0.01,0,0,0.06
+13453,Short Track Racing: Trading Paint,PS2,2009,0.02,0.02,0,0.01,0.05
+14080,NHRA Drag Racing: Countdown to the Championship,PS2,2007,0.02,0.01,0,0,0.04
+14133,NHRA Drag Racing: Countdown to the Championship,PSP,2007,0.03,0,0,0,0.03
+14883,Drome Racers,GBA,2003,0.02,0.01,0,0,0.03
+16355,Juiced 2: Hot Import Nights,PC,2007,0,0.01,0,0,0.01
