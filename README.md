@@ -50,7 +50,7 @@ The main project analyzes a consumer-products sales dataset composed of a fact t
 The analysis indicates a strong concentration of revenue in the BLEACH segment and in the TOTAL AUTOS SCANNING MEXICO region. Sales vary considerably across observations, suggesting that price, package size, promotions, and product mix may influence revenue in addition to volume. The ARIMA model did not identify a sustained trend or strong seasonality for the leading product; its longer-term forecast therefore converges toward approximately 333 units per month.
 
 ## Selected Visualizations
-
+<!--
 ### Monthly Sales Trend
 
 ![Monthly sales trend](Proyecto/tendencia_ventas_tiempo.png)
@@ -58,7 +58,7 @@ The analysis indicates a strong concentration of revenue in the BLEACH segment a
 ### Revenue by Segment
 
 ![Revenue by segment](Proyecto/facturacion_por_segmento.png)
-
+-->
 ### Top 10 Products
 
 ![Top 10 products](Proyecto/top10_productos.png)
